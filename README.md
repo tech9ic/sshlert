@@ -6,11 +6,13 @@
 ╚════██║██╔══██║██╔══██║██║     ██╔══╝  ██╔══██╗   ██║   
 ███████║██║  ██║██║  ██║███████╗███████╗██║  ██║   ██║   
 ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝   ╚═╝   
-by NeRDs — **Ne**twork **R**isk **D**efender**s**
+
+  by NeRDs — **Ne**twork **R**isk **D**efender**s**
 </pre>
 </div>
 
-
+<div align="center">
+  
 **Alert Correlation & Noise Reduction for Network Operations**
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -28,9 +30,7 @@ by NeRDs — **Ne**twork **R**isk **D**efender**s**
 <!-- ![Dashboard UI](path/to/image.png)             -->
 <!-- ============================================== -->
 
----
 
-## Overview
 
 Shhlert is a Proof of Concept (POC) Network Operations Center (NOC) dashboard engine. It aggressively reduces **network noise** by ingesting thousands of raw syslogs and applying pure Python logic to deduplicate, correlate, and surface the true underlying root cause of every incident.
 
