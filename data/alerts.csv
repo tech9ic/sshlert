@@ -1,0 +1,2012 @@
+device_id,timestamp,alert_type,severity,message
+Router-1,2026-04-18 18:43:40,Interface Down,Critical,Peer adjacency failed
+Router-1,2026-04-18 18:43:40,High Latency,Warning,Secondary network degradation
+Router-1,2026-04-18 18:43:40,High Latency,Warning,Secondary network degradation
+Router-1,2026-04-18 18:43:40,Packet Loss,Minor,Secondary network degradation
+Router-1,2026-04-18 18:43:40,Packet Loss,Minor,Secondary network degradation
+Switch-1,2026-04-18 18:43:43,License Expiry,Warning,Routine telemetry scan
+Switch-3,2026-04-18 18:43:46,Interface Down,Critical,Uplink trunk disconnected
+Switch-3,2026-04-18 18:43:46,Port Flapping,Warning,Link instability detected
+Switch-3,2026-04-18 18:43:46,Packet Loss,Minor,Link instability detected
+Server-App1,2026-04-18 18:43:49,Memory Utilization High,Info,Routine telemetry scan
+Server-App1,2026-04-18 18:43:52,CPU High,Info,Routine telemetry scan
+Switch-2,2026-04-18 18:43:55,License Expiry,Warning,Routine telemetry scan
+Router-1,2026-04-18 18:43:58,Packet Loss,Info,Routine telemetry scan
+Server-DB1,2026-04-18 18:44:01,CPU High,Info,Routine telemetry scan
+Switch-1,2026-04-18 18:44:04,License Expiry,Warning,Routine telemetry scan
+Server-App3,2026-04-18 18:44:07,CPU High,Info,Routine telemetry scan
+Server-App2,2026-04-18 18:44:10,CPU High,Info,Routine telemetry scan
+Server-App2,2026-04-18 18:44:13,CPU High,Info,Routine telemetry scan
+Switch-4,2026-04-18 18:44:16,Port Flapping,Info,Routine telemetry scan
+Switch-4,2026-04-18 18:44:19,Port Flapping,Info,Routine telemetry scan
+Server-DB1,2026-04-18 18:44:22,Memory Utilization High,Info,Routine telemetry scan
+Router-1,2026-04-18 18:44:25,Packet Loss,Info,Routine telemetry scan
+Router-1,2026-04-18 18:44:28,High Latency,Info,Routine telemetry scan
+Switch-4,2026-04-18 18:44:31,Port Flapping,Info,Routine telemetry scan
+Server-App3,2026-04-18 18:44:34,Memory Utilization High,Info,Routine telemetry scan
+Server-App2,2026-04-18 18:44:37,Application Crash,Critical,Hardware boundary breached
+Server-App2,2026-04-18 18:44:37,High Latency,Warning,Process starving for resources
+Server-App2,2026-04-18 18:44:37,Database Disconnect,Minor,Process starving for resources
+Switch-3,2026-04-18 18:44:40,License Expiry,Warning,Routine telemetry scan
+Server-App1,2026-04-18 18:44:43,Memory Utilization High,Info,Routine telemetry scan
+Server-App2,2026-04-18 18:44:46,Disk Space Exhausted,Critical,Hardware boundary breached
+Server-App2,2026-04-18 18:44:46,High Latency,Warning,Process starving for resources
+Server-App2,2026-04-18 18:44:46,Database Disconnect,Minor,Process starving for resources
+Server-App2,2026-04-18 18:44:46,High Latency,Warning,Process starving for resources
+Server-App1,2026-04-18 18:44:49,Memory Utilization High,Info,Routine telemetry scan
+Server-DB1,2026-04-18 18:44:52,Memory Utilization High,Info,Routine telemetry scan
+Switch-1,2026-04-18 18:44:55,Port Flapping,Info,Routine telemetry scan
+Router-3,2026-04-18 18:44:58,High Latency,Info,Routine telemetry scan
+Switch-3,2026-04-18 18:45:01,Port Flapping,Info,Routine telemetry scan
+Switch-4,2026-04-18 18:45:04,Port Flapping,Info,Routine telemetry scan
+Router-1,2026-04-18 18:45:07,Packet Loss,Info,Routine telemetry scan
+Server-App3,2026-04-18 18:45:10,Memory Utilization High,Info,Routine telemetry scan
+Server-App3,2026-04-18 18:45:13,Disk Space Exhausted,Critical,Hardware boundary breached
+Server-App3,2026-04-18 18:45:13,High Latency,Warning,Process starving for resources
+Server-App3,2026-04-18 18:45:13,High Latency,Warning,Process starving for resources
+Server-App3,2026-04-18 18:45:13,High Latency,Warning,Process starving for resources
+Router-3,2026-04-18 18:45:16,High Latency,Info,Routine telemetry scan
+Switch-3,2026-04-18 18:45:19,License Expiry,Warning,Routine telemetry scan
+Server-App1,2026-04-18 18:45:22,Memory Utilization High,Info,Routine telemetry scan
+Router-2,2026-04-18 18:45:25,High Latency,Info,Routine telemetry scan
+Server-App3,2026-04-18 18:45:28,Memory Utilization High,Info,Routine telemetry scan
+Server-DB1,2026-04-18 18:45:31,Memory Utilization High,Info,Routine telemetry scan
+Router-3,2026-04-18 18:45:34,Packet Loss,Info,Routine telemetry scan
+Switch-4,2026-04-18 18:45:37,Interface Down,Critical,Uplink trunk disconnected
+Switch-4,2026-04-18 18:45:37,Port Flapping,Warning,Link instability detected
+Switch-4,2026-04-18 18:45:37,Packet Loss,Minor,Link instability detected
+Server-App3,2026-04-18 18:45:40,Memory Utilization High,Info,Routine telemetry scan
+Switch-4,2026-04-18 18:45:43,Port Flapping,Info,Routine telemetry scan
+Switch-1,2026-04-18 18:45:46,Port Flapping,Info,Routine telemetry scan
+Switch-2,2026-04-18 18:45:49,Interface Down,Critical,Uplink trunk disconnected
+Switch-2,2026-04-18 18:45:49,Port Flapping,Warning,Link instability detected
+Switch-2,2026-04-18 18:45:49,Packet Loss,Minor,Link instability detected
+Router-3,2026-04-18 18:45:52,High Latency,Info,Routine telemetry scan
+Server-App3,2026-04-18 18:45:55,Memory Utilization High,Info,Routine telemetry scan
+Server-DB1,2026-04-18 18:45:58,Application Crash,Critical,Hardware boundary breached
+Server-DB1,2026-04-18 18:45:58,Database Disconnect,Minor,Process starving for resources
+Server-DB1,2026-04-18 18:45:58,High Latency,Warning,Process starving for resources
+Server-DB1,2026-04-18 18:45:58,Memory Utilization High,Warning,Process starving for resources
+Switch-2,2026-04-18 18:46:01,License Expiry,Warning,Routine telemetry scan
+Router-1,2026-04-18 18:46:04,High Latency,Info,Routine telemetry scan
+Switch-4,2026-04-18 18:46:07,License Expiry,Warning,Routine telemetry scan
+Switch-2,2026-04-18 18:46:10,Interface Down,Critical,Uplink trunk disconnected
+Switch-2,2026-04-18 18:46:10,Packet Loss,Minor,Link instability detected
+Switch-2,2026-04-18 18:46:10,Packet Loss,Minor,Link instability detected
+Switch-2,2026-04-18 18:46:10,Packet Loss,Minor,Link instability detected
+Switch-1,2026-04-18 18:46:13,License Expiry,Warning,Routine telemetry scan
+Server-DB1,2026-04-18 18:46:16,CPU High,Major,Hardware boundary breached
+Server-DB1,2026-04-18 18:46:16,High Latency,Warning,Process starving for resources
+Server-DB1,2026-04-18 18:46:16,High Latency,Warning,Process starving for resources
+Server-DB1,2026-04-18 18:46:16,High Latency,Warning,Process starving for resources
+Router-1,2026-04-18 18:46:19,Interface Down,Critical,Peer adjacency failed
+Router-1,2026-04-18 18:46:19,Packet Loss,Minor,Secondary network degradation
+Router-1,2026-04-18 18:46:19,Packet Loss,Minor,Secondary network degradation
+Server-App2,2026-04-18 18:46:22,Application Crash,Critical,Hardware boundary breached
+Server-App2,2026-04-18 18:46:22,Database Disconnect,Minor,Process starving for resources
+Server-App2,2026-04-18 18:46:22,Memory Utilization High,Warning,Process starving for resources
+Server-App2,2026-04-18 18:46:22,Memory Utilization High,Warning,Process starving for resources
+Router-1,2026-04-18 18:46:25,OSPF Down,Major,Peer adjacency failed
+Router-1,2026-04-18 18:46:25,High Latency,Warning,Secondary network degradation
+Router-1,2026-04-18 18:46:25,Packet Loss,Minor,Secondary network degradation
+Router-3,2026-04-18 18:46:28,Packet Loss,Info,Routine telemetry scan
+Server-DB1,2026-04-18 18:46:31,Memory Utilization High,Info,Routine telemetry scan
+Server-App2,2026-04-18 18:46:34,CPU High,Info,Routine telemetry scan
+Switch-4,2026-04-18 18:46:37,Interface Down,Critical,Uplink trunk disconnected
+Switch-4,2026-04-18 18:46:37,Port Flapping,Warning,Link instability detected
+Switch-4,2026-04-18 18:46:37,Packet Loss,Minor,Link instability detected
+Server-App1,2026-04-18 18:46:40,Application Crash,Critical,Hardware boundary breached
+Server-App1,2026-04-18 18:46:40,High Latency,Warning,Process starving for resources
+Server-App1,2026-04-18 18:46:40,Database Disconnect,Minor,Process starving for resources
+Server-App1,2026-04-18 18:46:40,Memory Utilization High,Warning,Process starving for resources
+Server-App1,2026-04-18 18:46:40,Database Disconnect,Minor,Process starving for resources
+Router-3,2026-04-18 18:46:43,Packet Loss,Info,Routine telemetry scan
+Router-1,2026-04-18 18:46:46,Packet Loss,Info,Routine telemetry scan
+Switch-3,2026-04-18 18:46:49,License Expiry,Warning,Routine telemetry scan
+Server-App2,2026-04-18 18:46:52,CPU High,Info,Routine telemetry scan
+Server-App3,2026-04-18 18:46:55,Memory Utilization High,Info,Routine telemetry scan
+Server-App3,2026-04-18 18:46:58,Memory Utilization High,Info,Routine telemetry scan
+Switch-2,2026-04-18 18:47:01,License Expiry,Warning,Routine telemetry scan
+Server-App2,2026-04-18 18:47:04,Application Crash,Critical,Hardware boundary breached
+Server-App2,2026-04-18 18:47:04,Database Disconnect,Minor,Process starving for resources
+Server-App2,2026-04-18 18:47:04,High Latency,Warning,Process starving for resources
+Server-App1,2026-04-18 18:47:07,Memory Utilization High,Info,Routine telemetry scan
+Switch-4,2026-04-18 18:47:10,Port Flapping,Info,Routine telemetry scan
+Router-1,2026-04-18 18:47:13,Packet Loss,Info,Routine telemetry scan
+Server-DB1,2026-04-18 18:47:16,CPU High,Info,Routine telemetry scan
+Router-3,2026-04-18 18:47:19,Packet Loss,Info,Routine telemetry scan
+Router-3,2026-04-18 18:47:22,High Latency,Info,Routine telemetry scan
+Router-2,2026-04-18 18:47:25,Packet Loss,Info,Routine telemetry scan
+Server-App1,2026-04-18 18:47:28,Memory Utilization High,Info,Routine telemetry scan
+Server-App2,2026-04-18 18:47:31,CPU High,Info,Routine telemetry scan
+Router-2,2026-04-18 18:47:34,High Latency,Info,Routine telemetry scan
+Server-App1,2026-04-18 18:47:37,CPU High,Info,Routine telemetry scan
+Router-1,2026-04-18 18:47:40,Interface Down,Critical,Peer adjacency failed
+Router-1,2026-04-18 18:47:40,High Latency,Warning,Secondary network degradation
+Router-1,2026-04-18 18:47:40,Packet Loss,Minor,Secondary network degradation
+Router-1,2026-04-18 18:47:40,High Latency,Warning,Secondary network degradation
+Router-1,2026-04-18 18:47:40,Packet Loss,Minor,Secondary network degradation
+Router-3,2026-04-18 18:47:43,Packet Loss,Info,Routine telemetry scan
+Switch-4,2026-04-18 18:47:46,License Expiry,Warning,Routine telemetry scan
+Switch-3,2026-04-18 18:47:49,License Expiry,Warning,Routine telemetry scan
+Server-App2,2026-04-18 18:47:52,CPU High,Info,Routine telemetry scan
+Switch-1,2026-04-18 18:47:55,Port Flapping,Info,Routine telemetry scan
+Switch-3,2026-04-18 18:47:58,Port Flapping,Info,Routine telemetry scan
+Switch-3,2026-04-18 18:48:01,Interface Down,Critical,Uplink trunk disconnected
+Switch-3,2026-04-18 18:48:01,Port Flapping,Warning,Link instability detected
+Switch-3,2026-04-18 18:48:01,Port Flapping,Warning,Link instability detected
+Switch-3,2026-04-18 18:48:01,Port Flapping,Warning,Link instability detected
+Server-App2,2026-04-18 18:48:04,CPU High,Major,Hardware boundary breached
+Server-App2,2026-04-18 18:48:04,Database Disconnect,Minor,Process starving for resources
+Server-App2,2026-04-18 18:48:04,High Latency,Warning,Process starving for resources
+Server-App2,2026-04-18 18:48:04,Database Disconnect,Minor,Process starving for resources
+Server-App2,2026-04-18 18:48:04,High Latency,Warning,Process starving for resources
+Switch-4,2026-04-18 18:48:07,Port Flapping,Info,Routine telemetry scan
+Router-2,2026-04-18 18:48:10,OSPF Down,Major,Peer adjacency failed
+Router-2,2026-04-18 18:48:10,High Latency,Warning,Secondary network degradation
+Router-2,2026-04-18 18:48:10,High Latency,Warning,Secondary network degradation
+Router-3,2026-04-18 18:48:13,Packet Loss,Info,Routine telemetry scan
+Router-2,2026-04-18 18:48:16,High Latency,Info,Routine telemetry scan
+Switch-3,2026-04-18 18:48:19,Interface Down,Critical,Uplink trunk disconnected
+Switch-3,2026-04-18 18:48:19,Packet Loss,Minor,Link instability detected
+Switch-3,2026-04-18 18:48:19,Port Flapping,Warning,Link instability detected
+Server-DB1,2026-04-18 18:48:22,CPU High,Info,Routine telemetry scan
+Server-App3,2026-04-18 18:48:25,Memory Utilization High,Info,Routine telemetry scan
+Switch-1,2026-04-18 18:48:28,License Expiry,Warning,Routine telemetry scan
+Switch-4,2026-04-18 18:48:31,Port Flapping,Info,Routine telemetry scan
+Server-DB1,2026-04-18 18:48:34,CPU High,Info,Routine telemetry scan
+Router-1,2026-04-18 18:48:37,High Latency,Info,Routine telemetry scan
+Switch-2,2026-04-18 18:48:40,Port Flapping,Info,Routine telemetry scan
+Switch-4,2026-04-18 18:48:43,Interface Down,Critical,Uplink trunk disconnected
+Switch-4,2026-04-18 18:48:43,Packet Loss,Minor,Link instability detected
+Switch-4,2026-04-18 18:48:43,Packet Loss,Minor,Link instability detected
+Switch-4,2026-04-18 18:48:43,Port Flapping,Warning,Link instability detected
+Server-App3,2026-04-18 18:48:46,Memory Utilization High,Info,Routine telemetry scan
+Switch-3,2026-04-18 18:48:49,Interface Down,Critical,Uplink trunk disconnected
+Switch-3,2026-04-18 18:48:49,Packet Loss,Minor,Link instability detected
+Switch-3,2026-04-18 18:48:49,Packet Loss,Minor,Link instability detected
+Server-DB1,2026-04-18 18:48:52,Memory Utilization High,Info,Routine telemetry scan
+Router-3,2026-04-18 18:48:55,Packet Loss,Info,Routine telemetry scan
+Server-App2,2026-04-18 18:48:58,Memory Utilization High,Info,Routine telemetry scan
+Router-1,2026-04-18 18:49:01,Interface Down,Critical,Peer adjacency failed
+Router-1,2026-04-18 18:49:01,Packet Loss,Minor,Secondary network degradation
+Router-1,2026-04-18 18:49:01,Packet Loss,Minor,Secondary network degradation
+Router-1,2026-04-18 18:49:01,High Latency,Warning,Secondary network degradation
+Router-1,2026-04-18 18:49:01,Packet Loss,Minor,Secondary network degradation
+Router-3,2026-04-18 18:49:04,High Latency,Info,Routine telemetry scan
+Server-DB1,2026-04-18 18:49:07,CPU High,Info,Routine telemetry scan
+Server-App2,2026-04-18 18:49:10,Memory Utilization High,Info,Routine telemetry scan
+Switch-2,2026-04-18 18:49:13,Port Flapping,Info,Routine telemetry scan
+Switch-2,2026-04-18 18:49:16,Interface Down,Critical,Uplink trunk disconnected
+Switch-2,2026-04-18 18:49:16,Packet Loss,Minor,Link instability detected
+Switch-2,2026-04-18 18:49:16,Packet Loss,Minor,Link instability detected
+Switch-1,2026-04-18 18:49:19,Interface Down,Critical,Uplink trunk disconnected
+Switch-1,2026-04-18 18:49:19,Port Flapping,Warning,Link instability detected
+Switch-1,2026-04-18 18:49:19,Port Flapping,Warning,Link instability detected
+Switch-1,2026-04-18 18:49:19,Packet Loss,Minor,Link instability detected
+Switch-2,2026-04-18 18:49:22,Port Flapping,Info,Routine telemetry scan
+Router-2,2026-04-18 18:49:25,BGP Down,Critical,Peer adjacency failed
+Router-2,2026-04-18 18:49:25,High Latency,Warning,Secondary network degradation
+Router-2,2026-04-18 18:49:25,High Latency,Warning,Secondary network degradation
+Switch-4,2026-04-18 18:49:28,License Expiry,Warning,Routine telemetry scan
+Server-DB1,2026-04-18 18:49:31,Memory Utilization High,Info,Routine telemetry scan
+Router-3,2026-04-18 18:49:34,Packet Loss,Info,Routine telemetry scan
+Server-App3,2026-04-18 18:49:37,Memory Utilization High,Info,Routine telemetry scan
+Server-App2,2026-04-18 18:49:40,CPU High,Major,Hardware boundary breached
+Server-App2,2026-04-18 18:49:40,High Latency,Warning,Process starving for resources
+Server-App2,2026-04-18 18:49:40,High Latency,Warning,Process starving for resources
+Server-App2,2026-04-18 18:49:40,High Latency,Warning,Process starving for resources
+Server-App2,2026-04-18 18:49:40,Database Disconnect,Minor,Process starving for resources
+Router-2,2026-04-18 18:49:43,Packet Loss,Info,Routine telemetry scan
+Switch-3,2026-04-18 18:49:46,Port Flapping,Info,Routine telemetry scan
+Switch-1,2026-04-18 18:49:49,License Expiry,Warning,Routine telemetry scan
+Router-2,2026-04-18 18:49:52,Packet Loss,Info,Routine telemetry scan
+Router-3,2026-04-18 18:49:55,High Latency,Info,Routine telemetry scan
+Server-App2,2026-04-18 18:49:58,CPU High,Info,Routine telemetry scan
+Switch-3,2026-04-18 18:50:01,Port Flapping,Info,Routine telemetry scan
+Router-3,2026-04-18 18:50:04,OSPF Down,Major,Peer adjacency failed
+Router-3,2026-04-18 18:50:04,Packet Loss,Minor,Secondary network degradation
+Router-3,2026-04-18 18:50:04,Packet Loss,Minor,Secondary network degradation
+Router-3,2026-04-18 18:50:04,Packet Loss,Minor,Secondary network degradation
+Server-DB1,2026-04-18 18:50:07,Memory Utilization High,Info,Routine telemetry scan
+Router-3,2026-04-18 18:50:10,Packet Loss,Info,Routine telemetry scan
+Switch-1,2026-04-18 18:50:13,Port Flapping,Info,Routine telemetry scan
+Router-3,2026-04-18 18:50:16,BGP Down,Critical,Peer adjacency failed
+Router-3,2026-04-18 18:50:16,Packet Loss,Minor,Secondary network degradation
+Router-3,2026-04-18 18:50:16,High Latency,Warning,Secondary network degradation
+Router-3,2026-04-18 18:50:16,Packet Loss,Minor,Secondary network degradation
+Server-App3,2026-04-18 18:50:19,CPU High,Info,Routine telemetry scan
+Router-3,2026-04-18 18:50:22,Packet Loss,Info,Routine telemetry scan
+Switch-2,2026-04-18 18:50:25,Port Flapping,Info,Routine telemetry scan
+Router-1,2026-04-18 18:50:28,Interface Down,Critical,Peer adjacency failed
+Router-1,2026-04-18 18:50:28,Packet Loss,Minor,Secondary network degradation
+Router-1,2026-04-18 18:50:28,Packet Loss,Minor,Secondary network degradation
+Router-1,2026-04-18 18:50:28,Packet Loss,Minor,Secondary network degradation
+Router-1,2026-04-18 18:50:28,High Latency,Warning,Secondary network degradation
+Server-DB1,2026-04-18 18:50:31,Application Crash,Critical,Hardware boundary breached
+Server-DB1,2026-04-18 18:50:31,Memory Utilization High,Warning,Process starving for resources
+Server-DB1,2026-04-18 18:50:31,Memory Utilization High,Warning,Process starving for resources
+Server-DB1,2026-04-18 18:50:31,High Latency,Warning,Process starving for resources
+Server-DB1,2026-04-18 18:50:34,Memory Utilization High,Info,Routine telemetry scan
+Server-App3,2026-04-18 18:50:37,Memory Utilization High,Info,Routine telemetry scan
+Server-DB1,2026-04-18 18:50:40,CPU High,Info,Routine telemetry scan
+Server-App2,2026-04-18 18:50:43,Memory Utilization High,Info,Routine telemetry scan
+Server-App2,2026-04-18 18:50:46,CPU High,Info,Routine telemetry scan
+Switch-3,2026-04-18 18:50:49,Port Flapping,Info,Routine telemetry scan
+Router-1,2026-04-18 18:50:52,High Latency,Info,Routine telemetry scan
+Router-1,2026-04-18 18:50:55,Packet Loss,Info,Routine telemetry scan
+Router-2,2026-04-18 18:50:58,High Latency,Info,Routine telemetry scan
+Router-2,2026-04-18 18:51:01,Packet Loss,Info,Routine telemetry scan
+Router-2,2026-04-18 18:51:04,Packet Loss,Info,Routine telemetry scan
+Server-App3,2026-04-18 18:51:07,Memory Utilization High,Info,Routine telemetry scan
+Switch-4,2026-04-18 18:51:10,Interface Down,Critical,Uplink trunk disconnected
+Switch-4,2026-04-18 18:51:10,Packet Loss,Minor,Link instability detected
+Switch-4,2026-04-18 18:51:10,Port Flapping,Warning,Link instability detected
+Server-DB1,2026-04-18 18:51:13,Memory Utilization High,Info,Routine telemetry scan
+Router-2,2026-04-18 18:51:16,Packet Loss,Info,Routine telemetry scan
+Router-3,2026-04-18 18:51:19,High Latency,Info,Routine telemetry scan
+Server-App1,2026-04-18 18:51:22,CPU High,Major,Hardware boundary breached
+Server-App1,2026-04-18 18:51:22,High Latency,Warning,Process starving for resources
+Server-App1,2026-04-18 18:51:22,High Latency,Warning,Process starving for resources
+Server-App1,2026-04-18 18:51:22,High Latency,Warning,Process starving for resources
+Router-2,2026-04-18 18:51:25,High Latency,Info,Routine telemetry scan
+Router-3,2026-04-18 18:51:28,Packet Loss,Info,Routine telemetry scan
+Server-App1,2026-04-18 18:51:31,Memory Utilization High,Info,Routine telemetry scan
+Router-2,2026-04-18 18:51:34,High Latency,Info,Routine telemetry scan
+Switch-4,2026-04-18 18:51:37,Port Flapping,Info,Routine telemetry scan
+Router-3,2026-04-18 18:51:40,Packet Loss,Info,Routine telemetry scan
+Switch-2,2026-04-18 18:51:43,Port Flapping,Info,Routine telemetry scan
+Router-2,2026-04-18 18:51:46,Packet Loss,Info,Routine telemetry scan
+Switch-4,2026-04-18 18:51:49,License Expiry,Warning,Routine telemetry scan
+Server-DB1,2026-04-18 18:51:52,CPU High,Info,Routine telemetry scan
+Server-DB1,2026-04-18 18:51:55,CPU High,Info,Routine telemetry scan
+Switch-4,2026-04-18 18:51:58,Interface Down,Critical,Uplink trunk disconnected
+Switch-4,2026-04-18 18:51:58,Packet Loss,Minor,Link instability detected
+Switch-4,2026-04-18 18:51:58,Packet Loss,Minor,Link instability detected
+Switch-4,2026-04-18 18:51:58,Port Flapping,Warning,Link instability detected
+Switch-3,2026-04-18 18:52:01,Port Flapping,Info,Routine telemetry scan
+Switch-1,2026-04-18 18:52:04,Port Flapping,Info,Routine telemetry scan
+Switch-3,2026-04-18 18:52:07,Port Flapping,Info,Routine telemetry scan
+Router-3,2026-04-18 18:52:10,Packet Loss,Info,Routine telemetry scan
+Router-2,2026-04-18 18:52:13,Packet Loss,Info,Routine telemetry scan
+Router-1,2026-04-18 18:52:16,OSPF Down,Major,Peer adjacency failed
+Router-1,2026-04-18 18:52:16,Packet Loss,Minor,Secondary network degradation
+Router-1,2026-04-18 18:52:16,High Latency,Warning,Secondary network degradation
+Router-1,2026-04-18 18:52:16,High Latency,Warning,Secondary network degradation
+Switch-1,2026-04-18 18:52:19,License Expiry,Warning,Routine telemetry scan
+Switch-2,2026-04-18 18:52:22,Port Flapping,Info,Routine telemetry scan
+Router-1,2026-04-18 18:52:25,Packet Loss,Info,Routine telemetry scan
+Server-App3,2026-04-18 18:52:28,Application Crash,Critical,Hardware boundary breached
+Server-App3,2026-04-18 18:52:28,High Latency,Warning,Process starving for resources
+Server-App3,2026-04-18 18:52:28,Database Disconnect,Minor,Process starving for resources
+Server-App3,2026-04-18 18:52:28,High Latency,Warning,Process starving for resources
+Server-App3,2026-04-18 18:52:28,Memory Utilization High,Warning,Process starving for resources
+Server-DB1,2026-04-18 18:52:31,Memory Utilization High,Info,Routine telemetry scan
+Switch-2,2026-04-18 18:52:34,Port Flapping,Info,Routine telemetry scan
+Router-2,2026-04-18 18:52:37,High Latency,Info,Routine telemetry scan
+Switch-3,2026-04-18 18:52:40,Interface Down,Critical,Uplink trunk disconnected
+Switch-3,2026-04-18 18:52:40,Packet Loss,Minor,Link instability detected
+Switch-3,2026-04-18 18:52:40,Port Flapping,Warning,Link instability detected
+Switch-3,2026-04-18 18:52:40,Packet Loss,Minor,Link instability detected
+Router-2,2026-04-18 18:52:43,Packet Loss,Info,Routine telemetry scan
+Switch-2,2026-04-18 18:52:46,Port Flapping,Info,Routine telemetry scan
+Server-DB1,2026-04-18 18:52:49,Memory Utilization High,Info,Routine telemetry scan
+Server-DB1,2026-04-18 18:52:52,Memory Utilization High,Info,Routine telemetry scan
+Router-3,2026-04-18 18:52:55,Packet Loss,Info,Routine telemetry scan
+Server-App3,2026-04-18 18:52:58,CPU High,Info,Routine telemetry scan
+Router-1,2026-04-18 18:53:01,OSPF Down,Major,Peer adjacency failed
+Router-1,2026-04-18 18:53:01,High Latency,Warning,Secondary network degradation
+Router-1,2026-04-18 18:53:01,Packet Loss,Minor,Secondary network degradation
+Switch-3,2026-04-18 18:53:04,License Expiry,Warning,Routine telemetry scan
+Switch-3,2026-04-18 18:53:07,License Expiry,Warning,Routine telemetry scan
+Server-App2,2026-04-18 18:53:10,Memory Utilization High,Info,Routine telemetry scan
+Switch-1,2026-04-18 18:53:13,Port Flapping,Info,Routine telemetry scan
+Router-2,2026-04-18 18:53:16,High Latency,Info,Routine telemetry scan
+Server-App3,2026-04-18 18:53:19,CPU High,Info,Routine telemetry scan
+Router-3,2026-04-18 18:53:22,Packet Loss,Info,Routine telemetry scan
+Router-1,2026-04-18 18:53:25,Packet Loss,Info,Routine telemetry scan
+Router-3,2026-04-18 18:53:28,Packet Loss,Info,Routine telemetry scan
+Server-DB1,2026-04-18 18:53:31,Memory Utilization High,Info,Routine telemetry scan
+Router-3,2026-04-18 18:53:34,High Latency,Info,Routine telemetry scan
+Switch-3,2026-04-18 18:53:37,Interface Down,Critical,Uplink trunk disconnected
+Switch-3,2026-04-18 18:53:37,Packet Loss,Minor,Link instability detected
+Switch-3,2026-04-18 18:53:37,Port Flapping,Warning,Link instability detected
+Switch-3,2026-04-18 18:53:37,Port Flapping,Warning,Link instability detected
+Router-2,2026-04-18 18:53:40,Packet Loss,Info,Routine telemetry scan
+Router-1,2026-04-18 18:53:43,Packet Loss,Info,Routine telemetry scan
+Server-App3,2026-04-18 18:53:46,CPU High,Info,Routine telemetry scan
+Server-DB1,2026-04-18 18:53:49,Memory Utilization High,Info,Routine telemetry scan
+Switch-1,2026-04-18 18:53:52,Port Flapping,Info,Routine telemetry scan
+Server-DB1,2026-04-18 18:53:55,Disk Space Exhausted,Critical,Hardware boundary breached
+Server-DB1,2026-04-18 18:53:55,High Latency,Warning,Process starving for resources
+Server-DB1,2026-04-18 18:53:55,High Latency,Warning,Process starving for resources
+Server-DB1,2026-04-18 18:53:55,Database Disconnect,Minor,Process starving for resources
+Server-DB1,2026-04-18 18:53:58,CPU High,Info,Routine telemetry scan
+Router-3,2026-04-18 18:54:01,Packet Loss,Info,Routine telemetry scan
+Switch-1,2026-04-18 18:54:04,License Expiry,Warning,Routine telemetry scan
+Server-App3,2026-04-18 18:54:07,Memory Utilization High,Info,Routine telemetry scan
+Server-App1,2026-04-18 18:54:10,CPU High,Info,Routine telemetry scan
+Router-1,2026-04-18 18:54:13,Packet Loss,Info,Routine telemetry scan
+Router-1,2026-04-18 18:54:16,BGP Down,Critical,Peer adjacency failed
+Router-1,2026-04-18 18:54:16,High Latency,Warning,Secondary network degradation
+Router-1,2026-04-18 18:54:16,High Latency,Warning,Secondary network degradation
+Router-1,2026-04-18 18:54:19,Interface Down,Critical,Peer adjacency failed
+Router-1,2026-04-18 18:54:19,High Latency,Warning,Secondary network degradation
+Router-1,2026-04-18 18:54:19,High Latency,Warning,Secondary network degradation
+Router-1,2026-04-18 18:54:19,Packet Loss,Minor,Secondary network degradation
+Router-1,2026-04-18 18:54:19,High Latency,Warning,Secondary network degradation
+Switch-1,2026-04-18 18:54:22,Port Flapping,Info,Routine telemetry scan
+Switch-3,2026-04-18 18:54:25,Port Flapping,Info,Routine telemetry scan
+Server-DB1,2026-04-18 18:54:28,Memory Utilization High,Info,Routine telemetry scan
+Router-1,2026-04-18 18:54:31,Packet Loss,Info,Routine telemetry scan
+Switch-1,2026-04-18 18:54:34,License Expiry,Warning,Routine telemetry scan
+Router-1,2026-04-18 18:54:37,BGP Down,Critical,Peer adjacency failed
+Router-1,2026-04-18 18:54:37,Packet Loss,Minor,Secondary network degradation
+Router-1,2026-04-18 18:54:37,High Latency,Warning,Secondary network degradation
+Router-1,2026-04-18 18:54:37,High Latency,Warning,Secondary network degradation
+Router-2,2026-04-18 18:54:40,Interface Down,Critical,Peer adjacency failed
+Router-2,2026-04-18 18:54:40,Packet Loss,Minor,Secondary network degradation
+Router-2,2026-04-18 18:54:40,High Latency,Warning,Secondary network degradation
+Router-2,2026-04-18 18:54:43,Packet Loss,Info,Routine telemetry scan
+Switch-2,2026-04-18 18:54:46,License Expiry,Warning,Routine telemetry scan
+Switch-1,2026-04-18 18:54:49,Port Flapping,Info,Routine telemetry scan
+Switch-2,2026-04-18 18:54:52,Port Flapping,Info,Routine telemetry scan
+Server-App1,2026-04-18 18:54:55,CPU High,Info,Routine telemetry scan
+Server-App2,2026-04-18 18:54:58,Memory Utilization High,Info,Routine telemetry scan
+Server-App3,2026-04-18 18:55:01,Memory Utilization High,Info,Routine telemetry scan
+Router-3,2026-04-18 18:55:04,High Latency,Info,Routine telemetry scan
+Router-3,2026-04-18 18:55:07,BGP Down,Critical,Peer adjacency failed
+Router-3,2026-04-18 18:55:07,High Latency,Warning,Secondary network degradation
+Router-3,2026-04-18 18:55:07,High Latency,Warning,Secondary network degradation
+Router-3,2026-04-18 18:55:07,High Latency,Warning,Secondary network degradation
+Switch-2,2026-04-18 18:55:10,Interface Down,Critical,Uplink trunk disconnected
+Switch-2,2026-04-18 18:55:10,Port Flapping,Warning,Link instability detected
+Switch-2,2026-04-18 18:55:10,Packet Loss,Minor,Link instability detected
+Switch-2,2026-04-18 18:55:10,Port Flapping,Warning,Link instability detected
+Server-App3,2026-04-18 18:55:13,Memory Utilization High,Info,Routine telemetry scan
+Switch-3,2026-04-18 18:55:16,Interface Down,Critical,Uplink trunk disconnected
+Switch-3,2026-04-18 18:55:16,Port Flapping,Warning,Link instability detected
+Switch-3,2026-04-18 18:55:16,Packet Loss,Minor,Link instability detected
+Switch-3,2026-04-18 18:55:16,Packet Loss,Minor,Link instability detected
+Router-1,2026-04-18 18:55:19,Packet Loss,Info,Routine telemetry scan
+Switch-2,2026-04-18 18:55:22,Port Flapping,Info,Routine telemetry scan
+Router-2,2026-04-18 18:55:25,High Latency,Info,Routine telemetry scan
+Switch-1,2026-04-18 18:55:28,License Expiry,Warning,Routine telemetry scan
+Router-2,2026-04-18 18:55:31,High Latency,Info,Routine telemetry scan
+Switch-4,2026-04-18 18:55:34,License Expiry,Warning,Routine telemetry scan
+Server-App3,2026-04-18 18:55:37,Disk Space Exhausted,Critical,Hardware boundary breached
+Server-App3,2026-04-18 18:55:37,Memory Utilization High,Warning,Process starving for resources
+Server-App3,2026-04-18 18:55:37,High Latency,Warning,Process starving for resources
+Server-App3,2026-04-18 18:55:37,Database Disconnect,Minor,Process starving for resources
+Server-App3,2026-04-18 18:55:37,High Latency,Warning,Process starving for resources
+Switch-1,2026-04-18 18:55:40,License Expiry,Warning,Routine telemetry scan
+Server-App3,2026-04-18 18:55:43,Disk Space Exhausted,Critical,Hardware boundary breached
+Server-App3,2026-04-18 18:55:43,Database Disconnect,Minor,Process starving for resources
+Server-App3,2026-04-18 18:55:43,Database Disconnect,Minor,Process starving for resources
+Switch-2,2026-04-18 18:55:46,Port Flapping,Info,Routine telemetry scan
+Server-App3,2026-04-18 18:55:49,Memory Utilization High,Info,Routine telemetry scan
+Router-2,2026-04-18 18:55:52,High Latency,Info,Routine telemetry scan
+Switch-1,2026-04-18 18:55:55,Port Flapping,Info,Routine telemetry scan
+Server-App3,2026-04-18 18:55:58,CPU High,Info,Routine telemetry scan
+Switch-4,2026-04-18 18:56:01,Interface Down,Critical,Uplink trunk disconnected
+Switch-4,2026-04-18 18:56:01,Packet Loss,Minor,Link instability detected
+Switch-4,2026-04-18 18:56:01,Port Flapping,Warning,Link instability detected
+Switch-4,2026-04-18 18:56:01,Port Flapping,Warning,Link instability detected
+Server-App1,2026-04-18 18:56:04,Disk Space Exhausted,Critical,Hardware boundary breached
+Server-App1,2026-04-18 18:56:04,Memory Utilization High,Warning,Process starving for resources
+Server-App1,2026-04-18 18:56:04,Memory Utilization High,Warning,Process starving for resources
+Switch-3,2026-04-18 18:56:07,Port Flapping,Info,Routine telemetry scan
+Switch-3,2026-04-18 18:56:10,Port Flapping,Info,Routine telemetry scan
+Switch-2,2026-04-18 18:56:13,Interface Down,Critical,Uplink trunk disconnected
+Switch-2,2026-04-18 18:56:13,Port Flapping,Warning,Link instability detected
+Switch-2,2026-04-18 18:56:13,Packet Loss,Minor,Link instability detected
+Router-2,2026-04-18 18:56:16,High Latency,Info,Routine telemetry scan
+Router-1,2026-04-18 18:56:19,Packet Loss,Info,Routine telemetry scan
+Router-2,2026-04-18 18:56:22,Packet Loss,Info,Routine telemetry scan
+Server-DB1,2026-04-18 18:56:25,CPU High,Info,Routine telemetry scan
+Switch-3,2026-04-18 18:56:28,Interface Down,Critical,Uplink trunk disconnected
+Switch-3,2026-04-18 18:56:28,Port Flapping,Warning,Link instability detected
+Switch-3,2026-04-18 18:56:28,Packet Loss,Minor,Link instability detected
+Switch-1,2026-04-18 18:56:31,Interface Down,Critical,Uplink trunk disconnected
+Switch-1,2026-04-18 18:56:31,Packet Loss,Minor,Link instability detected
+Switch-1,2026-04-18 18:56:31,Packet Loss,Minor,Link instability detected
+Switch-1,2026-04-18 18:56:31,Packet Loss,Minor,Link instability detected
+Router-3,2026-04-18 18:56:34,High Latency,Info,Routine telemetry scan
+Server-App2,2026-04-18 18:56:37,Memory Utilization High,Info,Routine telemetry scan
+Router-1,2026-04-18 18:56:40,High Latency,Info,Routine telemetry scan
+Switch-3,2026-04-18 18:56:43,Port Flapping,Info,Routine telemetry scan
+Switch-3,2026-04-18 18:56:46,Port Flapping,Info,Routine telemetry scan
+Server-App1,2026-04-18 18:56:49,Memory Utilization High,Info,Routine telemetry scan
+Router-1,2026-04-18 18:56:52,High Latency,Info,Routine telemetry scan
+Server-DB1,2026-04-18 18:56:55,Memory Utilization High,Info,Routine telemetry scan
+Server-App1,2026-04-18 18:56:58,Memory Utilization High,Info,Routine telemetry scan
+Router-3,2026-04-18 18:57:01,Packet Loss,Info,Routine telemetry scan
+Switch-2,2026-04-18 18:57:04,Port Flapping,Info,Routine telemetry scan
+Router-3,2026-04-18 18:57:07,Packet Loss,Info,Routine telemetry scan
+Server-App2,2026-04-18 18:57:10,CPU High,Info,Routine telemetry scan
+Router-2,2026-04-18 18:57:13,Packet Loss,Info,Routine telemetry scan
+Server-App1,2026-04-18 18:57:16,CPU High,Info,Routine telemetry scan
+Switch-4,2026-04-18 18:57:19,Port Flapping,Info,Routine telemetry scan
+Router-1,2026-04-18 18:57:22,High Latency,Info,Routine telemetry scan
+Server-App1,2026-04-18 18:57:25,CPU High,Info,Routine telemetry scan
+Server-App1,2026-04-18 18:57:28,CPU High,Info,Routine telemetry scan
+Router-3,2026-04-18 18:57:31,High Latency,Info,Routine telemetry scan
+Router-3,2026-04-18 18:57:34,High Latency,Info,Routine telemetry scan
+Router-1,2026-04-18 18:57:37,Packet Loss,Info,Routine telemetry scan
+Server-DB1,2026-04-18 18:57:40,Memory Utilization High,Info,Routine telemetry scan
+Router-3,2026-04-18 18:57:43,High Latency,Info,Routine telemetry scan
+Server-App2,2026-04-18 18:57:46,CPU High,Major,Hardware boundary breached
+Server-App2,2026-04-18 18:57:46,High Latency,Warning,Process starving for resources
+Server-App2,2026-04-18 18:57:46,Memory Utilization High,Warning,Process starving for resources
+Router-1,2026-04-18 18:57:49,OSPF Down,Major,Peer adjacency failed
+Router-1,2026-04-18 18:57:49,High Latency,Warning,Secondary network degradation
+Router-1,2026-04-18 18:57:49,Packet Loss,Minor,Secondary network degradation
+Server-App2,2026-04-18 18:57:52,Memory Utilization High,Info,Routine telemetry scan
+Router-2,2026-04-18 18:57:55,Interface Down,Critical,Peer adjacency failed
+Router-2,2026-04-18 18:57:55,Packet Loss,Minor,Secondary network degradation
+Router-2,2026-04-18 18:57:55,High Latency,Warning,Secondary network degradation
+Server-App3,2026-04-18 18:57:58,CPU High,Info,Routine telemetry scan
+Router-1,2026-04-18 18:58:01,High Latency,Info,Routine telemetry scan
+Switch-4,2026-04-18 18:58:04,Interface Down,Critical,Uplink trunk disconnected
+Switch-4,2026-04-18 18:58:04,Port Flapping,Warning,Link instability detected
+Switch-4,2026-04-18 18:58:04,Packet Loss,Minor,Link instability detected
+Server-App3,2026-04-18 18:58:07,CPU High,Info,Routine telemetry scan
+Router-2,2026-04-18 18:58:10,Interface Down,Critical,Peer adjacency failed
+Router-2,2026-04-18 18:58:10,High Latency,Warning,Secondary network degradation
+Router-2,2026-04-18 18:58:10,High Latency,Warning,Secondary network degradation
+Router-2,2026-04-18 18:58:10,High Latency,Warning,Secondary network degradation
+Router-1,2026-04-18 18:58:13,High Latency,Info,Routine telemetry scan
+Server-App2,2026-04-18 18:58:16,CPU High,Info,Routine telemetry scan
+Switch-2,2026-04-18 18:58:19,Interface Down,Critical,Uplink trunk disconnected
+Switch-2,2026-04-18 18:58:19,Packet Loss,Minor,Link instability detected
+Switch-2,2026-04-18 18:58:19,Port Flapping,Warning,Link instability detected
+Router-3,2026-04-18 18:58:22,Packet Loss,Info,Routine telemetry scan
+Server-DB1,2026-04-18 18:58:25,Disk Space Exhausted,Critical,Hardware boundary breached
+Server-DB1,2026-04-18 18:58:25,Database Disconnect,Minor,Process starving for resources
+Server-DB1,2026-04-18 18:58:25,Database Disconnect,Minor,Process starving for resources
+Server-DB1,2026-04-18 18:58:25,High Latency,Warning,Process starving for resources
+Server-DB1,2026-04-18 18:58:25,High Latency,Warning,Process starving for resources
+Server-App2,2026-04-18 18:58:28,CPU High,Info,Routine telemetry scan
+Router-1,2026-04-18 18:58:31,High Latency,Info,Routine telemetry scan
+Router-3,2026-04-18 18:58:34,Packet Loss,Info,Routine telemetry scan
+Server-App1,2026-04-18 18:58:37,Memory Utilization High,Info,Routine telemetry scan
+Router-1,2026-04-18 18:58:40,OSPF Down,Major,Peer adjacency failed
+Router-1,2026-04-18 18:58:40,High Latency,Warning,Secondary network degradation
+Router-1,2026-04-18 18:58:40,Packet Loss,Minor,Secondary network degradation
+Router-1,2026-04-18 18:58:40,Packet Loss,Minor,Secondary network degradation
+Router-1,2026-04-18 18:58:40,High Latency,Warning,Secondary network degradation
+Server-App1,2026-04-18 18:58:43,Memory Utilization High,Info,Routine telemetry scan
+Switch-1,2026-04-18 18:58:46,Port Flapping,Info,Routine telemetry scan
+Router-2,2026-04-18 18:58:49,BGP Down,Critical,Peer adjacency failed
+Router-2,2026-04-18 18:58:49,High Latency,Warning,Secondary network degradation
+Router-2,2026-04-18 18:58:49,High Latency,Warning,Secondary network degradation
+Router-1,2026-04-18 18:58:52,Packet Loss,Info,Routine telemetry scan
+Router-1,2026-04-18 18:58:55,Packet Loss,Info,Routine telemetry scan
+Router-1,2026-04-18 18:58:58,OSPF Down,Major,Peer adjacency failed
+Router-1,2026-04-18 18:58:58,Packet Loss,Minor,Secondary network degradation
+Router-1,2026-04-18 18:58:58,Packet Loss,Minor,Secondary network degradation
+Router-3,2026-04-18 18:59:01,High Latency,Info,Routine telemetry scan
+Router-1,2026-04-18 18:59:04,High Latency,Info,Routine telemetry scan
+Router-1,2026-04-18 18:59:07,Interface Down,Critical,Peer adjacency failed
+Router-1,2026-04-18 18:59:07,High Latency,Warning,Secondary network degradation
+Router-1,2026-04-18 18:59:07,Packet Loss,Minor,Secondary network degradation
+Router-1,2026-04-18 18:59:07,Packet Loss,Minor,Secondary network degradation
+Router-1,2026-04-18 18:59:07,Packet Loss,Minor,Secondary network degradation
+Router-1,2026-04-18 18:59:10,Packet Loss,Info,Routine telemetry scan
+Server-App2,2026-04-18 18:59:13,CPU High,Major,Hardware boundary breached
+Server-App2,2026-04-18 18:59:13,Database Disconnect,Minor,Process starving for resources
+Server-App2,2026-04-18 18:59:13,High Latency,Warning,Process starving for resources
+Server-App2,2026-04-18 18:59:13,Database Disconnect,Minor,Process starving for resources
+Server-App3,2026-04-18 18:59:16,CPU High,Info,Routine telemetry scan
+Switch-1,2026-04-18 18:59:19,Interface Down,Critical,Uplink trunk disconnected
+Switch-1,2026-04-18 18:59:19,Port Flapping,Warning,Link instability detected
+Switch-1,2026-04-18 18:59:19,Port Flapping,Warning,Link instability detected
+Router-1,2026-04-18 18:59:22,Packet Loss,Info,Routine telemetry scan
+Router-3,2026-04-18 18:59:25,Packet Loss,Info,Routine telemetry scan
+Switch-4,2026-04-18 18:59:28,Port Flapping,Info,Routine telemetry scan
+Server-DB1,2026-04-18 18:59:31,CPU High,Info,Routine telemetry scan
+Switch-2,2026-04-18 18:59:34,Port Flapping,Info,Routine telemetry scan
+Server-App3,2026-04-18 18:59:37,CPU High,Info,Routine telemetry scan
+Router-1,2026-04-18 18:59:40,BGP Down,Critical,Peer adjacency failed
+Router-1,2026-04-18 18:59:40,High Latency,Warning,Secondary network degradation
+Router-1,2026-04-18 18:59:40,High Latency,Warning,Secondary network degradation
+Router-2,2026-04-18 18:59:43,High Latency,Info,Routine telemetry scan
+Switch-4,2026-04-18 18:59:46,License Expiry,Warning,Routine telemetry scan
+Router-3,2026-04-18 18:59:49,Packet Loss,Info,Routine telemetry scan
+Switch-4,2026-04-18 18:59:52,License Expiry,Warning,Routine telemetry scan
+Router-1,2026-04-18 18:59:55,High Latency,Info,Routine telemetry scan
+Router-3,2026-04-18 18:59:58,OSPF Down,Major,Peer adjacency failed
+Router-3,2026-04-18 18:59:58,High Latency,Warning,Secondary network degradation
+Router-3,2026-04-18 18:59:58,Packet Loss,Minor,Secondary network degradation
+Router-3,2026-04-18 18:59:58,Packet Loss,Minor,Secondary network degradation
+Router-3,2026-04-18 18:59:58,High Latency,Warning,Secondary network degradation
+Switch-2,2026-04-18 19:00:01,License Expiry,Warning,Routine telemetry scan
+Server-App1,2026-04-18 19:00:04,Memory Utilization High,Info,Routine telemetry scan
+Switch-3,2026-04-18 19:00:07,Port Flapping,Info,Routine telemetry scan
+Switch-1,2026-04-18 19:00:10,Port Flapping,Info,Routine telemetry scan
+Switch-1,2026-04-18 19:00:13,Port Flapping,Info,Routine telemetry scan
+Server-DB1,2026-04-18 19:00:16,CPU High,Major,Hardware boundary breached
+Server-DB1,2026-04-18 19:00:16,High Latency,Warning,Process starving for resources
+Server-DB1,2026-04-18 19:00:16,High Latency,Warning,Process starving for resources
+Server-DB1,2026-04-18 19:00:16,High Latency,Warning,Process starving for resources
+Switch-3,2026-04-18 19:00:19,License Expiry,Warning,Routine telemetry scan
+Router-1,2026-04-18 19:00:22,Packet Loss,Info,Routine telemetry scan
+Server-App3,2026-04-18 19:00:25,CPU High,Info,Routine telemetry scan
+Router-3,2026-04-18 19:00:28,High Latency,Info,Routine telemetry scan
+Router-3,2026-04-18 19:00:31,BGP Down,Critical,Peer adjacency failed
+Router-3,2026-04-18 19:00:31,High Latency,Warning,Secondary network degradation
+Router-3,2026-04-18 19:00:31,High Latency,Warning,Secondary network degradation
+Router-3,2026-04-18 19:00:34,Packet Loss,Info,Routine telemetry scan
+Router-2,2026-04-18 19:00:37,Packet Loss,Info,Routine telemetry scan
+Router-3,2026-04-18 19:00:40,High Latency,Info,Routine telemetry scan
+Switch-2,2026-04-18 19:00:43,License Expiry,Warning,Routine telemetry scan
+Server-App1,2026-04-18 19:00:46,Memory Utilization High,Info,Routine telemetry scan
+Router-1,2026-04-18 19:00:49,High Latency,Info,Routine telemetry scan
+Server-App2,2026-04-18 19:00:52,Application Crash,Critical,Hardware boundary breached
+Server-App2,2026-04-18 19:00:52,High Latency,Warning,Process starving for resources
+Server-App2,2026-04-18 19:00:52,Memory Utilization High,Warning,Process starving for resources
+Server-App2,2026-04-18 19:00:52,High Latency,Warning,Process starving for resources
+Server-App2,2026-04-18 19:00:52,Database Disconnect,Minor,Process starving for resources
+Router-1,2026-04-18 19:00:55,Packet Loss,Info,Routine telemetry scan
+Router-1,2026-04-18 19:00:58,High Latency,Info,Routine telemetry scan
+Switch-1,2026-04-18 19:01:01,Interface Down,Critical,Uplink trunk disconnected
+Switch-1,2026-04-18 19:01:01,Packet Loss,Minor,Link instability detected
+Switch-1,2026-04-18 19:01:01,Port Flapping,Warning,Link instability detected
+Router-2,2026-04-18 19:01:04,High Latency,Info,Routine telemetry scan
+Router-3,2026-04-18 19:01:07,Packet Loss,Info,Routine telemetry scan
+Switch-2,2026-04-18 19:01:10,Port Flapping,Info,Routine telemetry scan
+Server-App1,2026-04-18 19:01:13,Memory Utilization High,Info,Routine telemetry scan
+Switch-2,2026-04-18 19:01:16,Port Flapping,Info,Routine telemetry scan
+Server-App3,2026-04-18 19:01:19,CPU High,Info,Routine telemetry scan
+Server-App1,2026-04-18 19:01:22,Disk Space Exhausted,Critical,Hardware boundary breached
+Server-App1,2026-04-18 19:01:22,High Latency,Warning,Process starving for resources
+Server-App1,2026-04-18 19:01:22,Memory Utilization High,Warning,Process starving for resources
+Switch-2,2026-04-18 19:01:25,Port Flapping,Info,Routine telemetry scan
+Router-3,2026-04-18 19:01:28,Packet Loss,Info,Routine telemetry scan
+Switch-1,2026-04-18 19:01:31,Port Flapping,Info,Routine telemetry scan
+Server-App2,2026-04-18 19:01:34,CPU High,Info,Routine telemetry scan
+Router-1,2026-04-18 19:01:37,BGP Down,Critical,Peer adjacency failed
+Router-1,2026-04-18 19:01:37,Packet Loss,Minor,Secondary network degradation
+Router-1,2026-04-18 19:01:37,High Latency,Warning,Secondary network degradation
+Server-App3,2026-04-18 19:01:40,CPU High,Info,Routine telemetry scan
+Router-2,2026-04-18 19:01:43,High Latency,Info,Routine telemetry scan
+Router-3,2026-04-18 19:01:46,High Latency,Info,Routine telemetry scan
+Router-3,2026-04-18 19:01:49,High Latency,Info,Routine telemetry scan
+Server-App2,2026-04-18 19:01:52,Memory Utilization High,Info,Routine telemetry scan
+Router-3,2026-04-18 19:01:55,Packet Loss,Info,Routine telemetry scan
+Server-App3,2026-04-18 19:01:58,Memory Utilization High,Info,Routine telemetry scan
+Server-App2,2026-04-18 19:02:01,CPU High,Info,Routine telemetry scan
+Server-App1,2026-04-18 19:02:04,Memory Utilization High,Info,Routine telemetry scan
+Server-App3,2026-04-18 19:02:07,Memory Utilization High,Info,Routine telemetry scan
+Server-App3,2026-04-18 19:02:10,Disk Space Exhausted,Critical,Hardware boundary breached
+Server-App3,2026-04-18 19:02:10,Memory Utilization High,Warning,Process starving for resources
+Server-App3,2026-04-18 19:02:10,Memory Utilization High,Warning,Process starving for resources
+Server-App3,2026-04-18 19:02:10,Database Disconnect,Minor,Process starving for resources
+Server-App3,2026-04-18 19:02:10,Database Disconnect,Minor,Process starving for resources
+Server-App3,2026-04-18 19:02:13,Disk Space Exhausted,Critical,Hardware boundary breached
+Server-App3,2026-04-18 19:02:13,High Latency,Warning,Process starving for resources
+Server-App3,2026-04-18 19:02:13,Memory Utilization High,Warning,Process starving for resources
+Server-App3,2026-04-18 19:02:13,Database Disconnect,Minor,Process starving for resources
+Server-App3,2026-04-18 19:02:13,Database Disconnect,Minor,Process starving for resources
+Server-App3,2026-04-18 19:02:16,CPU High,Info,Routine telemetry scan
+Router-3,2026-04-18 19:02:19,High Latency,Info,Routine telemetry scan
+Switch-4,2026-04-18 19:02:22,Interface Down,Critical,Uplink trunk disconnected
+Switch-4,2026-04-18 19:02:22,Port Flapping,Warning,Link instability detected
+Switch-4,2026-04-18 19:02:22,Port Flapping,Warning,Link instability detected
+Server-App1,2026-04-18 19:02:25,Memory Utilization High,Info,Routine telemetry scan
+Switch-1,2026-04-18 19:02:28,Port Flapping,Info,Routine telemetry scan
+Server-App2,2026-04-18 19:02:31,Memory Utilization High,Info,Routine telemetry scan
+Switch-1,2026-04-18 19:02:34,License Expiry,Warning,Routine telemetry scan
+Router-1,2026-04-18 19:02:37,High Latency,Info,Routine telemetry scan
+Router-2,2026-04-18 19:02:40,BGP Down,Critical,Peer adjacency failed
+Router-2,2026-04-18 19:02:40,Packet Loss,Minor,Secondary network degradation
+Router-2,2026-04-18 19:02:40,High Latency,Warning,Secondary network degradation
+Router-2,2026-04-18 19:02:40,High Latency,Warning,Secondary network degradation
+Router-2,2026-04-18 19:02:40,High Latency,Warning,Secondary network degradation
+Router-3,2026-04-18 19:02:43,Packet Loss,Info,Routine telemetry scan
+Router-3,2026-04-18 19:02:46,High Latency,Info,Routine telemetry scan
+Switch-4,2026-04-18 19:02:49,Port Flapping,Info,Routine telemetry scan
+Router-2,2026-04-18 19:02:52,High Latency,Info,Routine telemetry scan
+Router-2,2026-04-18 19:02:55,OSPF Down,Major,Peer adjacency failed
+Router-2,2026-04-18 19:02:55,High Latency,Warning,Secondary network degradation
+Router-2,2026-04-18 19:02:55,High Latency,Warning,Secondary network degradation
+Server-App2,2026-04-18 19:02:58,Memory Utilization High,Info,Routine telemetry scan
+Server-App1,2026-04-18 19:03:01,CPU High,Info,Routine telemetry scan
+Server-App1,2026-04-18 19:03:04,Disk Space Exhausted,Critical,Hardware boundary breached
+Server-App1,2026-04-18 19:03:04,Memory Utilization High,Warning,Process starving for resources
+Server-App1,2026-04-18 19:03:04,Memory Utilization High,Warning,Process starving for resources
+Server-App1,2026-04-18 19:03:04,Memory Utilization High,Warning,Process starving for resources
+Server-App2,2026-04-18 19:03:07,CPU High,Info,Routine telemetry scan
+Server-App3,2026-04-18 19:03:10,CPU High,Major,Hardware boundary breached
+Server-App3,2026-04-18 19:03:10,Database Disconnect,Minor,Process starving for resources
+Server-App3,2026-04-18 19:03:10,High Latency,Warning,Process starving for resources
+Server-App3,2026-04-18 19:03:10,Database Disconnect,Minor,Process starving for resources
+Router-1,2026-04-18 19:03:13,Packet Loss,Info,Routine telemetry scan
+Server-DB1,2026-04-18 19:03:16,CPU High,Info,Routine telemetry scan
+Switch-3,2026-04-18 19:03:19,Port Flapping,Info,Routine telemetry scan
+Server-App1,2026-04-18 19:03:22,Disk Space Exhausted,Critical,Hardware boundary breached
+Server-App1,2026-04-18 19:03:22,Database Disconnect,Minor,Process starving for resources
+Server-App1,2026-04-18 19:03:22,Memory Utilization High,Warning,Process starving for resources
+Router-3,2026-04-18 19:03:25,High Latency,Info,Routine telemetry scan
+Switch-4,2026-04-18 19:03:28,Port Flapping,Info,Routine telemetry scan
+Server-App2,2026-04-18 19:03:31,CPU High,Info,Routine telemetry scan
+Server-DB1,2026-04-18 19:03:34,Memory Utilization High,Info,Routine telemetry scan
+Switch-1,2026-04-18 19:03:37,License Expiry,Warning,Routine telemetry scan
+Server-App3,2026-04-18 19:03:40,Memory Utilization High,Info,Routine telemetry scan
+Server-App1,2026-04-18 19:03:43,CPU High,Info,Routine telemetry scan
+Server-App1,2026-04-18 19:03:46,Memory Utilization High,Info,Routine telemetry scan
+Router-3,2026-04-18 19:03:49,Packet Loss,Info,Routine telemetry scan
+Switch-4,2026-04-18 19:03:52,Port Flapping,Info,Routine telemetry scan
+Server-App1,2026-04-18 19:03:55,Memory Utilization High,Info,Routine telemetry scan
+Router-1,2026-04-18 19:03:58,Packet Loss,Info,Routine telemetry scan
+Server-DB1,2026-04-18 19:04:01,Memory Utilization High,Info,Routine telemetry scan
+Router-2,2026-04-18 19:04:04,High Latency,Info,Routine telemetry scan
+Server-DB1,2026-04-18 19:04:07,Memory Utilization High,Info,Routine telemetry scan
+Server-App3,2026-04-18 19:04:10,CPU High,Info,Routine telemetry scan
+Router-2,2026-04-18 19:04:13,High Latency,Info,Routine telemetry scan
+Router-1,2026-04-18 19:04:16,High Latency,Info,Routine telemetry scan
+Router-1,2026-04-18 19:04:19,Packet Loss,Info,Routine telemetry scan
+Server-App3,2026-04-18 19:04:22,CPU High,Info,Routine telemetry scan
+Router-3,2026-04-18 19:04:25,BGP Down,Critical,Peer adjacency failed
+Router-3,2026-04-18 19:04:25,Packet Loss,Minor,Secondary network degradation
+Router-3,2026-04-18 19:04:25,High Latency,Warning,Secondary network degradation
+Router-2,2026-04-18 19:04:28,Packet Loss,Info,Routine telemetry scan
+Switch-2,2026-04-18 19:04:31,Port Flapping,Info,Routine telemetry scan
+Server-App3,2026-04-18 19:04:34,CPU High,Major,Hardware boundary breached
+Server-App3,2026-04-18 19:04:34,Database Disconnect,Minor,Process starving for resources
+Server-App3,2026-04-18 19:04:34,Memory Utilization High,Warning,Process starving for resources
+Server-App3,2026-04-18 19:04:34,Memory Utilization High,Warning,Process starving for resources
+Router-3,2026-04-18 19:04:37,High Latency,Info,Routine telemetry scan
+Server-App1,2026-04-18 19:04:40,Memory Utilization High,Info,Routine telemetry scan
+Server-App1,2026-04-18 19:04:43,CPU High,Info,Routine telemetry scan
+Switch-1,2026-04-18 19:04:46,License Expiry,Warning,Routine telemetry scan
+Router-1,2026-04-18 19:04:49,High Latency,Info,Routine telemetry scan
+Router-1,2026-04-18 19:04:52,Packet Loss,Info,Routine telemetry scan
+Switch-3,2026-04-18 19:04:55,Interface Down,Critical,Uplink trunk disconnected
+Switch-3,2026-04-18 19:04:55,Packet Loss,Minor,Link instability detected
+Switch-3,2026-04-18 19:04:55,Port Flapping,Warning,Link instability detected
+Switch-3,2026-04-18 19:04:58,License Expiry,Warning,Routine telemetry scan
+Server-DB1,2026-04-18 19:05:01,CPU High,Info,Routine telemetry scan
+Router-3,2026-04-18 19:05:04,Packet Loss,Info,Routine telemetry scan
+Router-1,2026-04-18 19:05:07,High Latency,Info,Routine telemetry scan
+Switch-1,2026-04-18 19:05:10,Interface Down,Critical,Uplink trunk disconnected
+Switch-1,2026-04-18 19:05:10,Port Flapping,Warning,Link instability detected
+Switch-1,2026-04-18 19:05:10,Port Flapping,Warning,Link instability detected
+Switch-1,2026-04-18 19:05:10,Port Flapping,Warning,Link instability detected
+Router-3,2026-04-18 19:05:13,High Latency,Info,Routine telemetry scan
+Switch-2,2026-04-18 19:05:16,License Expiry,Warning,Routine telemetry scan
+Switch-4,2026-04-18 19:05:19,License Expiry,Warning,Routine telemetry scan
+Server-App3,2026-04-18 19:05:22,Memory Utilization High,Info,Routine telemetry scan
+Server-App3,2026-04-18 19:05:25,Disk Space Exhausted,Critical,Hardware boundary breached
+Server-App3,2026-04-18 19:05:25,Memory Utilization High,Warning,Process starving for resources
+Server-App3,2026-04-18 19:05:25,High Latency,Warning,Process starving for resources
+Server-App3,2026-04-18 19:05:25,High Latency,Warning,Process starving for resources
+Server-DB1,2026-04-18 19:05:28,CPU High,Info,Routine telemetry scan
+Switch-2,2026-04-18 19:05:32,Port Flapping,Info,Routine telemetry scan
+Switch-3,2026-04-18 19:05:35,Interface Down,Critical,Uplink trunk disconnected
+Switch-3,2026-04-18 19:05:35,Port Flapping,Warning,Link instability detected
+Switch-3,2026-04-18 19:05:35,Port Flapping,Warning,Link instability detected
+Switch-3,2026-04-18 19:05:35,Packet Loss,Minor,Link instability detected
+Router-3,2026-04-18 19:05:38,High Latency,Info,Routine telemetry scan
+Server-App1,2026-04-18 19:05:41,Memory Utilization High,Info,Routine telemetry scan
+Server-App3,2026-04-18 19:05:44,Memory Utilization High,Info,Routine telemetry scan
+Router-3,2026-04-18 19:05:47,Packet Loss,Info,Routine telemetry scan
+Switch-3,2026-04-18 19:05:50,License Expiry,Warning,Routine telemetry scan
+Router-2,2026-04-18 19:05:53,Interface Down,Critical,Peer adjacency failed
+Router-2,2026-04-18 19:05:53,High Latency,Warning,Secondary network degradation
+Router-2,2026-04-18 19:05:53,Packet Loss,Minor,Secondary network degradation
+Router-2,2026-04-18 19:05:53,High Latency,Warning,Secondary network degradation
+Router-2,2026-04-18 19:05:53,High Latency,Warning,Secondary network degradation
+Switch-1,2026-04-18 19:05:56,Port Flapping,Info,Routine telemetry scan
+Router-2,2026-04-18 19:05:59,High Latency,Info,Routine telemetry scan
+Switch-3,2026-04-18 19:06:02,License Expiry,Warning,Routine telemetry scan
+Switch-4,2026-04-18 19:06:05,Port Flapping,Info,Routine telemetry scan
+Router-2,2026-04-18 19:06:08,Interface Down,Critical,Peer adjacency failed
+Router-2,2026-04-18 19:06:08,High Latency,Warning,Secondary network degradation
+Router-2,2026-04-18 19:06:08,High Latency,Warning,Secondary network degradation
+Router-2,2026-04-18 19:06:08,High Latency,Warning,Secondary network degradation
+Server-DB1,2026-04-18 19:06:11,Disk Space Exhausted,Critical,Hardware boundary breached
+Server-DB1,2026-04-18 19:06:11,High Latency,Warning,Process starving for resources
+Server-DB1,2026-04-18 19:06:11,Database Disconnect,Minor,Process starving for resources
+Switch-2,2026-04-18 19:06:14,Interface Down,Critical,Uplink trunk disconnected
+Switch-2,2026-04-18 19:06:14,Packet Loss,Minor,Link instability detected
+Switch-2,2026-04-18 19:06:14,Port Flapping,Warning,Link instability detected
+Router-2,2026-04-18 19:06:17,High Latency,Info,Routine telemetry scan
+Server-App1,2026-04-18 19:06:20,Memory Utilization High,Info,Routine telemetry scan
+Switch-2,2026-04-18 19:06:23,Port Flapping,Info,Routine telemetry scan
+Server-DB1,2026-04-18 19:06:26,Memory Utilization High,Info,Routine telemetry scan
+Switch-3,2026-04-18 19:06:29,Port Flapping,Info,Routine telemetry scan
+Switch-1,2026-04-18 19:06:32,License Expiry,Warning,Routine telemetry scan
+Switch-1,2026-04-18 19:06:35,Interface Down,Critical,Uplink trunk disconnected
+Switch-1,2026-04-18 19:06:35,Port Flapping,Warning,Link instability detected
+Switch-1,2026-04-18 19:06:35,Packet Loss,Minor,Link instability detected
+Switch-1,2026-04-18 19:06:35,Port Flapping,Warning,Link instability detected
+Server-App2,2026-04-18 19:06:38,CPU High,Info,Routine telemetry scan
+Router-2,2026-04-18 19:06:41,High Latency,Info,Routine telemetry scan
+Switch-3,2026-04-18 19:06:44,Port Flapping,Info,Routine telemetry scan
+Server-DB1,2026-04-18 19:06:47,Memory Utilization High,Info,Routine telemetry scan
+Router-3,2026-04-18 19:06:50,High Latency,Info,Routine telemetry scan
+Router-3,2026-04-18 19:06:53,High Latency,Info,Routine telemetry scan
+Switch-3,2026-04-18 19:06:56,License Expiry,Warning,Routine telemetry scan
+Server-App3,2026-04-18 19:06:59,CPU High,Info,Routine telemetry scan
+Router-2,2026-04-18 19:07:02,Packet Loss,Info,Routine telemetry scan
+Server-App2,2026-04-18 19:07:05,Memory Utilization High,Info,Routine telemetry scan
+Switch-4,2026-04-18 19:07:08,Port Flapping,Info,Routine telemetry scan
+Switch-4,2026-04-18 19:07:11,Port Flapping,Info,Routine telemetry scan
+Server-App3,2026-04-18 19:07:14,CPU High,Info,Routine telemetry scan
+Switch-3,2026-04-18 19:07:17,Port Flapping,Info,Routine telemetry scan
+Switch-1,2026-04-18 19:07:20,Interface Down,Critical,Uplink trunk disconnected
+Switch-1,2026-04-18 19:07:20,Port Flapping,Warning,Link instability detected
+Switch-1,2026-04-18 19:07:20,Port Flapping,Warning,Link instability detected
+Server-App2,2026-04-18 19:07:23,Disk Space Exhausted,Critical,Hardware boundary breached
+Server-App2,2026-04-18 19:07:23,High Latency,Warning,Process starving for resources
+Server-App2,2026-04-18 19:07:23,High Latency,Warning,Process starving for resources
+Server-App2,2026-04-18 19:07:23,Memory Utilization High,Warning,Process starving for resources
+Router-3,2026-04-18 19:07:26,High Latency,Info,Routine telemetry scan
+Switch-2,2026-04-18 19:07:29,Port Flapping,Info,Routine telemetry scan
+Router-3,2026-04-18 19:07:32,Interface Down,Critical,Peer adjacency failed
+Router-3,2026-04-18 19:07:32,Packet Loss,Minor,Secondary network degradation
+Router-3,2026-04-18 19:07:32,High Latency,Warning,Secondary network degradation
+Server-App3,2026-04-18 19:07:35,Application Crash,Critical,Hardware boundary breached
+Server-App3,2026-04-18 19:07:35,Database Disconnect,Minor,Process starving for resources
+Server-App3,2026-04-18 19:07:35,Memory Utilization High,Warning,Process starving for resources
+Router-2,2026-04-18 19:07:38,BGP Down,Critical,Peer adjacency failed
+Router-2,2026-04-18 19:07:38,Packet Loss,Minor,Secondary network degradation
+Router-2,2026-04-18 19:07:38,Packet Loss,Minor,Secondary network degradation
+Router-2,2026-04-18 19:07:38,High Latency,Warning,Secondary network degradation
+Switch-1,2026-04-18 19:07:41,Port Flapping,Info,Routine telemetry scan
+Server-App1,2026-04-18 19:07:44,CPU High,Info,Routine telemetry scan
+Server-DB1,2026-04-18 19:07:47,Memory Utilization High,Info,Routine telemetry scan
+Server-DB1,2026-04-18 19:07:50,CPU High,Info,Routine telemetry scan
+Server-DB1,2026-04-18 19:07:53,CPU High,Info,Routine telemetry scan
+Switch-1,2026-04-18 19:07:56,Port Flapping,Info,Routine telemetry scan
+Server-App3,2026-04-18 19:07:59,CPU High,Info,Routine telemetry scan
+Router-3,2026-04-18 19:08:02,High Latency,Info,Routine telemetry scan
+Server-App1,2026-04-18 19:08:05,CPU High,Info,Routine telemetry scan
+Server-App2,2026-04-18 19:08:08,Memory Utilization High,Info,Routine telemetry scan
+Switch-1,2026-04-18 19:08:11,License Expiry,Warning,Routine telemetry scan
+Router-2,2026-04-18 19:08:14,Interface Down,Critical,Peer adjacency failed
+Router-2,2026-04-18 19:08:14,High Latency,Warning,Secondary network degradation
+Router-2,2026-04-18 19:08:14,Packet Loss,Minor,Secondary network degradation
+Router-2,2026-04-18 19:08:14,Packet Loss,Minor,Secondary network degradation
+Router-2,2026-04-18 19:08:14,Packet Loss,Minor,Secondary network degradation
+Server-DB1,2026-04-18 19:08:17,Application Crash,Critical,Hardware boundary breached
+Server-DB1,2026-04-18 19:08:17,Database Disconnect,Minor,Process starving for resources
+Server-DB1,2026-04-18 19:08:17,Memory Utilization High,Warning,Process starving for resources
+Switch-1,2026-04-18 19:08:20,License Expiry,Warning,Routine telemetry scan
+Router-3,2026-04-18 19:08:23,BGP Down,Critical,Peer adjacency failed
+Router-3,2026-04-18 19:08:23,Packet Loss,Minor,Secondary network degradation
+Router-3,2026-04-18 19:08:23,High Latency,Warning,Secondary network degradation
+Router-1,2026-04-18 19:08:26,Packet Loss,Info,Routine telemetry scan
+Server-DB1,2026-04-18 19:08:29,Disk Space Exhausted,Critical,Hardware boundary breached
+Server-DB1,2026-04-18 19:08:29,Database Disconnect,Minor,Process starving for resources
+Server-DB1,2026-04-18 19:08:29,Database Disconnect,Minor,Process starving for resources
+Server-DB1,2026-04-18 19:08:29,Database Disconnect,Minor,Process starving for resources
+Server-DB1,2026-04-18 19:08:29,High Latency,Warning,Process starving for resources
+Switch-4,2026-04-18 19:08:32,Port Flapping,Info,Routine telemetry scan
+Server-App2,2026-04-18 19:08:35,CPU High,Major,Hardware boundary breached
+Server-App2,2026-04-18 19:08:35,Memory Utilization High,Warning,Process starving for resources
+Server-App2,2026-04-18 19:08:35,High Latency,Warning,Process starving for resources
+Router-3,2026-04-18 19:08:38,High Latency,Info,Routine telemetry scan
+Router-2,2026-04-18 19:08:41,Packet Loss,Info,Routine telemetry scan
+Switch-2,2026-04-18 19:08:44,Interface Down,Critical,Uplink trunk disconnected
+Switch-2,2026-04-18 19:08:44,Packet Loss,Minor,Link instability detected
+Switch-2,2026-04-18 19:08:44,Port Flapping,Warning,Link instability detected
+Switch-2,2026-04-18 19:08:44,Port Flapping,Warning,Link instability detected
+Switch-3,2026-04-18 19:08:47,Interface Down,Critical,Uplink trunk disconnected
+Switch-3,2026-04-18 19:08:47,Port Flapping,Warning,Link instability detected
+Switch-3,2026-04-18 19:08:47,Port Flapping,Warning,Link instability detected
+Switch-2,2026-04-18 19:08:50,Interface Down,Critical,Uplink trunk disconnected
+Switch-2,2026-04-18 19:08:50,Packet Loss,Minor,Link instability detected
+Switch-2,2026-04-18 19:08:50,Port Flapping,Warning,Link instability detected
+Server-App1,2026-04-18 19:08:53,Memory Utilization High,Info,Routine telemetry scan
+Server-DB1,2026-04-18 19:08:56,Memory Utilization High,Info,Routine telemetry scan
+Switch-4,2026-04-18 19:08:59,Port Flapping,Info,Routine telemetry scan
+Switch-1,2026-04-18 19:09:02,Interface Down,Critical,Uplink trunk disconnected
+Switch-1,2026-04-18 19:09:02,Port Flapping,Warning,Link instability detected
+Switch-1,2026-04-18 19:09:02,Port Flapping,Warning,Link instability detected
+Server-DB1,2026-04-18 19:09:05,Application Crash,Critical,Hardware boundary breached
+Server-DB1,2026-04-18 19:09:05,High Latency,Warning,Process starving for resources
+Server-DB1,2026-04-18 19:09:05,High Latency,Warning,Process starving for resources
+Server-DB1,2026-04-18 19:09:05,Memory Utilization High,Warning,Process starving for resources
+Server-DB1,2026-04-18 19:09:05,Database Disconnect,Minor,Process starving for resources
+Switch-4,2026-04-18 19:09:08,Interface Down,Critical,Uplink trunk disconnected
+Switch-4,2026-04-18 19:09:08,Packet Loss,Minor,Link instability detected
+Switch-4,2026-04-18 19:09:08,Port Flapping,Warning,Link instability detected
+Switch-4,2026-04-18 19:09:08,Port Flapping,Warning,Link instability detected
+Router-1,2026-04-18 19:09:11,High Latency,Info,Routine telemetry scan
+Server-App2,2026-04-18 19:09:14,CPU High,Info,Routine telemetry scan
+Switch-3,2026-04-18 19:09:17,Interface Down,Critical,Uplink trunk disconnected
+Switch-3,2026-04-18 19:09:17,Packet Loss,Minor,Link instability detected
+Switch-3,2026-04-18 19:09:17,Packet Loss,Minor,Link instability detected
+Switch-3,2026-04-18 19:09:17,Port Flapping,Warning,Link instability detected
+Switch-2,2026-04-18 19:09:20,Interface Down,Critical,Uplink trunk disconnected
+Switch-2,2026-04-18 19:09:20,Port Flapping,Warning,Link instability detected
+Switch-2,2026-04-18 19:09:20,Packet Loss,Minor,Link instability detected
+Switch-2,2026-04-18 19:09:20,Port Flapping,Warning,Link instability detected
+Server-App1,2026-04-18 19:09:23,Memory Utilization High,Info,Routine telemetry scan
+Switch-4,2026-04-18 19:09:26,License Expiry,Warning,Routine telemetry scan
+Router-3,2026-04-18 19:09:29,Packet Loss,Info,Routine telemetry scan
+Router-2,2026-04-18 19:09:32,High Latency,Info,Routine telemetry scan
+Switch-4,2026-04-18 19:09:35,Interface Down,Critical,Uplink trunk disconnected
+Switch-4,2026-04-18 19:09:35,Packet Loss,Minor,Link instability detected
+Switch-4,2026-04-18 19:09:35,Packet Loss,Minor,Link instability detected
+Switch-4,2026-04-18 19:09:35,Port Flapping,Warning,Link instability detected
+Server-App2,2026-04-18 19:09:38,Memory Utilization High,Info,Routine telemetry scan
+Server-App3,2026-04-18 19:09:41,CPU High,Info,Routine telemetry scan
+Router-3,2026-04-18 19:09:44,High Latency,Info,Routine telemetry scan
+Server-App2,2026-04-18 19:09:47,CPU High,Info,Routine telemetry scan
+Switch-1,2026-04-18 19:09:50,License Expiry,Warning,Routine telemetry scan
+Switch-4,2026-04-18 19:09:53,Port Flapping,Info,Routine telemetry scan
+Server-DB1,2026-04-18 19:09:56,Memory Utilization High,Info,Routine telemetry scan
+Switch-1,2026-04-18 19:09:59,Interface Down,Critical,Uplink trunk disconnected
+Switch-1,2026-04-18 19:09:59,Port Flapping,Warning,Link instability detected
+Switch-1,2026-04-18 19:09:59,Port Flapping,Warning,Link instability detected
+Router-2,2026-04-18 19:10:02,Packet Loss,Info,Routine telemetry scan
+Switch-3,2026-04-18 19:10:05,Interface Down,Critical,Uplink trunk disconnected
+Switch-3,2026-04-18 19:10:05,Packet Loss,Minor,Link instability detected
+Switch-3,2026-04-18 19:10:05,Port Flapping,Warning,Link instability detected
+Switch-3,2026-04-18 19:10:05,Packet Loss,Minor,Link instability detected
+Router-2,2026-04-18 19:10:08,Packet Loss,Info,Routine telemetry scan
+Switch-3,2026-04-18 19:10:11,Interface Down,Critical,Uplink trunk disconnected
+Switch-3,2026-04-18 19:10:11,Packet Loss,Minor,Link instability detected
+Switch-3,2026-04-18 19:10:11,Packet Loss,Minor,Link instability detected
+Switch-4,2026-04-18 19:10:14,Interface Down,Critical,Uplink trunk disconnected
+Switch-4,2026-04-18 19:10:14,Port Flapping,Warning,Link instability detected
+Switch-4,2026-04-18 19:10:14,Port Flapping,Warning,Link instability detected
+Switch-4,2026-04-18 19:10:14,Packet Loss,Minor,Link instability detected
+Switch-1,2026-04-18 19:10:17,Port Flapping,Info,Routine telemetry scan
+Switch-3,2026-04-18 19:10:20,License Expiry,Warning,Routine telemetry scan
+Router-1,2026-04-18 19:10:23,High Latency,Info,Routine telemetry scan
+Switch-4,2026-04-18 19:10:26,Port Flapping,Info,Routine telemetry scan
+Server-DB1,2026-04-18 19:10:29,CPU High,Info,Routine telemetry scan
+Switch-1,2026-04-18 19:10:32,Port Flapping,Info,Routine telemetry scan
+Router-2,2026-04-18 19:10:35,High Latency,Info,Routine telemetry scan
+Router-3,2026-04-18 19:10:38,High Latency,Info,Routine telemetry scan
+Switch-2,2026-04-18 19:10:41,Port Flapping,Info,Routine telemetry scan
+Server-App1,2026-04-18 19:10:44,CPU High,Info,Routine telemetry scan
+Router-3,2026-04-18 19:10:47,High Latency,Info,Routine telemetry scan
+Server-App1,2026-04-18 19:10:50,Memory Utilization High,Info,Routine telemetry scan
+Router-2,2026-04-18 19:10:53,High Latency,Info,Routine telemetry scan
+Switch-4,2026-04-18 19:10:56,License Expiry,Warning,Routine telemetry scan
+Switch-3,2026-04-18 19:10:59,Port Flapping,Info,Routine telemetry scan
+Server-App3,2026-04-18 19:11:02,CPU High,Major,Hardware boundary breached
+Server-App3,2026-04-18 19:11:02,Database Disconnect,Minor,Process starving for resources
+Server-App3,2026-04-18 19:11:02,Database Disconnect,Minor,Process starving for resources
+Server-App2,2026-04-18 19:11:05,CPU High,Major,Hardware boundary breached
+Server-App2,2026-04-18 19:11:05,High Latency,Warning,Process starving for resources
+Server-App2,2026-04-18 19:11:05,High Latency,Warning,Process starving for resources
+Router-1,2026-04-18 19:11:08,OSPF Down,Major,Peer adjacency failed
+Router-1,2026-04-18 19:11:08,Packet Loss,Minor,Secondary network degradation
+Router-1,2026-04-18 19:11:08,Packet Loss,Minor,Secondary network degradation
+Router-1,2026-04-18 19:11:08,High Latency,Warning,Secondary network degradation
+Router-1,2026-04-18 19:11:08,Packet Loss,Minor,Secondary network degradation
+Switch-4,2026-04-18 19:11:11,Port Flapping,Info,Routine telemetry scan
+Switch-4,2026-04-18 19:11:14,Interface Down,Critical,Uplink trunk disconnected
+Switch-4,2026-04-18 19:11:14,Port Flapping,Warning,Link instability detected
+Switch-4,2026-04-18 19:11:14,Port Flapping,Warning,Link instability detected
+Switch-4,2026-04-18 19:11:14,Port Flapping,Warning,Link instability detected
+Router-1,2026-04-18 19:11:17,OSPF Down,Major,Peer adjacency failed
+Router-1,2026-04-18 19:11:17,High Latency,Warning,Secondary network degradation
+Router-1,2026-04-18 19:11:17,Packet Loss,Minor,Secondary network degradation
+Router-1,2026-04-18 19:11:17,High Latency,Warning,Secondary network degradation
+Server-DB1,2026-04-18 19:11:20,Memory Utilization High,Info,Routine telemetry scan
+Router-2,2026-04-18 19:11:23,High Latency,Info,Routine telemetry scan
+Router-2,2026-04-18 19:11:26,Packet Loss,Info,Routine telemetry scan
+Router-3,2026-04-18 19:11:29,High Latency,Info,Routine telemetry scan
+Router-3,2026-04-18 19:11:32,High Latency,Info,Routine telemetry scan
+Router-2,2026-04-18 19:11:35,Packet Loss,Info,Routine telemetry scan
+Switch-1,2026-04-18 19:11:38,License Expiry,Warning,Routine telemetry scan
+Server-App2,2026-04-18 19:11:41,CPU High,Info,Routine telemetry scan
+Server-App2,2026-04-18 19:11:44,CPU High,Info,Routine telemetry scan
+Router-1,2026-04-18 19:11:47,Packet Loss,Info,Routine telemetry scan
+Switch-3,2026-04-18 19:11:50,Interface Down,Critical,Uplink trunk disconnected
+Switch-3,2026-04-18 19:11:50,Packet Loss,Minor,Link instability detected
+Switch-3,2026-04-18 19:11:50,Packet Loss,Minor,Link instability detected
+Router-3,2026-04-18 19:11:53,Packet Loss,Info,Routine telemetry scan
+Switch-4,2026-04-18 19:11:56,Port Flapping,Info,Routine telemetry scan
+Switch-4,2026-04-18 19:11:59,Port Flapping,Info,Routine telemetry scan
+Router-3,2026-04-18 19:12:02,OSPF Down,Major,Peer adjacency failed
+Router-3,2026-04-18 19:12:02,Packet Loss,Minor,Secondary network degradation
+Router-3,2026-04-18 19:12:02,High Latency,Warning,Secondary network degradation
+Switch-1,2026-04-18 19:12:05,Interface Down,Critical,Uplink trunk disconnected
+Switch-1,2026-04-18 19:12:05,Packet Loss,Minor,Link instability detected
+Switch-1,2026-04-18 19:12:05,Port Flapping,Warning,Link instability detected
+Switch-1,2026-04-18 19:12:05,Packet Loss,Minor,Link instability detected
+Server-App3,2026-04-18 19:12:08,CPU High,Info,Routine telemetry scan
+Server-App1,2026-04-18 19:12:11,Memory Utilization High,Info,Routine telemetry scan
+Server-App1,2026-04-18 19:12:14,CPU High,Major,Hardware boundary breached
+Server-App1,2026-04-18 19:12:14,Memory Utilization High,Warning,Process starving for resources
+Server-App1,2026-04-18 19:12:14,Memory Utilization High,Warning,Process starving for resources
+Server-App1,2026-04-18 19:12:14,Database Disconnect,Minor,Process starving for resources
+Server-App3,2026-04-18 19:12:17,Memory Utilization High,Info,Routine telemetry scan
+Switch-2,2026-04-18 19:12:20,License Expiry,Warning,Routine telemetry scan
+Server-App2,2026-04-18 19:12:23,CPU High,Major,Hardware boundary breached
+Server-App2,2026-04-18 19:12:23,Memory Utilization High,Warning,Process starving for resources
+Server-App2,2026-04-18 19:12:23,High Latency,Warning,Process starving for resources
+Server-App2,2026-04-18 19:12:23,Memory Utilization High,Warning,Process starving for resources
+Router-1,2026-04-18 19:12:26,High Latency,Info,Routine telemetry scan
+Server-App1,2026-04-18 19:12:29,CPU High,Info,Routine telemetry scan
+Server-App2,2026-04-18 19:12:32,CPU High,Info,Routine telemetry scan
+Router-3,2026-04-18 19:12:35,High Latency,Info,Routine telemetry scan
+Server-App2,2026-04-18 19:12:38,CPU High,Info,Routine telemetry scan
+Server-App2,2026-04-18 19:12:41,Memory Utilization High,Info,Routine telemetry scan
+Router-1,2026-04-18 19:12:44,Packet Loss,Info,Routine telemetry scan
+Server-DB1,2026-04-18 19:12:47,Memory Utilization High,Info,Routine telemetry scan
+Server-App2,2026-04-18 19:12:50,Memory Utilization High,Info,Routine telemetry scan
+Router-1,2026-04-18 19:12:53,Packet Loss,Info,Routine telemetry scan
+Router-2,2026-04-18 19:12:56,BGP Down,Critical,Peer adjacency failed
+Router-2,2026-04-18 19:12:56,Packet Loss,Minor,Secondary network degradation
+Router-2,2026-04-18 19:12:56,High Latency,Warning,Secondary network degradation
+Router-2,2026-04-18 19:12:56,High Latency,Warning,Secondary network degradation
+Server-App1,2026-04-18 19:12:59,Memory Utilization High,Info,Routine telemetry scan
+Switch-3,2026-04-18 19:13:02,License Expiry,Warning,Routine telemetry scan
+Server-DB1,2026-04-18 19:13:05,Memory Utilization High,Info,Routine telemetry scan
+Switch-4,2026-04-18 19:13:08,License Expiry,Warning,Routine telemetry scan
+Server-DB1,2026-04-18 19:13:11,CPU High,Info,Routine telemetry scan
+Switch-4,2026-04-18 19:13:14,Interface Down,Critical,Uplink trunk disconnected
+Switch-4,2026-04-18 19:13:14,Port Flapping,Warning,Link instability detected
+Switch-4,2026-04-18 19:13:14,Port Flapping,Warning,Link instability detected
+Router-1,2026-04-18 19:13:17,Packet Loss,Info,Routine telemetry scan
+Router-1,2026-04-18 19:13:20,High Latency,Info,Routine telemetry scan
+Server-App1,2026-04-18 19:13:23,Memory Utilization High,Info,Routine telemetry scan
+Router-2,2026-04-18 19:13:26,High Latency,Info,Routine telemetry scan
+Router-2,2026-04-18 19:13:29,High Latency,Info,Routine telemetry scan
+Switch-4,2026-04-18 19:13:32,Port Flapping,Info,Routine telemetry scan
+Switch-2,2026-04-18 19:13:35,License Expiry,Warning,Routine telemetry scan
+Switch-1,2026-04-18 19:13:38,License Expiry,Warning,Routine telemetry scan
+Switch-1,2026-04-18 19:13:41,Interface Down,Critical,Uplink trunk disconnected
+Switch-1,2026-04-18 19:13:41,Packet Loss,Minor,Link instability detected
+Switch-1,2026-04-18 19:13:41,Packet Loss,Minor,Link instability detected
+Switch-1,2026-04-18 19:13:44,License Expiry,Warning,Routine telemetry scan
+Switch-1,2026-04-18 19:13:47,License Expiry,Warning,Routine telemetry scan
+Server-App3,2026-04-18 19:13:50,CPU High,Info,Routine telemetry scan
+Switch-4,2026-04-18 19:13:53,Port Flapping,Info,Routine telemetry scan
+Server-App2,2026-04-18 19:13:56,Memory Utilization High,Info,Routine telemetry scan
+Server-DB1,2026-04-18 19:13:59,Memory Utilization High,Info,Routine telemetry scan
+Switch-4,2026-04-18 19:14:02,Interface Down,Critical,Uplink trunk disconnected
+Switch-4,2026-04-18 19:14:02,Packet Loss,Minor,Link instability detected
+Switch-4,2026-04-18 19:14:02,Port Flapping,Warning,Link instability detected
+Switch-4,2026-04-18 19:14:02,Port Flapping,Warning,Link instability detected
+Server-DB1,2026-04-18 19:14:05,Memory Utilization High,Info,Routine telemetry scan
+Router-1,2026-04-18 19:14:08,BGP Down,Critical,Peer adjacency failed
+Router-1,2026-04-18 19:14:08,Packet Loss,Minor,Secondary network degradation
+Router-1,2026-04-18 19:14:08,Packet Loss,Minor,Secondary network degradation
+Router-1,2026-04-18 19:14:08,High Latency,Warning,Secondary network degradation
+Switch-4,2026-04-18 19:14:11,Port Flapping,Info,Routine telemetry scan
+Switch-4,2026-04-18 19:14:14,Interface Down,Critical,Uplink trunk disconnected
+Switch-4,2026-04-18 19:14:14,Packet Loss,Minor,Link instability detected
+Switch-4,2026-04-18 19:14:14,Port Flapping,Warning,Link instability detected
+Switch-4,2026-04-18 19:14:14,Port Flapping,Warning,Link instability detected
+Switch-3,2026-04-18 19:14:17,Port Flapping,Info,Routine telemetry scan
+Server-App2,2026-04-18 19:14:20,Memory Utilization High,Info,Routine telemetry scan
+Switch-2,2026-04-18 19:14:23,License Expiry,Warning,Routine telemetry scan
+Server-DB1,2026-04-18 19:14:26,CPU High,Info,Routine telemetry scan
+Router-3,2026-04-18 19:14:29,Packet Loss,Info,Routine telemetry scan
+Switch-4,2026-04-18 19:14:32,License Expiry,Warning,Routine telemetry scan
+Router-1,2026-04-18 19:14:35,OSPF Down,Major,Peer adjacency failed
+Router-1,2026-04-18 19:14:35,Packet Loss,Minor,Secondary network degradation
+Router-1,2026-04-18 19:14:35,Packet Loss,Minor,Secondary network degradation
+Router-1,2026-04-18 19:14:35,High Latency,Warning,Secondary network degradation
+Router-2,2026-04-18 19:14:38,Packet Loss,Info,Routine telemetry scan
+Server-DB1,2026-04-18 19:14:41,Application Crash,Critical,Hardware boundary breached
+Server-DB1,2026-04-18 19:14:41,Memory Utilization High,Warning,Process starving for resources
+Server-DB1,2026-04-18 19:14:41,High Latency,Warning,Process starving for resources
+Server-App2,2026-04-18 19:14:44,Memory Utilization High,Info,Routine telemetry scan
+Server-App3,2026-04-18 19:14:47,CPU High,Info,Routine telemetry scan
+Router-2,2026-04-18 19:14:50,Packet Loss,Info,Routine telemetry scan
+Router-2,2026-04-18 19:14:53,Interface Down,Critical,Peer adjacency failed
+Router-2,2026-04-18 19:14:53,Packet Loss,Minor,Secondary network degradation
+Router-2,2026-04-18 19:14:53,High Latency,Warning,Secondary network degradation
+Router-1,2026-04-18 19:14:56,Interface Down,Critical,Peer adjacency failed
+Router-1,2026-04-18 19:14:56,High Latency,Warning,Secondary network degradation
+Router-1,2026-04-18 19:14:56,Packet Loss,Minor,Secondary network degradation
+Router-1,2026-04-18 19:14:56,High Latency,Warning,Secondary network degradation
+Server-App3,2026-04-18 19:14:59,Memory Utilization High,Info,Routine telemetry scan
+Switch-2,2026-04-18 19:15:02,License Expiry,Warning,Routine telemetry scan
+Server-App1,2026-04-18 19:15:05,Memory Utilization High,Info,Routine telemetry scan
+Router-2,2026-04-18 19:15:08,Packet Loss,Info,Routine telemetry scan
+Router-3,2026-04-18 19:15:11,Interface Down,Critical,Peer adjacency failed
+Router-3,2026-04-18 19:15:11,Packet Loss,Minor,Secondary network degradation
+Router-3,2026-04-18 19:15:11,Packet Loss,Minor,Secondary network degradation
+Switch-4,2026-04-18 19:15:14,License Expiry,Warning,Routine telemetry scan
+Switch-4,2026-04-18 19:15:17,Interface Down,Critical,Uplink trunk disconnected
+Switch-4,2026-04-18 19:15:17,Port Flapping,Warning,Link instability detected
+Switch-4,2026-04-18 19:15:17,Packet Loss,Minor,Link instability detected
+Switch-4,2026-04-18 19:15:17,Packet Loss,Minor,Link instability detected
+Server-App2,2026-04-18 19:15:20,Memory Utilization High,Info,Routine telemetry scan
+Server-App1,2026-04-18 19:15:23,CPU High,Info,Routine telemetry scan
+Router-3,2026-04-18 19:15:26,High Latency,Info,Routine telemetry scan
+Switch-1,2026-04-18 19:15:29,License Expiry,Warning,Routine telemetry scan
+Router-2,2026-04-18 19:15:32,High Latency,Info,Routine telemetry scan
+Router-3,2026-04-18 19:15:35,High Latency,Info,Routine telemetry scan
+Switch-2,2026-04-18 19:15:38,Port Flapping,Info,Routine telemetry scan
+Router-3,2026-04-18 19:15:41,Packet Loss,Info,Routine telemetry scan
+Router-3,2026-04-18 19:15:44,High Latency,Info,Routine telemetry scan
+Switch-3,2026-04-18 19:15:47,Interface Down,Critical,Uplink trunk disconnected
+Switch-3,2026-04-18 19:15:47,Port Flapping,Warning,Link instability detected
+Switch-3,2026-04-18 19:15:47,Packet Loss,Minor,Link instability detected
+Server-App1,2026-04-18 19:15:50,CPU High,Info,Routine telemetry scan
+Router-3,2026-04-18 19:15:53,High Latency,Info,Routine telemetry scan
+Switch-4,2026-04-18 19:15:56,Port Flapping,Info,Routine telemetry scan
+Server-App1,2026-04-18 19:15:59,Memory Utilization High,Info,Routine telemetry scan
+Router-1,2026-04-18 19:16:02,BGP Down,Critical,Peer adjacency failed
+Router-1,2026-04-18 19:16:02,High Latency,Warning,Secondary network degradation
+Router-1,2026-04-18 19:16:02,High Latency,Warning,Secondary network degradation
+Router-1,2026-04-18 19:16:02,Packet Loss,Minor,Secondary network degradation
+Router-1,2026-04-18 19:16:02,Packet Loss,Minor,Secondary network degradation
+Server-App1,2026-04-18 19:16:05,CPU High,Info,Routine telemetry scan
+Router-3,2026-04-18 19:16:08,High Latency,Info,Routine telemetry scan
+Router-1,2026-04-18 19:16:11,High Latency,Info,Routine telemetry scan
+Switch-1,2026-04-18 19:16:14,License Expiry,Warning,Routine telemetry scan
+Router-1,2026-04-18 19:16:17,High Latency,Info,Routine telemetry scan
+Router-2,2026-04-18 19:16:20,Packet Loss,Info,Routine telemetry scan
+Server-App2,2026-04-18 19:16:23,Memory Utilization High,Info,Routine telemetry scan
+Router-2,2026-04-18 19:16:26,Packet Loss,Info,Routine telemetry scan
+Router-1,2026-04-18 19:16:29,Interface Down,Critical,Peer adjacency failed
+Router-1,2026-04-18 19:16:29,Packet Loss,Minor,Secondary network degradation
+Router-1,2026-04-18 19:16:29,Packet Loss,Minor,Secondary network degradation
+Router-3,2026-04-18 19:16:32,OSPF Down,Major,Peer adjacency failed
+Router-3,2026-04-18 19:16:32,Packet Loss,Minor,Secondary network degradation
+Router-3,2026-04-18 19:16:32,Packet Loss,Minor,Secondary network degradation
+Switch-2,2026-04-18 19:16:35,License Expiry,Warning,Routine telemetry scan
+Server-App3,2026-04-18 19:16:38,Memory Utilization High,Info,Routine telemetry scan
+Server-DB1,2026-04-18 19:16:41,CPU High,Info,Routine telemetry scan
+Switch-1,2026-04-18 19:16:44,License Expiry,Warning,Routine telemetry scan
+Server-App1,2026-04-18 19:16:47,Disk Space Exhausted,Critical,Hardware boundary breached
+Server-App1,2026-04-18 19:16:47,Memory Utilization High,Warning,Process starving for resources
+Server-App1,2026-04-18 19:16:47,Database Disconnect,Minor,Process starving for resources
+Server-App1,2026-04-18 19:16:47,Memory Utilization High,Warning,Process starving for resources
+Router-2,2026-04-18 19:16:50,Interface Down,Critical,Peer adjacency failed
+Router-2,2026-04-18 19:16:50,Packet Loss,Minor,Secondary network degradation
+Router-2,2026-04-18 19:16:50,High Latency,Warning,Secondary network degradation
+Switch-2,2026-04-18 19:16:53,Port Flapping,Info,Routine telemetry scan
+Router-3,2026-04-18 19:16:56,Interface Down,Critical,Peer adjacency failed
+Router-3,2026-04-18 19:16:56,High Latency,Warning,Secondary network degradation
+Router-3,2026-04-18 19:16:56,High Latency,Warning,Secondary network degradation
+Router-3,2026-04-18 19:16:56,High Latency,Warning,Secondary network degradation
+Switch-2,2026-04-18 19:16:59,Interface Down,Critical,Uplink trunk disconnected
+Switch-2,2026-04-18 19:16:59,Packet Loss,Minor,Link instability detected
+Switch-2,2026-04-18 19:16:59,Packet Loss,Minor,Link instability detected
+Router-1,2026-04-18 19:17:02,Interface Down,Critical,Peer adjacency failed
+Router-1,2026-04-18 19:17:02,High Latency,Warning,Secondary network degradation
+Router-1,2026-04-18 19:17:02,Packet Loss,Minor,Secondary network degradation
+Router-1,2026-04-18 19:17:02,Packet Loss,Minor,Secondary network degradation
+Server-App2,2026-04-18 19:17:05,CPU High,Info,Routine telemetry scan
+Switch-3,2026-04-18 19:17:08,Port Flapping,Info,Routine telemetry scan
+Router-2,2026-04-18 19:17:11,Packet Loss,Info,Routine telemetry scan
+Server-App2,2026-04-18 19:17:14,Memory Utilization High,Info,Routine telemetry scan
+Router-3,2026-04-18 19:17:17,High Latency,Info,Routine telemetry scan
+Server-App1,2026-04-18 19:17:20,CPU High,Info,Routine telemetry scan
+Server-App3,2026-04-18 19:17:23,CPU High,Info,Routine telemetry scan
+Switch-3,2026-04-18 19:17:26,Interface Down,Critical,Uplink trunk disconnected
+Switch-3,2026-04-18 19:17:26,Port Flapping,Warning,Link instability detected
+Switch-3,2026-04-18 19:17:26,Packet Loss,Minor,Link instability detected
+Switch-3,2026-04-18 19:17:26,Packet Loss,Minor,Link instability detected
+Switch-3,2026-04-18 19:17:29,Interface Down,Critical,Uplink trunk disconnected
+Switch-3,2026-04-18 19:17:29,Port Flapping,Warning,Link instability detected
+Switch-3,2026-04-18 19:17:29,Packet Loss,Minor,Link instability detected
+Router-2,2026-04-18 19:17:32,Packet Loss,Info,Routine telemetry scan
+Server-DB1,2026-04-18 19:17:35,Memory Utilization High,Info,Routine telemetry scan
+Router-3,2026-04-18 19:17:38,High Latency,Info,Routine telemetry scan
+Server-App1,2026-04-18 19:17:41,CPU High,Info,Routine telemetry scan
+Router-1,2026-04-18 19:17:44,High Latency,Info,Routine telemetry scan
+Switch-4,2026-04-18 19:17:47,Port Flapping,Info,Routine telemetry scan
+Switch-3,2026-04-18 19:17:50,Port Flapping,Info,Routine telemetry scan
+Server-DB1,2026-04-18 19:17:53,CPU High,Info,Routine telemetry scan
+Router-2,2026-04-18 19:17:56,OSPF Down,Major,Peer adjacency failed
+Router-2,2026-04-18 19:17:56,High Latency,Warning,Secondary network degradation
+Router-2,2026-04-18 19:17:56,High Latency,Warning,Secondary network degradation
+Router-2,2026-04-18 19:17:56,High Latency,Warning,Secondary network degradation
+Router-2,2026-04-18 19:17:56,Packet Loss,Minor,Secondary network degradation
+Router-2,2026-04-18 19:17:59,Packet Loss,Info,Routine telemetry scan
+Server-DB1,2026-04-18 19:18:02,Memory Utilization High,Info,Routine telemetry scan
+Server-App3,2026-04-18 19:18:05,CPU High,Info,Routine telemetry scan
+Server-App3,2026-04-18 19:18:08,Application Crash,Critical,Hardware boundary breached
+Server-App3,2026-04-18 19:18:08,Memory Utilization High,Warning,Process starving for resources
+Server-App3,2026-04-18 19:18:08,High Latency,Warning,Process starving for resources
+Server-App3,2026-04-18 19:18:08,High Latency,Warning,Process starving for resources
+Switch-1,2026-04-18 19:18:11,Port Flapping,Info,Routine telemetry scan
+Switch-2,2026-04-18 19:18:14,Port Flapping,Info,Routine telemetry scan
+Switch-1,2026-04-18 19:18:17,Port Flapping,Info,Routine telemetry scan
+Switch-1,2026-04-18 19:18:20,Port Flapping,Info,Routine telemetry scan
+Router-3,2026-04-18 19:18:23,OSPF Down,Major,Peer adjacency failed
+Router-3,2026-04-18 19:18:23,Packet Loss,Minor,Secondary network degradation
+Router-3,2026-04-18 19:18:23,High Latency,Warning,Secondary network degradation
+Switch-1,2026-04-18 19:18:26,Port Flapping,Info,Routine telemetry scan
+Server-App2,2026-04-18 19:18:29,Memory Utilization High,Info,Routine telemetry scan
+Server-App1,2026-04-18 19:18:32,Memory Utilization High,Info,Routine telemetry scan
+Switch-1,2026-04-18 19:18:35,Port Flapping,Info,Routine telemetry scan
+Router-3,2026-04-18 19:18:38,High Latency,Info,Routine telemetry scan
+Server-DB1,2026-04-18 19:18:41,Memory Utilization High,Info,Routine telemetry scan
+Router-2,2026-04-18 19:18:44,High Latency,Info,Routine telemetry scan
+Server-App2,2026-04-18 19:18:47,Memory Utilization High,Info,Routine telemetry scan
+Server-App3,2026-04-18 19:18:50,Application Crash,Critical,Hardware boundary breached
+Server-App3,2026-04-18 19:18:50,High Latency,Warning,Process starving for resources
+Server-App3,2026-04-18 19:18:50,Database Disconnect,Minor,Process starving for resources
+Server-App3,2026-04-18 19:18:50,Database Disconnect,Minor,Process starving for resources
+Server-App2,2026-04-18 19:18:53,CPU High,Major,Hardware boundary breached
+Server-App2,2026-04-18 19:18:53,High Latency,Warning,Process starving for resources
+Server-App2,2026-04-18 19:18:53,High Latency,Warning,Process starving for resources
+Server-App2,2026-04-18 19:18:53,High Latency,Warning,Process starving for resources
+Switch-2,2026-04-18 19:18:56,Interface Down,Critical,Uplink trunk disconnected
+Switch-2,2026-04-18 19:18:56,Port Flapping,Warning,Link instability detected
+Switch-2,2026-04-18 19:18:56,Packet Loss,Minor,Link instability detected
+Switch-2,2026-04-18 19:18:56,Port Flapping,Warning,Link instability detected
+Router-3,2026-04-18 19:18:59,Packet Loss,Info,Routine telemetry scan
+Switch-1,2026-04-18 19:19:02,Interface Down,Critical,Uplink trunk disconnected
+Switch-1,2026-04-18 19:19:02,Packet Loss,Minor,Link instability detected
+Switch-1,2026-04-18 19:19:02,Port Flapping,Warning,Link instability detected
+Router-3,2026-04-18 19:19:05,High Latency,Info,Routine telemetry scan
+Switch-2,2026-04-18 19:19:08,Port Flapping,Info,Routine telemetry scan
+Router-1,2026-04-18 19:19:11,Packet Loss,Info,Routine telemetry scan
+Router-2,2026-04-18 19:19:14,BGP Down,Critical,Peer adjacency failed
+Router-2,2026-04-18 19:19:14,Packet Loss,Minor,Secondary network degradation
+Router-2,2026-04-18 19:19:14,High Latency,Warning,Secondary network degradation
+Router-1,2026-04-18 19:19:17,High Latency,Info,Routine telemetry scan
+Server-App3,2026-04-18 19:19:20,Memory Utilization High,Info,Routine telemetry scan
+Server-DB1,2026-04-18 19:19:23,Application Crash,Critical,Hardware boundary breached
+Server-DB1,2026-04-18 19:19:23,Memory Utilization High,Warning,Process starving for resources
+Server-DB1,2026-04-18 19:19:23,Memory Utilization High,Warning,Process starving for resources
+Switch-4,2026-04-18 19:19:26,License Expiry,Warning,Routine telemetry scan
+Switch-2,2026-04-18 19:19:29,Port Flapping,Info,Routine telemetry scan
+Switch-1,2026-04-18 19:19:32,Port Flapping,Info,Routine telemetry scan
+Router-1,2026-04-18 19:19:35,High Latency,Info,Routine telemetry scan
+Server-App1,2026-04-18 19:19:38,Disk Space Exhausted,Critical,Hardware boundary breached
+Server-App1,2026-04-18 19:19:38,High Latency,Warning,Process starving for resources
+Server-App1,2026-04-18 19:19:38,Memory Utilization High,Warning,Process starving for resources
+Switch-2,2026-04-18 19:19:41,Port Flapping,Info,Routine telemetry scan
+Switch-1,2026-04-18 19:19:44,Port Flapping,Info,Routine telemetry scan
+Server-App3,2026-04-18 19:19:47,CPU High,Info,Routine telemetry scan
+Server-DB1,2026-04-18 19:19:50,Memory Utilization High,Info,Routine telemetry scan
+Switch-4,2026-04-18 19:19:53,Interface Down,Critical,Uplink trunk disconnected
+Switch-4,2026-04-18 19:19:53,Packet Loss,Minor,Link instability detected
+Switch-4,2026-04-18 19:19:53,Port Flapping,Warning,Link instability detected
+Switch-4,2026-04-18 19:19:53,Port Flapping,Warning,Link instability detected
+Router-2,2026-04-18 19:19:56,Packet Loss,Info,Routine telemetry scan
+Router-1,2026-04-18 19:19:59,BGP Down,Critical,Peer adjacency failed
+Router-1,2026-04-18 19:19:59,Packet Loss,Minor,Secondary network degradation
+Router-1,2026-04-18 19:19:59,Packet Loss,Minor,Secondary network degradation
+Switch-1,2026-04-18 19:20:02,Port Flapping,Info,Routine telemetry scan
+Switch-2,2026-04-18 19:20:05,Port Flapping,Info,Routine telemetry scan
+Server-DB1,2026-04-18 19:20:08,CPU High,Info,Routine telemetry scan
+Server-App1,2026-04-18 19:20:11,Memory Utilization High,Info,Routine telemetry scan
+Server-App1,2026-04-18 19:20:14,Memory Utilization High,Info,Routine telemetry scan
+Router-2,2026-04-18 19:20:17,High Latency,Info,Routine telemetry scan
+Server-App1,2026-04-18 19:20:20,CPU High,Major,Hardware boundary breached
+Server-App1,2026-04-18 19:20:20,Database Disconnect,Minor,Process starving for resources
+Server-App1,2026-04-18 19:20:20,Memory Utilization High,Warning,Process starving for resources
+Server-App1,2026-04-18 19:20:20,Memory Utilization High,Warning,Process starving for resources
+Switch-1,2026-04-18 19:20:23,Port Flapping,Info,Routine telemetry scan
+Router-3,2026-04-18 19:20:26,Packet Loss,Info,Routine telemetry scan
+Switch-3,2026-04-18 19:20:29,Port Flapping,Info,Routine telemetry scan
+Switch-2,2026-04-18 19:20:32,License Expiry,Warning,Routine telemetry scan
+Server-App3,2026-04-18 19:20:35,Memory Utilization High,Info,Routine telemetry scan
+Switch-1,2026-04-18 19:20:38,Port Flapping,Info,Routine telemetry scan
+Switch-2,2026-04-18 19:20:41,License Expiry,Warning,Routine telemetry scan
+Server-DB1,2026-04-18 19:20:44,Memory Utilization High,Info,Routine telemetry scan
+Router-1,2026-04-18 19:20:47,High Latency,Info,Routine telemetry scan
+Server-App2,2026-04-18 19:20:50,Application Crash,Critical,Hardware boundary breached
+Server-App2,2026-04-18 19:20:50,Database Disconnect,Minor,Process starving for resources
+Server-App2,2026-04-18 19:20:50,High Latency,Warning,Process starving for resources
+Server-App2,2026-04-18 19:20:50,Database Disconnect,Minor,Process starving for resources
+Switch-1,2026-04-18 19:20:53,License Expiry,Warning,Routine telemetry scan
+Server-DB1,2026-04-18 19:20:56,Memory Utilization High,Info,Routine telemetry scan
+Switch-4,2026-04-18 19:20:59,License Expiry,Warning,Routine telemetry scan
+Switch-3,2026-04-18 19:21:02,Port Flapping,Info,Routine telemetry scan
+Router-2,2026-04-18 19:21:05,Packet Loss,Info,Routine telemetry scan
+Server-App1,2026-04-18 19:21:08,Memory Utilization High,Info,Routine telemetry scan
+Server-App3,2026-04-18 19:21:11,CPU High,Info,Routine telemetry scan
+Router-3,2026-04-18 19:21:14,BGP Down,Critical,Peer adjacency failed
+Router-3,2026-04-18 19:21:14,Packet Loss,Minor,Secondary network degradation
+Router-3,2026-04-18 19:21:14,High Latency,Warning,Secondary network degradation
+Server-App2,2026-04-18 19:21:17,Application Crash,Critical,Hardware boundary breached
+Server-App2,2026-04-18 19:21:17,High Latency,Warning,Process starving for resources
+Server-App2,2026-04-18 19:21:17,Database Disconnect,Minor,Process starving for resources
+Server-App2,2026-04-18 19:21:17,Memory Utilization High,Warning,Process starving for resources
+Server-App2,2026-04-18 19:21:17,Database Disconnect,Minor,Process starving for resources
+Server-App2,2026-04-18 19:21:20,CPU High,Info,Routine telemetry scan
+Switch-4,2026-04-18 19:21:23,Port Flapping,Info,Routine telemetry scan
+Server-App2,2026-04-18 19:21:26,CPU High,Info,Routine telemetry scan
+Switch-3,2026-04-18 19:21:29,License Expiry,Warning,Routine telemetry scan
+Server-App2,2026-04-18 19:21:32,CPU High,Info,Routine telemetry scan
+Switch-3,2026-04-18 19:21:35,Interface Down,Critical,Uplink trunk disconnected
+Switch-3,2026-04-18 19:21:35,Port Flapping,Warning,Link instability detected
+Switch-3,2026-04-18 19:21:35,Port Flapping,Warning,Link instability detected
+Router-3,2026-04-18 19:21:38,OSPF Down,Major,Peer adjacency failed
+Router-3,2026-04-18 19:21:38,High Latency,Warning,Secondary network degradation
+Router-3,2026-04-18 19:21:38,High Latency,Warning,Secondary network degradation
+Router-3,2026-04-18 19:21:38,Packet Loss,Minor,Secondary network degradation
+Router-3,2026-04-18 19:21:38,High Latency,Warning,Secondary network degradation
+Server-DB1,2026-04-18 19:21:41,CPU High,Major,Hardware boundary breached
+Server-DB1,2026-04-18 19:21:41,Memory Utilization High,Warning,Process starving for resources
+Server-DB1,2026-04-18 19:21:41,Memory Utilization High,Warning,Process starving for resources
+Server-DB1,2026-04-18 19:21:41,Database Disconnect,Minor,Process starving for resources
+Server-DB1,2026-04-18 19:21:41,Memory Utilization High,Warning,Process starving for resources
+Router-2,2026-04-18 19:21:44,Packet Loss,Info,Routine telemetry scan
+Switch-1,2026-04-18 19:21:47,Port Flapping,Info,Routine telemetry scan
+Router-2,2026-04-18 19:21:50,High Latency,Info,Routine telemetry scan
+Switch-4,2026-04-18 19:21:53,Port Flapping,Info,Routine telemetry scan
+Router-2,2026-04-18 19:21:56,Packet Loss,Info,Routine telemetry scan
+Server-DB1,2026-04-18 19:21:59,Memory Utilization High,Info,Routine telemetry scan
+Server-App3,2026-04-18 19:22:02,Memory Utilization High,Info,Routine telemetry scan
+Router-3,2026-04-18 19:22:05,High Latency,Info,Routine telemetry scan
+Switch-1,2026-04-18 19:22:08,Port Flapping,Info,Routine telemetry scan
+Router-2,2026-04-18 19:22:11,High Latency,Info,Routine telemetry scan
+Switch-3,2026-04-18 19:22:14,Interface Down,Critical,Uplink trunk disconnected
+Switch-3,2026-04-18 19:22:14,Port Flapping,Warning,Link instability detected
+Switch-3,2026-04-18 19:22:14,Port Flapping,Warning,Link instability detected
+Switch-3,2026-04-18 19:22:14,Port Flapping,Warning,Link instability detected
+Router-3,2026-04-18 19:22:17,Packet Loss,Info,Routine telemetry scan
+Router-2,2026-04-18 19:22:20,Packet Loss,Info,Routine telemetry scan
+Switch-3,2026-04-18 19:22:23,Port Flapping,Info,Routine telemetry scan
+Switch-1,2026-04-18 19:22:26,Interface Down,Critical,Uplink trunk disconnected
+Switch-1,2026-04-18 19:22:26,Packet Loss,Minor,Link instability detected
+Switch-1,2026-04-18 19:22:26,Port Flapping,Warning,Link instability detected
+Switch-1,2026-04-18 19:22:26,Packet Loss,Minor,Link instability detected
+Server-App1,2026-04-18 19:22:29,CPU High,Info,Routine telemetry scan
+Switch-3,2026-04-18 19:22:32,Interface Down,Critical,Uplink trunk disconnected
+Switch-3,2026-04-18 19:22:32,Port Flapping,Warning,Link instability detected
+Switch-3,2026-04-18 19:22:32,Packet Loss,Minor,Link instability detected
+Switch-3,2026-04-18 19:22:32,Port Flapping,Warning,Link instability detected
+Switch-1,2026-04-18 19:22:35,Port Flapping,Info,Routine telemetry scan
+Router-2,2026-04-18 19:22:38,High Latency,Info,Routine telemetry scan
+Server-App1,2026-04-18 19:22:41,Memory Utilization High,Info,Routine telemetry scan
+Router-3,2026-04-18 19:22:44,BGP Down,Critical,Peer adjacency failed
+Router-3,2026-04-18 19:22:44,High Latency,Warning,Secondary network degradation
+Router-3,2026-04-18 19:22:44,High Latency,Warning,Secondary network degradation
+Router-3,2026-04-18 19:22:44,Packet Loss,Minor,Secondary network degradation
+Switch-2,2026-04-18 19:22:47,License Expiry,Warning,Routine telemetry scan
+Server-App1,2026-04-18 19:22:50,Disk Space Exhausted,Critical,Hardware boundary breached
+Server-App1,2026-04-18 19:22:50,Database Disconnect,Minor,Process starving for resources
+Server-App1,2026-04-18 19:22:50,Memory Utilization High,Warning,Process starving for resources
+Server-App3,2026-04-18 19:22:53,Disk Space Exhausted,Critical,Hardware boundary breached
+Server-App3,2026-04-18 19:22:53,High Latency,Warning,Process starving for resources
+Server-App3,2026-04-18 19:22:53,Database Disconnect,Minor,Process starving for resources
+Server-App3,2026-04-18 19:22:53,Memory Utilization High,Warning,Process starving for resources
+Server-App3,2026-04-18 19:22:53,High Latency,Warning,Process starving for resources
+Server-App1,2026-04-18 19:22:56,Application Crash,Critical,Hardware boundary breached
+Server-App1,2026-04-18 19:22:56,Memory Utilization High,Warning,Process starving for resources
+Server-App1,2026-04-18 19:22:56,Database Disconnect,Minor,Process starving for resources
+Server-App3,2026-04-18 19:22:59,CPU High,Info,Routine telemetry scan
+Server-DB1,2026-04-18 19:23:02,CPU High,Info,Routine telemetry scan
+Server-App1,2026-04-18 19:23:05,Memory Utilization High,Info,Routine telemetry scan
+Server-App1,2026-04-18 19:23:08,CPU High,Info,Routine telemetry scan
+Server-App1,2026-04-18 19:23:11,CPU High,Info,Routine telemetry scan
+Router-2,2026-04-18 19:23:14,High Latency,Info,Routine telemetry scan
+Server-App2,2026-04-18 19:23:17,CPU High,Info,Routine telemetry scan
+Router-1,2026-04-18 19:23:20,Packet Loss,Info,Routine telemetry scan
+Switch-1,2026-04-18 19:23:23,Port Flapping,Info,Routine telemetry scan
+Router-3,2026-04-18 19:23:26,Packet Loss,Info,Routine telemetry scan
+Server-DB1,2026-04-18 19:23:29,CPU High,Info,Routine telemetry scan
+Router-3,2026-04-18 19:23:32,Packet Loss,Info,Routine telemetry scan
+Router-2,2026-04-18 19:23:35,Packet Loss,Info,Routine telemetry scan
+Router-1,2026-04-18 19:23:38,Packet Loss,Info,Routine telemetry scan
+Server-App1,2026-04-18 19:23:41,CPU High,Info,Routine telemetry scan
+Switch-1,2026-04-18 19:23:44,License Expiry,Warning,Routine telemetry scan
+Router-1,2026-04-18 19:23:47,High Latency,Info,Routine telemetry scan
+Router-2,2026-04-18 19:23:50,Packet Loss,Info,Routine telemetry scan
+Router-3,2026-04-18 19:23:53,Packet Loss,Info,Routine telemetry scan
+Router-1,2026-04-18 19:23:56,High Latency,Info,Routine telemetry scan
+Router-1,2026-04-18 19:23:59,Packet Loss,Info,Routine telemetry scan
+Switch-2,2026-04-18 19:24:02,Interface Down,Critical,Uplink trunk disconnected
+Switch-2,2026-04-18 19:24:02,Port Flapping,Warning,Link instability detected
+Switch-2,2026-04-18 19:24:02,Packet Loss,Minor,Link instability detected
+Switch-2,2026-04-18 19:24:02,Port Flapping,Warning,Link instability detected
+Server-App1,2026-04-18 19:24:05,Memory Utilization High,Info,Routine telemetry scan
+Server-DB1,2026-04-18 19:24:08,Memory Utilization High,Info,Routine telemetry scan
+Router-1,2026-04-18 19:24:11,Packet Loss,Info,Routine telemetry scan
+Router-2,2026-04-18 19:24:14,Packet Loss,Info,Routine telemetry scan
+Switch-2,2026-04-18 19:24:17,License Expiry,Warning,Routine telemetry scan
+Router-3,2026-04-18 19:24:20,High Latency,Info,Routine telemetry scan
+Server-App1,2026-04-18 19:24:23,Application Crash,Critical,Hardware boundary breached
+Server-App1,2026-04-18 19:24:23,High Latency,Warning,Process starving for resources
+Server-App1,2026-04-18 19:24:23,Database Disconnect,Minor,Process starving for resources
+Server-App1,2026-04-18 19:24:23,Database Disconnect,Minor,Process starving for resources
+Router-1,2026-04-18 19:24:26,OSPF Down,Major,Peer adjacency failed
+Router-1,2026-04-18 19:24:26,Packet Loss,Minor,Secondary network degradation
+Router-1,2026-04-18 19:24:26,Packet Loss,Minor,Secondary network degradation
+Router-1,2026-04-18 19:24:29,OSPF Down,Major,Peer adjacency failed
+Router-1,2026-04-18 19:24:29,Packet Loss,Minor,Secondary network degradation
+Router-1,2026-04-18 19:24:29,High Latency,Warning,Secondary network degradation
+Router-1,2026-04-18 19:24:32,Packet Loss,Info,Routine telemetry scan
+Switch-3,2026-04-18 19:24:35,Port Flapping,Info,Routine telemetry scan
+Router-1,2026-04-18 19:24:38,Packet Loss,Info,Routine telemetry scan
+Server-App2,2026-04-18 19:24:41,Memory Utilization High,Info,Routine telemetry scan
+Router-3,2026-04-18 19:24:44,Packet Loss,Info,Routine telemetry scan
+Router-1,2026-04-18 19:24:47,High Latency,Info,Routine telemetry scan
+Server-App2,2026-04-18 19:24:50,CPU High,Info,Routine telemetry scan
+Router-2,2026-04-18 19:24:53,High Latency,Info,Routine telemetry scan
+Server-App1,2026-04-18 19:24:56,CPU High,Info,Routine telemetry scan
+Switch-3,2026-04-18 19:24:59,Port Flapping,Info,Routine telemetry scan
+Server-DB1,2026-04-18 19:25:02,CPU High,Major,Hardware boundary breached
+Server-DB1,2026-04-18 19:25:02,Memory Utilization High,Warning,Process starving for resources
+Server-DB1,2026-04-18 19:25:02,High Latency,Warning,Process starving for resources
+Server-DB1,2026-04-18 19:25:02,Database Disconnect,Minor,Process starving for resources
+Switch-2,2026-04-18 19:25:05,Port Flapping,Info,Routine telemetry scan
+Server-DB1,2026-04-18 19:25:08,Memory Utilization High,Info,Routine telemetry scan
+Switch-4,2026-04-18 19:25:11,License Expiry,Warning,Routine telemetry scan
+Server-App1,2026-04-18 19:25:14,CPU High,Info,Routine telemetry scan
+Router-1,2026-04-18 19:25:17,BGP Down,Critical,Peer adjacency failed
+Router-1,2026-04-18 19:25:17,High Latency,Warning,Secondary network degradation
+Router-1,2026-04-18 19:25:17,High Latency,Warning,Secondary network degradation
+Router-1,2026-04-18 19:25:17,High Latency,Warning,Secondary network degradation
+Server-App1,2026-04-18 19:25:20,Memory Utilization High,Info,Routine telemetry scan
+Router-1,2026-04-18 19:25:23,Packet Loss,Info,Routine telemetry scan
+Server-App2,2026-04-18 19:25:26,CPU High,Info,Routine telemetry scan
+Switch-4,2026-04-18 19:25:29,License Expiry,Warning,Routine telemetry scan
+Server-DB1,2026-04-18 19:25:32,Memory Utilization High,Info,Routine telemetry scan
+Router-1,2026-04-18 19:25:35,High Latency,Info,Routine telemetry scan
+Router-2,2026-04-18 19:25:38,Packet Loss,Info,Routine telemetry scan
+Router-1,2026-04-18 19:25:41,Packet Loss,Info,Routine telemetry scan
+Server-App1,2026-04-18 19:25:44,Memory Utilization High,Info,Routine telemetry scan
+Router-1,2026-04-18 19:25:47,Packet Loss,Info,Routine telemetry scan
+Server-DB1,2026-04-18 19:25:50,CPU High,Info,Routine telemetry scan
+Server-App1,2026-04-18 19:25:53,Memory Utilization High,Info,Routine telemetry scan
+Switch-2,2026-04-18 19:25:56,Interface Down,Critical,Uplink trunk disconnected
+Switch-2,2026-04-18 19:25:56,Port Flapping,Warning,Link instability detected
+Switch-2,2026-04-18 19:25:56,Port Flapping,Warning,Link instability detected
+Switch-2,2026-04-18 19:25:56,Packet Loss,Minor,Link instability detected
+Router-1,2026-04-18 19:25:59,High Latency,Info,Routine telemetry scan
+Switch-2,2026-04-18 19:26:02,License Expiry,Warning,Routine telemetry scan
+Router-1,2026-04-18 19:26:05,Packet Loss,Info,Routine telemetry scan
+Switch-4,2026-04-18 19:26:08,Port Flapping,Info,Routine telemetry scan
+Switch-3,2026-04-18 19:26:11,Interface Down,Critical,Uplink trunk disconnected
+Switch-3,2026-04-18 19:26:11,Port Flapping,Warning,Link instability detected
+Switch-3,2026-04-18 19:26:11,Packet Loss,Minor,Link instability detected
+Server-App2,2026-04-18 19:26:14,CPU High,Info,Routine telemetry scan
+Server-App3,2026-04-18 19:26:17,CPU High,Info,Routine telemetry scan
+Server-DB1,2026-04-18 19:26:20,CPU High,Info,Routine telemetry scan
+Switch-2,2026-04-18 19:26:23,Port Flapping,Info,Routine telemetry scan
+Server-App2,2026-04-18 19:26:26,Memory Utilization High,Info,Routine telemetry scan
+Switch-3,2026-04-18 19:26:29,License Expiry,Warning,Routine telemetry scan
+Router-3,2026-04-18 19:26:32,Packet Loss,Info,Routine telemetry scan
+Switch-3,2026-04-18 19:26:35,Interface Down,Critical,Uplink trunk disconnected
+Switch-3,2026-04-18 19:26:35,Port Flapping,Warning,Link instability detected
+Switch-3,2026-04-18 19:26:35,Packet Loss,Minor,Link instability detected
+Switch-3,2026-04-18 19:26:35,Port Flapping,Warning,Link instability detected
+Server-DB1,2026-04-18 19:26:38,Memory Utilization High,Info,Routine telemetry scan
+Switch-3,2026-04-18 19:26:41,Interface Down,Critical,Uplink trunk disconnected
+Switch-3,2026-04-18 19:26:41,Packet Loss,Minor,Link instability detected
+Switch-3,2026-04-18 19:26:41,Packet Loss,Minor,Link instability detected
+Switch-3,2026-04-18 19:26:41,Port Flapping,Warning,Link instability detected
+Router-1,2026-04-18 19:26:44,OSPF Down,Major,Peer adjacency failed
+Router-1,2026-04-18 19:26:44,High Latency,Warning,Secondary network degradation
+Router-1,2026-04-18 19:26:44,Packet Loss,Minor,Secondary network degradation
+Switch-3,2026-04-18 19:26:47,License Expiry,Warning,Routine telemetry scan
+Switch-3,2026-04-18 19:26:50,License Expiry,Warning,Routine telemetry scan
+Server-DB1,2026-04-18 19:26:53,Memory Utilization High,Info,Routine telemetry scan
+Server-DB1,2026-04-18 19:26:56,Application Crash,Critical,Hardware boundary breached
+Server-DB1,2026-04-18 19:26:56,Database Disconnect,Minor,Process starving for resources
+Server-DB1,2026-04-18 19:26:56,Database Disconnect,Minor,Process starving for resources
+Server-DB1,2026-04-18 19:26:56,Memory Utilization High,Warning,Process starving for resources
+Server-DB1,2026-04-18 19:26:56,Database Disconnect,Minor,Process starving for resources
+Server-DB1,2026-04-18 19:26:59,Memory Utilization High,Info,Routine telemetry scan
+Router-2,2026-04-18 19:27:02,High Latency,Info,Routine telemetry scan
+Server-DB1,2026-04-18 19:27:05,CPU High,Info,Routine telemetry scan
+Server-App2,2026-04-18 19:27:08,Memory Utilization High,Info,Routine telemetry scan
+Router-3,2026-04-18 19:27:11,Interface Down,Critical,Peer adjacency failed
+Router-3,2026-04-18 19:27:11,High Latency,Warning,Secondary network degradation
+Router-3,2026-04-18 19:27:11,Packet Loss,Minor,Secondary network degradation
+Router-2,2026-04-18 19:27:14,High Latency,Info,Routine telemetry scan
+Router-2,2026-04-18 19:27:17,Packet Loss,Info,Routine telemetry scan
+Server-App3,2026-04-18 19:27:20,Disk Space Exhausted,Critical,Hardware boundary breached
+Server-App3,2026-04-18 19:27:20,High Latency,Warning,Process starving for resources
+Server-App3,2026-04-18 19:27:20,Database Disconnect,Minor,Process starving for resources
+Server-App3,2026-04-18 19:27:23,Memory Utilization High,Info,Routine telemetry scan
+Server-App2,2026-04-18 19:27:26,CPU High,Info,Routine telemetry scan
+Server-App3,2026-04-18 19:27:29,Memory Utilization High,Info,Routine telemetry scan
+Server-App1,2026-04-18 19:27:32,CPU High,Info,Routine telemetry scan
+Server-App2,2026-04-18 19:27:35,Memory Utilization High,Info,Routine telemetry scan
+Router-3,2026-04-18 19:27:38,Interface Down,Critical,Peer adjacency failed
+Router-3,2026-04-18 19:27:38,Packet Loss,Minor,Secondary network degradation
+Router-3,2026-04-18 19:27:38,High Latency,Warning,Secondary network degradation
+Router-3,2026-04-18 19:27:38,Packet Loss,Minor,Secondary network degradation
+Router-1,2026-04-18 19:27:41,Packet Loss,Info,Routine telemetry scan
+Router-2,2026-04-18 19:27:45,High Latency,Info,Routine telemetry scan
+Router-1,2026-04-18 19:27:48,BGP Down,Critical,Peer adjacency failed
+Router-1,2026-04-18 19:27:48,Packet Loss,Minor,Secondary network degradation
+Router-1,2026-04-18 19:27:48,High Latency,Warning,Secondary network degradation
+Router-1,2026-04-18 19:27:48,High Latency,Warning,Secondary network degradation
+Router-3,2026-04-18 19:27:51,Packet Loss,Info,Routine telemetry scan
+Switch-2,2026-04-18 19:27:54,License Expiry,Warning,Routine telemetry scan
+Server-App3,2026-04-18 19:27:57,CPU High,Info,Routine telemetry scan
+Router-1,2026-04-18 19:28:00,High Latency,Info,Routine telemetry scan
+Switch-3,2026-04-18 19:28:03,License Expiry,Warning,Routine telemetry scan
+Switch-3,2026-04-18 19:28:06,License Expiry,Warning,Routine telemetry scan
+Switch-3,2026-04-18 19:28:09,Interface Down,Critical,Uplink trunk disconnected
+Switch-3,2026-04-18 19:28:09,Port Flapping,Warning,Link instability detected
+Switch-3,2026-04-18 19:28:09,Packet Loss,Minor,Link instability detected
+Switch-3,2026-04-18 19:28:09,Port Flapping,Warning,Link instability detected
+Server-App3,2026-04-18 19:28:12,Memory Utilization High,Info,Routine telemetry scan
+Server-App1,2026-04-18 19:28:15,Memory Utilization High,Info,Routine telemetry scan
+Switch-3,2026-04-18 19:28:18,License Expiry,Warning,Routine telemetry scan
+Router-2,2026-04-18 19:28:21,High Latency,Info,Routine telemetry scan
+Server-DB1,2026-04-18 19:28:24,Memory Utilization High,Info,Routine telemetry scan
+Router-3,2026-04-18 19:28:27,Packet Loss,Info,Routine telemetry scan
+Server-App3,2026-04-18 19:28:30,CPU High,Info,Routine telemetry scan
+Server-App3,2026-04-18 19:28:33,CPU High,Info,Routine telemetry scan
+Router-2,2026-04-18 19:28:36,Packet Loss,Info,Routine telemetry scan
+Switch-4,2026-04-18 19:28:39,License Expiry,Warning,Routine telemetry scan
+Router-2,2026-04-18 19:28:42,High Latency,Info,Routine telemetry scan
+Switch-4,2026-04-18 19:28:45,License Expiry,Warning,Routine telemetry scan
+Server-DB1,2026-04-18 19:28:48,CPU High,Info,Routine telemetry scan
+Server-App1,2026-04-18 19:28:51,CPU High,Info,Routine telemetry scan
+Switch-2,2026-04-18 19:28:54,Interface Down,Critical,Uplink trunk disconnected
+Switch-2,2026-04-18 19:28:54,Packet Loss,Minor,Link instability detected
+Switch-2,2026-04-18 19:28:54,Packet Loss,Minor,Link instability detected
+Switch-2,2026-04-18 19:28:57,License Expiry,Warning,Routine telemetry scan
+Server-App2,2026-04-18 19:29:00,Memory Utilization High,Info,Routine telemetry scan
+Switch-3,2026-04-18 19:29:03,Port Flapping,Info,Routine telemetry scan
+Switch-2,2026-04-18 19:29:06,Port Flapping,Info,Routine telemetry scan
+Switch-1,2026-04-18 19:29:09,Port Flapping,Info,Routine telemetry scan
+Router-2,2026-04-18 19:29:12,High Latency,Info,Routine telemetry scan
+Server-App2,2026-04-18 19:29:15,Memory Utilization High,Info,Routine telemetry scan
+Server-App2,2026-04-18 19:29:18,CPU High,Info,Routine telemetry scan
+Switch-3,2026-04-18 19:29:21,Interface Down,Critical,Uplink trunk disconnected
+Switch-3,2026-04-18 19:29:21,Port Flapping,Warning,Link instability detected
+Switch-3,2026-04-18 19:29:21,Packet Loss,Minor,Link instability detected
+Switch-3,2026-04-18 19:29:21,Port Flapping,Warning,Link instability detected
+Router-1,2026-04-18 19:29:24,High Latency,Info,Routine telemetry scan
+Router-1,2026-04-18 19:29:27,BGP Down,Critical,Peer adjacency failed
+Router-1,2026-04-18 19:29:27,Packet Loss,Minor,Secondary network degradation
+Router-1,2026-04-18 19:29:27,Packet Loss,Minor,Secondary network degradation
+Router-1,2026-04-18 19:29:27,High Latency,Warning,Secondary network degradation
+Server-App1,2026-04-18 19:29:30,CPU High,Info,Routine telemetry scan
+Switch-3,2026-04-18 19:29:33,License Expiry,Warning,Routine telemetry scan
+Router-3,2026-04-18 19:29:36,Packet Loss,Info,Routine telemetry scan
+Switch-3,2026-04-18 19:29:39,Interface Down,Critical,Uplink trunk disconnected
+Switch-3,2026-04-18 19:29:39,Port Flapping,Warning,Link instability detected
+Switch-3,2026-04-18 19:29:39,Port Flapping,Warning,Link instability detected
+Router-3,2026-04-18 19:29:42,High Latency,Info,Routine telemetry scan
+Router-3,2026-04-18 19:29:45,Packet Loss,Info,Routine telemetry scan
+Router-3,2026-04-18 19:29:48,Packet Loss,Info,Routine telemetry scan
+Switch-3,2026-04-18 19:29:51,Interface Down,Critical,Uplink trunk disconnected
+Switch-3,2026-04-18 19:29:51,Packet Loss,Minor,Link instability detected
+Switch-3,2026-04-18 19:29:51,Packet Loss,Minor,Link instability detected
+Switch-2,2026-04-18 19:29:54,License Expiry,Warning,Routine telemetry scan
+Server-App3,2026-04-18 19:29:57,Memory Utilization High,Info,Routine telemetry scan
+Server-App2,2026-04-18 19:30:00,CPU High,Info,Routine telemetry scan
+Switch-3,2026-04-18 19:30:03,License Expiry,Warning,Routine telemetry scan
+Router-2,2026-04-18 19:30:06,Packet Loss,Info,Routine telemetry scan
+Router-3,2026-04-18 19:30:09,Packet Loss,Info,Routine telemetry scan
+Switch-4,2026-04-18 19:30:12,License Expiry,Warning,Routine telemetry scan
+Server-App2,2026-04-18 19:30:15,CPU High,Info,Routine telemetry scan
+Server-App3,2026-04-18 19:30:18,Memory Utilization High,Info,Routine telemetry scan
+Router-2,2026-04-18 19:30:21,High Latency,Info,Routine telemetry scan
+Router-1,2026-04-18 19:30:24,Packet Loss,Info,Routine telemetry scan
+Router-2,2026-04-18 19:30:27,High Latency,Info,Routine telemetry scan
+Router-1,2026-04-18 19:30:30,Packet Loss,Info,Routine telemetry scan
+Server-App1,2026-04-18 19:30:33,Disk Space Exhausted,Critical,Hardware boundary breached
+Server-App1,2026-04-18 19:30:33,Memory Utilization High,Warning,Process starving for resources
+Server-App1,2026-04-18 19:30:33,High Latency,Warning,Process starving for resources
+Router-3,2026-04-18 19:30:36,OSPF Down,Major,Peer adjacency failed
+Router-3,2026-04-18 19:30:36,Packet Loss,Minor,Secondary network degradation
+Router-3,2026-04-18 19:30:36,High Latency,Warning,Secondary network degradation
+Router-3,2026-04-18 19:30:36,Packet Loss,Minor,Secondary network degradation
+Router-3,2026-04-18 19:30:36,Packet Loss,Minor,Secondary network degradation
+Server-App1,2026-04-18 19:30:39,CPU High,Info,Routine telemetry scan
+Switch-2,2026-04-18 19:30:42,Port Flapping,Info,Routine telemetry scan
+Switch-2,2026-04-18 19:30:45,Port Flapping,Info,Routine telemetry scan
+Switch-4,2026-04-18 19:30:48,License Expiry,Warning,Routine telemetry scan
+Router-3,2026-04-18 19:30:51,High Latency,Info,Routine telemetry scan
+Router-1,2026-04-18 19:30:54,High Latency,Info,Routine telemetry scan
+Switch-3,2026-04-18 19:30:57,Port Flapping,Info,Routine telemetry scan
+Server-DB1,2026-04-18 19:31:00,Memory Utilization High,Info,Routine telemetry scan
+Switch-2,2026-04-18 19:31:03,Port Flapping,Info,Routine telemetry scan
+Switch-2,2026-04-18 19:31:06,Interface Down,Critical,Uplink trunk disconnected
+Switch-2,2026-04-18 19:31:06,Port Flapping,Warning,Link instability detected
+Switch-2,2026-04-18 19:31:06,Port Flapping,Warning,Link instability detected
+Switch-2,2026-04-18 19:31:06,Packet Loss,Minor,Link instability detected
+Server-DB1,2026-04-18 19:31:09,Memory Utilization High,Info,Routine telemetry scan
+Server-DB1,2026-04-18 19:31:12,CPU High,Info,Routine telemetry scan
+Server-DB1,2026-04-18 19:31:15,Disk Space Exhausted,Critical,Hardware boundary breached
+Server-DB1,2026-04-18 19:31:15,Database Disconnect,Minor,Process starving for resources
+Server-DB1,2026-04-18 19:31:15,High Latency,Warning,Process starving for resources
+Server-DB1,2026-04-18 19:31:15,High Latency,Warning,Process starving for resources
+Server-DB1,2026-04-18 19:31:15,Memory Utilization High,Warning,Process starving for resources
+Server-App3,2026-04-18 19:31:18,Application Crash,Critical,Hardware boundary breached
+Server-App3,2026-04-18 19:31:18,Database Disconnect,Minor,Process starving for resources
+Server-App3,2026-04-18 19:31:18,Memory Utilization High,Warning,Process starving for resources
+Server-App3,2026-04-18 19:31:18,Memory Utilization High,Warning,Process starving for resources
+Server-App3,2026-04-18 19:31:18,Database Disconnect,Minor,Process starving for resources
+Router-2,2026-04-18 19:31:21,High Latency,Info,Routine telemetry scan
+Switch-2,2026-04-18 19:31:24,Port Flapping,Info,Routine telemetry scan
+Server-App2,2026-04-18 19:31:27,Memory Utilization High,Info,Routine telemetry scan
+Router-3,2026-04-18 19:31:30,High Latency,Info,Routine telemetry scan
+Switch-2,2026-04-18 19:31:33,Port Flapping,Info,Routine telemetry scan
+Server-DB1,2026-04-18 19:31:36,Application Crash,Critical,Hardware boundary breached
+Server-DB1,2026-04-18 19:31:36,High Latency,Warning,Process starving for resources
+Server-DB1,2026-04-18 19:31:36,Memory Utilization High,Warning,Process starving for resources
+Server-DB1,2026-04-18 19:31:36,Memory Utilization High,Warning,Process starving for resources
+Server-App2,2026-04-18 19:31:39,CPU High,Info,Routine telemetry scan
+Switch-2,2026-04-18 19:31:42,Port Flapping,Info,Routine telemetry scan
+Server-DB1,2026-04-18 19:31:45,Memory Utilization High,Info,Routine telemetry scan
+Server-DB1,2026-04-18 19:31:48,Memory Utilization High,Info,Routine telemetry scan
+Switch-1,2026-04-18 19:31:51,Interface Down,Critical,Uplink trunk disconnected
+Switch-1,2026-04-18 19:31:51,Port Flapping,Warning,Link instability detected
+Switch-1,2026-04-18 19:31:51,Port Flapping,Warning,Link instability detected
+Switch-1,2026-04-18 19:31:51,Port Flapping,Warning,Link instability detected
+Router-2,2026-04-18 19:31:54,Packet Loss,Info,Routine telemetry scan
+Router-1,2026-04-18 19:31:57,High Latency,Info,Routine telemetry scan
+Server-App3,2026-04-18 19:32:00,Memory Utilization High,Info,Routine telemetry scan
+Server-App2,2026-04-18 19:32:03,Memory Utilization High,Info,Routine telemetry scan
+Server-App2,2026-04-18 19:32:06,Memory Utilization High,Info,Routine telemetry scan
+Server-App3,2026-04-18 19:32:09,Memory Utilization High,Info,Routine telemetry scan
+Switch-4,2026-04-18 19:32:12,Port Flapping,Info,Routine telemetry scan
+Router-2,2026-04-18 19:32:15,OSPF Down,Major,Peer adjacency failed
+Router-2,2026-04-18 19:32:15,Packet Loss,Minor,Secondary network degradation
+Router-2,2026-04-18 19:32:15,High Latency,Warning,Secondary network degradation
+Server-App3,2026-04-18 19:32:18,CPU High,Info,Routine telemetry scan
+Router-3,2026-04-18 19:32:21,Packet Loss,Info,Routine telemetry scan
+Server-App2,2026-04-18 19:32:24,CPU High,Major,Hardware boundary breached
+Server-App2,2026-04-18 19:32:24,Database Disconnect,Minor,Process starving for resources
+Server-App2,2026-04-18 19:32:24,High Latency,Warning,Process starving for resources
+Server-App2,2026-04-18 19:32:24,Database Disconnect,Minor,Process starving for resources
+Router-3,2026-04-18 19:32:27,Packet Loss,Info,Routine telemetry scan
+Server-App1,2026-04-18 19:32:30,Memory Utilization High,Info,Routine telemetry scan
+Router-1,2026-04-18 19:32:33,High Latency,Info,Routine telemetry scan
+Server-App1,2026-04-18 19:32:36,Memory Utilization High,Info,Routine telemetry scan
+Router-3,2026-04-18 19:32:39,High Latency,Info,Routine telemetry scan
+Server-App1,2026-04-18 19:32:42,Memory Utilization High,Info,Routine telemetry scan
+Router-2,2026-04-18 19:32:45,High Latency,Info,Routine telemetry scan
+Switch-4,2026-04-18 19:32:48,License Expiry,Warning,Routine telemetry scan
+Router-2,2026-04-18 19:32:51,Interface Down,Critical,Peer adjacency failed
+Router-2,2026-04-18 19:32:51,High Latency,Warning,Secondary network degradation
+Router-2,2026-04-18 19:32:51,High Latency,Warning,Secondary network degradation
+Router-2,2026-04-18 19:32:51,Packet Loss,Minor,Secondary network degradation
+Server-DB1,2026-04-18 19:32:54,Memory Utilization High,Info,Routine telemetry scan
+Server-App1,2026-04-18 19:32:57,Disk Space Exhausted,Critical,Hardware boundary breached
+Server-App1,2026-04-18 19:32:57,Database Disconnect,Minor,Process starving for resources
+Server-App1,2026-04-18 19:32:57,Memory Utilization High,Warning,Process starving for resources
+Server-App1,2026-04-18 19:32:57,Memory Utilization High,Warning,Process starving for resources
+Server-App1,2026-04-18 19:32:57,Database Disconnect,Minor,Process starving for resources
+Switch-3,2026-04-18 19:33:00,Port Flapping,Info,Routine telemetry scan
+Switch-2,2026-04-18 19:33:03,License Expiry,Warning,Routine telemetry scan
+Server-App1,2026-04-18 19:33:06,Memory Utilization High,Info,Routine telemetry scan
+Switch-1,2026-04-18 19:33:09,Port Flapping,Info,Routine telemetry scan
+Server-App3,2026-04-18 19:33:12,Application Crash,Critical,Hardware boundary breached
+Server-App3,2026-04-18 19:33:12,High Latency,Warning,Process starving for resources
+Server-App3,2026-04-18 19:33:12,Memory Utilization High,Warning,Process starving for resources
+Switch-4,2026-04-18 19:33:15,License Expiry,Warning,Routine telemetry scan
+Server-App1,2026-04-18 19:33:18,CPU High,Info,Routine telemetry scan
+Server-App3,2026-04-18 19:33:21,CPU High,Info,Routine telemetry scan
+Router-2,2026-04-18 19:33:24,High Latency,Info,Routine telemetry scan
+Router-2,2026-04-18 19:33:27,High Latency,Info,Routine telemetry scan
+Switch-2,2026-04-18 19:33:30,Interface Down,Critical,Uplink trunk disconnected
+Switch-2,2026-04-18 19:33:30,Packet Loss,Minor,Link instability detected
+Switch-2,2026-04-18 19:33:30,Port Flapping,Warning,Link instability detected
+Router-1,2026-04-18 19:33:33,High Latency,Info,Routine telemetry scan
+Router-2,2026-04-18 19:33:36,High Latency,Info,Routine telemetry scan
+Switch-4,2026-04-18 19:33:39,License Expiry,Warning,Routine telemetry scan
+Server-DB1,2026-04-18 19:33:42,Disk Space Exhausted,Critical,Hardware boundary breached
+Server-DB1,2026-04-18 19:33:42,Database Disconnect,Minor,Process starving for resources
+Server-DB1,2026-04-18 19:33:42,Database Disconnect,Minor,Process starving for resources
+Switch-4,2026-04-18 19:33:45,Port Flapping,Info,Routine telemetry scan
+Switch-3,2026-04-18 19:33:48,License Expiry,Warning,Routine telemetry scan
+Switch-3,2026-04-18 19:33:51,Interface Down,Critical,Uplink trunk disconnected
+Switch-3,2026-04-18 19:33:51,Packet Loss,Minor,Link instability detected
+Switch-3,2026-04-18 19:33:51,Packet Loss,Minor,Link instability detected
+Router-3,2026-04-18 19:33:54,High Latency,Info,Routine telemetry scan
+Server-App2,2026-04-18 19:33:57,CPU High,Info,Routine telemetry scan
+Server-App1,2026-04-18 19:34:00,CPU High,Major,Hardware boundary breached
+Server-App1,2026-04-18 19:34:00,Memory Utilization High,Warning,Process starving for resources
+Server-App1,2026-04-18 19:34:00,Memory Utilization High,Warning,Process starving for resources
+Server-App1,2026-04-18 19:34:00,Database Disconnect,Minor,Process starving for resources
+Switch-3,2026-04-18 19:34:03,Port Flapping,Info,Routine telemetry scan
+Server-DB1,2026-04-18 19:34:06,CPU High,Info,Routine telemetry scan
+Server-DB1,2026-04-18 19:34:09,CPU High,Info,Routine telemetry scan
+Server-App3,2026-04-18 19:34:12,CPU High,Info,Routine telemetry scan
+Switch-4,2026-04-18 19:34:15,License Expiry,Warning,Routine telemetry scan
+Server-DB1,2026-04-18 19:34:18,CPU High,Info,Routine telemetry scan
+Server-DB1,2026-04-18 19:34:21,CPU High,Info,Routine telemetry scan
+Switch-1,2026-04-18 19:34:24,License Expiry,Warning,Routine telemetry scan
+Server-App2,2026-04-18 19:34:27,Memory Utilization High,Info,Routine telemetry scan
+Switch-1,2026-04-18 19:34:30,Interface Down,Critical,Uplink trunk disconnected
+Switch-1,2026-04-18 19:34:30,Packet Loss,Minor,Link instability detected
+Switch-1,2026-04-18 19:34:30,Port Flapping,Warning,Link instability detected
+Switch-1,2026-04-18 19:34:30,Packet Loss,Minor,Link instability detected
+Switch-2,2026-04-18 19:34:33,License Expiry,Warning,Routine telemetry scan
+Router-3,2026-04-18 19:34:36,Packet Loss,Info,Routine telemetry scan
+Server-App3,2026-04-18 19:34:39,CPU High,Info,Routine telemetry scan
+Switch-4,2026-04-18 19:34:42,License Expiry,Warning,Routine telemetry scan
+Switch-1,2026-04-18 19:34:45,Port Flapping,Info,Routine telemetry scan
+Server-App2,2026-04-18 19:34:48,Memory Utilization High,Info,Routine telemetry scan
+Router-1,2026-04-18 19:34:51,High Latency,Info,Routine telemetry scan
+Router-1,2026-04-18 19:34:54,Packet Loss,Info,Routine telemetry scan
+Switch-4,2026-04-18 19:34:57,Port Flapping,Info,Routine telemetry scan
+Server-App2,2026-04-18 19:35:00,CPU High,Info,Routine telemetry scan
+Server-DB1,2026-04-18 19:35:03,Memory Utilization High,Info,Routine telemetry scan
+Switch-3,2026-04-18 19:35:06,Interface Down,Critical,Uplink trunk disconnected
+Switch-3,2026-04-18 19:35:06,Port Flapping,Warning,Link instability detected
+Switch-3,2026-04-18 19:35:06,Packet Loss,Minor,Link instability detected
+Router-1,2026-04-18 19:35:09,High Latency,Info,Routine telemetry scan
+Router-3,2026-04-18 19:35:12,High Latency,Info,Routine telemetry scan
+Router-2,2026-04-18 19:35:15,Packet Loss,Info,Routine telemetry scan
+Server-App1,2026-04-18 19:35:18,CPU High,Info,Routine telemetry scan
+Switch-3,2026-04-18 19:35:21,Interface Down,Critical,Uplink trunk disconnected
+Switch-3,2026-04-18 19:35:21,Port Flapping,Warning,Link instability detected
+Switch-3,2026-04-18 19:35:21,Packet Loss,Minor,Link instability detected
+Switch-3,2026-04-18 19:35:21,Packet Loss,Minor,Link instability detected
+Router-1,2026-04-18 19:35:24,OSPF Down,Major,Peer adjacency failed
+Router-1,2026-04-18 19:35:24,Packet Loss,Minor,Secondary network degradation
+Router-1,2026-04-18 19:35:24,Packet Loss,Minor,Secondary network degradation
+Router-1,2026-04-18 19:35:24,Packet Loss,Minor,Secondary network degradation
+Router-1,2026-04-18 19:35:24,High Latency,Warning,Secondary network degradation
+Server-App2,2026-04-18 19:35:27,Memory Utilization High,Info,Routine telemetry scan
+Switch-3,2026-04-18 19:35:30,Port Flapping,Info,Routine telemetry scan
+Server-DB1,2026-04-18 19:35:33,CPU High,Info,Routine telemetry scan
+Router-2,2026-04-18 19:35:36,Packet Loss,Info,Routine telemetry scan
+Router-3,2026-04-18 19:35:39,Packet Loss,Info,Routine telemetry scan
+Router-2,2026-04-18 19:35:42,Interface Down,Critical,Peer adjacency failed
+Router-2,2026-04-18 19:35:42,Packet Loss,Minor,Secondary network degradation
+Router-2,2026-04-18 19:35:42,High Latency,Warning,Secondary network degradation
+Router-2,2026-04-18 19:35:42,Packet Loss,Minor,Secondary network degradation
+Switch-1,2026-04-18 19:35:45,Interface Down,Critical,Uplink trunk disconnected
+Switch-1,2026-04-18 19:35:45,Port Flapping,Warning,Link instability detected
+Switch-1,2026-04-18 19:35:45,Packet Loss,Minor,Link instability detected
+Server-App3,2026-04-18 19:35:48,CPU High,Info,Routine telemetry scan
+Server-App1,2026-04-18 19:35:51,CPU High,Info,Routine telemetry scan
+Router-1,2026-04-18 19:35:54,High Latency,Info,Routine telemetry scan
+Switch-3,2026-04-18 19:35:57,Interface Down,Critical,Uplink trunk disconnected
+Switch-3,2026-04-18 19:35:57,Packet Loss,Minor,Link instability detected
+Switch-3,2026-04-18 19:35:57,Packet Loss,Minor,Link instability detected
+Switch-3,2026-04-18 19:35:57,Packet Loss,Minor,Link instability detected
+Router-1,2026-04-18 19:36:00,High Latency,Info,Routine telemetry scan
+Switch-1,2026-04-18 19:36:03,Interface Down,Critical,Uplink trunk disconnected
+Switch-1,2026-04-18 19:36:03,Packet Loss,Minor,Link instability detected
+Switch-1,2026-04-18 19:36:03,Port Flapping,Warning,Link instability detected
+Router-2,2026-04-18 19:36:06,High Latency,Info,Routine telemetry scan
+Router-2,2026-04-18 19:36:09,Packet Loss,Info,Routine telemetry scan
+Switch-2,2026-04-18 19:36:12,Port Flapping,Info,Routine telemetry scan
+Server-App3,2026-04-18 19:36:15,Memory Utilization High,Info,Routine telemetry scan
+Server-App1,2026-04-18 19:36:18,Memory Utilization High,Info,Routine telemetry scan
+Switch-4,2026-04-18 19:36:21,License Expiry,Warning,Routine telemetry scan
+Server-App2,2026-04-18 19:36:24,CPU High,Info,Routine telemetry scan
+Router-2,2026-04-18 19:36:27,High Latency,Info,Routine telemetry scan
+Switch-1,2026-04-18 19:36:30,Port Flapping,Info,Routine telemetry scan
+Server-DB1,2026-04-18 19:36:33,Memory Utilization High,Info,Routine telemetry scan
+Server-App3,2026-04-18 19:36:36,Memory Utilization High,Info,Routine telemetry scan
+Switch-2,2026-04-18 19:36:39,Port Flapping,Info,Routine telemetry scan
+Router-2,2026-04-18 19:36:42,Packet Loss,Info,Routine telemetry scan
+Server-DB1,2026-04-18 19:36:45,CPU High,Info,Routine telemetry scan
+Server-DB1,2026-04-18 19:36:48,CPU High,Info,Routine telemetry scan
+Server-App1,2026-04-18 19:36:51,Memory Utilization High,Info,Routine telemetry scan
+Switch-1,2026-04-18 19:36:54,License Expiry,Warning,Routine telemetry scan
+Switch-2,2026-04-18 19:36:57,License Expiry,Warning,Routine telemetry scan
+Router-1,2026-04-18 19:37:00,High Latency,Info,Routine telemetry scan
+Router-3,2026-04-18 19:37:03,High Latency,Info,Routine telemetry scan
+Server-App1,2026-04-18 19:37:06,CPU High,Info,Routine telemetry scan
+Router-2,2026-04-18 19:37:09,High Latency,Info,Routine telemetry scan
+Router-2,2026-04-18 19:37:12,High Latency,Info,Routine telemetry scan
+Router-1,2026-04-18 19:37:15,High Latency,Info,Routine telemetry scan
+Server-App2,2026-04-18 19:37:18,CPU High,Major,Hardware boundary breached
+Server-App2,2026-04-18 19:37:18,High Latency,Warning,Process starving for resources
+Server-App2,2026-04-18 19:37:18,High Latency,Warning,Process starving for resources
+Router-2,2026-04-18 19:37:21,High Latency,Info,Routine telemetry scan
+Router-1,2026-04-18 19:37:24,Packet Loss,Info,Routine telemetry scan
+Server-App2,2026-04-18 19:37:27,CPU High,Info,Routine telemetry scan
+Switch-2,2026-04-18 19:37:30,Interface Down,Critical,Uplink trunk disconnected
+Switch-2,2026-04-18 19:37:30,Port Flapping,Warning,Link instability detected
+Switch-2,2026-04-18 19:37:30,Packet Loss,Minor,Link instability detected
+Switch-2,2026-04-18 19:37:30,Port Flapping,Warning,Link instability detected
+Switch-3,2026-04-18 19:37:33,Port Flapping,Info,Routine telemetry scan
+Server-App2,2026-04-18 19:37:36,Memory Utilization High,Info,Routine telemetry scan
+Router-3,2026-04-18 19:37:39,Packet Loss,Info,Routine telemetry scan
+Switch-1,2026-04-18 19:37:42,License Expiry,Warning,Routine telemetry scan
+Server-App2,2026-04-18 19:37:45,CPU High,Info,Routine telemetry scan
+Switch-2,2026-04-18 19:37:48,Port Flapping,Info,Routine telemetry scan
+Router-1,2026-04-18 19:37:51,Packet Loss,Info,Routine telemetry scan
+Router-1,2026-04-18 19:37:54,BGP Down,Critical,Peer adjacency failed
+Router-1,2026-04-18 19:37:54,Packet Loss,Minor,Secondary network degradation
+Router-1,2026-04-18 19:37:54,High Latency,Warning,Secondary network degradation
+Router-1,2026-04-18 19:37:54,High Latency,Warning,Secondary network degradation
+Router-1,2026-04-18 19:37:54,Packet Loss,Minor,Secondary network degradation
+Switch-3,2026-04-18 19:37:57,License Expiry,Warning,Routine telemetry scan
+Switch-2,2026-04-18 19:38:00,License Expiry,Warning,Routine telemetry scan
+Server-DB1,2026-04-18 19:38:03,CPU High,Info,Routine telemetry scan
+Switch-2,2026-04-18 19:38:06,Interface Down,Critical,Uplink trunk disconnected
+Switch-2,2026-04-18 19:38:06,Port Flapping,Warning,Link instability detected
+Switch-2,2026-04-18 19:38:06,Port Flapping,Warning,Link instability detected
+Switch-2,2026-04-18 19:38:06,Port Flapping,Warning,Link instability detected
+Switch-2,2026-04-18 19:38:09,Interface Down,Critical,Uplink trunk disconnected
+Switch-2,2026-04-18 19:38:09,Port Flapping,Warning,Link instability detected
+Switch-2,2026-04-18 19:38:09,Port Flapping,Warning,Link instability detected
+Router-2,2026-04-18 19:38:12,High Latency,Info,Routine telemetry scan
+Server-App2,2026-04-18 19:38:15,Memory Utilization High,Info,Routine telemetry scan
+Router-2,2026-04-18 19:38:18,Packet Loss,Info,Routine telemetry scan
+Server-App3,2026-04-18 19:38:21,CPU High,Info,Routine telemetry scan
+Server-App1,2026-04-18 19:38:24,Memory Utilization High,Info,Routine telemetry scan
+Server-DB1,2026-04-18 19:38:27,CPU High,Info,Routine telemetry scan
+Router-1,2026-04-18 19:38:30,Interface Down,Critical,Peer adjacency failed
+Router-1,2026-04-18 19:38:30,Packet Loss,Minor,Secondary network degradation
+Router-1,2026-04-18 19:38:30,High Latency,Warning,Secondary network degradation
+Router-1,2026-04-18 19:38:30,Packet Loss,Minor,Secondary network degradation
+Router-1,2026-04-18 19:38:33,High Latency,Info,Routine telemetry scan
+Router-2,2026-04-18 19:38:36,High Latency,Info,Routine telemetry scan
+Server-App1,2026-04-18 19:38:39,CPU High,Info,Routine telemetry scan
+Switch-4,2026-04-18 19:38:42,Port Flapping,Info,Routine telemetry scan
+Switch-2,2026-04-18 19:38:45,Interface Down,Critical,Uplink trunk disconnected
+Switch-2,2026-04-18 19:38:45,Packet Loss,Minor,Link instability detected
+Switch-2,2026-04-18 19:38:45,Port Flapping,Warning,Link instability detected
+Switch-2,2026-04-18 19:38:48,Port Flapping,Info,Routine telemetry scan
+Switch-4,2026-04-18 19:38:51,Port Flapping,Info,Routine telemetry scan
+Switch-3,2026-04-18 19:38:54,License Expiry,Warning,Routine telemetry scan
+Server-App2,2026-04-18 19:38:57,Memory Utilization High,Info,Routine telemetry scan
+Router-2,2026-04-18 19:39:00,High Latency,Info,Routine telemetry scan
+Switch-2,2026-04-18 19:39:03,Port Flapping,Info,Routine telemetry scan
+Switch-2,2026-04-18 19:39:06,Interface Down,Critical,Uplink trunk disconnected
+Switch-2,2026-04-18 19:39:06,Port Flapping,Warning,Link instability detected
+Switch-2,2026-04-18 19:39:06,Packet Loss,Minor,Link instability detected
+Switch-4,2026-04-18 19:39:09,License Expiry,Warning,Routine telemetry scan
+Server-App3,2026-04-18 19:39:12,Memory Utilization High,Info,Routine telemetry scan
+Switch-4,2026-04-18 19:39:15,Port Flapping,Info,Routine telemetry scan
+Router-1,2026-04-18 19:39:18,Packet Loss,Info,Routine telemetry scan
+Router-1,2026-04-18 19:39:21,High Latency,Info,Routine telemetry scan
+Server-App2,2026-04-18 19:39:24,CPU High,Info,Routine telemetry scan
+Server-App2,2026-04-18 19:39:27,Memory Utilization High,Info,Routine telemetry scan
+Router-2,2026-04-18 19:39:30,Packet Loss,Info,Routine telemetry scan
+Router-3,2026-04-18 19:39:33,BGP Down,Critical,Peer adjacency failed
+Router-3,2026-04-18 19:39:33,Packet Loss,Minor,Secondary network degradation
+Router-3,2026-04-18 19:39:33,High Latency,Warning,Secondary network degradation
+Router-3,2026-04-18 19:39:33,Packet Loss,Minor,Secondary network degradation
+Router-3,2026-04-18 19:39:33,High Latency,Warning,Secondary network degradation
+Server-DB1,2026-04-18 19:39:36,Memory Utilization High,Info,Routine telemetry scan
+Switch-3,2026-04-18 19:39:39,Port Flapping,Info,Routine telemetry scan
+Switch-3,2026-04-18 19:39:42,Interface Down,Critical,Uplink trunk disconnected
+Switch-3,2026-04-18 19:39:42,Packet Loss,Minor,Link instability detected
+Switch-3,2026-04-18 19:39:42,Packet Loss,Minor,Link instability detected
+Switch-4,2026-04-18 19:39:45,Interface Down,Critical,Uplink trunk disconnected
+Switch-4,2026-04-18 19:39:45,Packet Loss,Minor,Link instability detected
+Switch-4,2026-04-18 19:39:45,Port Flapping,Warning,Link instability detected
+Router-1,2026-04-18 19:39:48,OSPF Down,Major,Peer adjacency failed
+Router-1,2026-04-18 19:39:48,High Latency,Warning,Secondary network degradation
+Router-1,2026-04-18 19:39:48,High Latency,Warning,Secondary network degradation
+Router-1,2026-04-18 19:39:48,Packet Loss,Minor,Secondary network degradation
+Router-1,2026-04-18 19:39:48,High Latency,Warning,Secondary network degradation
+Switch-3,2026-04-18 19:39:51,Port Flapping,Info,Routine telemetry scan
+Router-2,2026-04-18 19:39:54,Packet Loss,Info,Routine telemetry scan
+Router-2,2026-04-18 19:39:57,High Latency,Info,Routine telemetry scan
+Switch-3,2026-04-18 19:40:00,License Expiry,Warning,Routine telemetry scan
+Switch-3,2026-04-18 19:40:03,License Expiry,Warning,Routine telemetry scan
+Router-3,2026-04-18 19:40:06,Packet Loss,Info,Routine telemetry scan
+Server-App1,2026-04-18 19:40:09,Disk Space Exhausted,Critical,Hardware boundary breached
+Server-App1,2026-04-18 19:40:09,High Latency,Warning,Process starving for resources
+Server-App1,2026-04-18 19:40:09,High Latency,Warning,Process starving for resources
+Server-App1,2026-04-18 19:40:09,Database Disconnect,Minor,Process starving for resources
+Switch-2,2026-04-18 19:40:12,Port Flapping,Info,Routine telemetry scan
+Router-3,2026-04-18 19:40:15,Packet Loss,Info,Routine telemetry scan
+Switch-4,2026-04-18 19:40:18,Interface Down,Critical,Uplink trunk disconnected
+Switch-4,2026-04-18 19:40:18,Packet Loss,Minor,Link instability detected
+Switch-4,2026-04-18 19:40:18,Port Flapping,Warning,Link instability detected
+Switch-4,2026-04-18 19:40:18,Packet Loss,Minor,Link instability detected
+Server-App2,2026-04-18 19:40:21,CPU High,Info,Routine telemetry scan
+Router-2,2026-04-18 19:40:24,Packet Loss,Info,Routine telemetry scan
+Router-3,2026-04-18 19:40:27,Interface Down,Critical,Peer adjacency failed
+Router-3,2026-04-18 19:40:27,Packet Loss,Minor,Secondary network degradation
+Router-3,2026-04-18 19:40:27,High Latency,Warning,Secondary network degradation
+Router-3,2026-04-18 19:40:27,High Latency,Warning,Secondary network degradation
+Switch-1,2026-04-18 19:40:30,License Expiry,Warning,Routine telemetry scan
+Router-2,2026-04-18 19:40:33,High Latency,Info,Routine telemetry scan
+Router-1,2026-04-18 19:40:36,Packet Loss,Info,Routine telemetry scan
+Switch-3,2026-04-18 19:40:39,Port Flapping,Info,Routine telemetry scan
+Router-1,2026-04-18 19:40:42,Packet Loss,Info,Routine telemetry scan
+Server-DB1,2026-04-18 19:40:45,Memory Utilization High,Info,Routine telemetry scan
+Server-App3,2026-04-18 19:40:48,Application Crash,Critical,Hardware boundary breached
+Server-App3,2026-04-18 19:40:48,Memory Utilization High,Warning,Process starving for resources
+Server-App3,2026-04-18 19:40:48,Database Disconnect,Minor,Process starving for resources
+Server-App3,2026-04-18 19:40:48,Database Disconnect,Minor,Process starving for resources
+Server-App3,2026-04-18 19:40:48,Database Disconnect,Minor,Process starving for resources
+Switch-1,2026-04-18 19:40:51,Port Flapping,Info,Routine telemetry scan
+Server-DB1,2026-04-18 19:40:54,CPU High,Info,Routine telemetry scan
+Router-1,2026-04-18 19:40:57,High Latency,Info,Routine telemetry scan
+Switch-1,2026-04-18 19:41:00,Port Flapping,Info,Routine telemetry scan
+Server-DB1,2026-04-18 19:41:03,Memory Utilization High,Info,Routine telemetry scan
+Switch-4,2026-04-18 19:41:06,Interface Down,Critical,Uplink trunk disconnected
+Switch-4,2026-04-18 19:41:06,Packet Loss,Minor,Link instability detected
+Switch-4,2026-04-18 19:41:06,Packet Loss,Minor,Link instability detected
+Switch-4,2026-04-18 19:41:06,Packet Loss,Minor,Link instability detected
+Router-3,2026-04-18 19:41:09,High Latency,Info,Routine telemetry scan
+Router-1,2026-04-18 19:41:12,Packet Loss,Info,Routine telemetry scan
+Router-2,2026-04-18 19:41:15,Packet Loss,Info,Routine telemetry scan
+Server-DB1,2026-04-18 19:41:18,Memory Utilization High,Info,Routine telemetry scan
+Switch-1,2026-04-18 19:41:21,License Expiry,Warning,Routine telemetry scan
+Switch-1,2026-04-18 19:41:24,License Expiry,Warning,Routine telemetry scan
+Server-App1,2026-04-18 19:41:27,Application Crash,Critical,Hardware boundary breached
+Server-App1,2026-04-18 19:41:27,Database Disconnect,Minor,Process starving for resources
+Server-App1,2026-04-18 19:41:27,Database Disconnect,Minor,Process starving for resources
+Server-App1,2026-04-18 19:41:27,High Latency,Warning,Process starving for resources
+Server-App1,2026-04-18 19:41:27,High Latency,Warning,Process starving for resources
+Switch-3,2026-04-18 19:41:30,License Expiry,Warning,Routine telemetry scan
+Switch-1,2026-04-18 19:41:33,Port Flapping,Info,Routine telemetry scan
+Router-3,2026-04-18 19:41:36,Packet Loss,Info,Routine telemetry scan
+Server-App2,2026-04-18 19:41:39,Memory Utilization High,Info,Routine telemetry scan
+Server-App1,2026-04-18 19:41:42,CPU High,Info,Routine telemetry scan
+Server-DB1,2026-04-18 19:41:45,CPU High,Info,Routine telemetry scan
+Switch-3,2026-04-18 19:41:48,Port Flapping,Info,Routine telemetry scan
+Switch-1,2026-04-18 19:41:51,License Expiry,Warning,Routine telemetry scan
+Switch-2,2026-04-18 19:41:54,License Expiry,Warning,Routine telemetry scan
+Server-App3,2026-04-18 19:41:57,Memory Utilization High,Info,Routine telemetry scan
+Router-1,2026-04-18 19:42:00,OSPF Down,Major,Peer adjacency failed
+Router-1,2026-04-18 19:42:00,Packet Loss,Minor,Secondary network degradation
+Router-1,2026-04-18 19:42:00,Packet Loss,Minor,Secondary network degradation
+Switch-4,2026-04-18 19:42:03,Port Flapping,Info,Routine telemetry scan
+Server-App3,2026-04-18 19:42:06,CPU High,Info,Routine telemetry scan
+Router-1,2026-04-18 19:42:09,Packet Loss,Info,Routine telemetry scan
+Switch-1,2026-04-18 19:42:12,License Expiry,Warning,Routine telemetry scan
+Router-3,2026-04-18 19:42:15,BGP Down,Critical,Peer adjacency failed
+Router-3,2026-04-18 19:42:15,High Latency,Warning,Secondary network degradation
+Router-3,2026-04-18 19:42:15,High Latency,Warning,Secondary network degradation
+Server-App2,2026-04-18 19:42:18,Memory Utilization High,Info,Routine telemetry scan
+Router-2,2026-04-18 19:42:21,Packet Loss,Info,Routine telemetry scan
+Router-1,2026-04-18 19:42:24,Interface Down,Critical,Peer adjacency failed
+Router-1,2026-04-18 19:42:24,High Latency,Warning,Secondary network degradation
+Router-1,2026-04-18 19:42:24,High Latency,Warning,Secondary network degradation
+Server-App3,2026-04-18 19:42:27,CPU High,Major,Hardware boundary breached
+Server-App3,2026-04-18 19:42:27,Database Disconnect,Minor,Process starving for resources
+Server-App3,2026-04-18 19:42:27,Database Disconnect,Minor,Process starving for resources
+Server-App3,2026-04-18 19:42:27,High Latency,Warning,Process starving for resources
+Switch-2,2026-04-18 19:42:30,Port Flapping,Info,Routine telemetry scan
+Switch-3,2026-04-18 19:42:33,Port Flapping,Info,Routine telemetry scan
+Server-App2,2026-04-18 19:42:36,Disk Space Exhausted,Critical,Hardware boundary breached
+Server-App2,2026-04-18 19:42:36,Memory Utilization High,Warning,Process starving for resources
+Server-App2,2026-04-18 19:42:36,Memory Utilization High,Warning,Process starving for resources
+Switch-4,2026-04-18 19:42:39,License Expiry,Warning,Routine telemetry scan
+Server-App3,2026-04-18 19:42:42,CPU High,Info,Routine telemetry scan
+Router-3,2026-04-18 19:42:45,Packet Loss,Info,Routine telemetry scan
+Server-App2,2026-04-18 19:42:48,Application Crash,Critical,Hardware boundary breached
+Server-App2,2026-04-18 19:42:48,Database Disconnect,Minor,Process starving for resources
+Server-App2,2026-04-18 19:42:48,Database Disconnect,Minor,Process starving for resources
+Server-App2,2026-04-18 19:42:48,High Latency,Warning,Process starving for resources
+Router-2,2026-04-18 19:42:51,High Latency,Info,Routine telemetry scan
+Switch-1,2026-04-18 19:42:54,Port Flapping,Info,Routine telemetry scan
+Switch-2,2026-04-18 19:42:57,License Expiry,Warning,Routine telemetry scan
+Router-2,2026-04-18 19:43:00,High Latency,Info,Routine telemetry scan
+Server-DB1,2026-04-18 19:43:03,Disk Space Exhausted,Critical,Hardware boundary breached
+Server-DB1,2026-04-18 19:43:03,Database Disconnect,Minor,Process starving for resources
+Server-DB1,2026-04-18 19:43:03,Memory Utilization High,Warning,Process starving for resources
+Server-DB1,2026-04-18 19:43:03,Database Disconnect,Minor,Process starving for resources
+Server-DB1,2026-04-18 19:43:03,Database Disconnect,Minor,Process starving for resources
+Server-App2,2026-04-18 19:43:06,Memory Utilization High,Info,Routine telemetry scan
+Router-3,2026-04-18 19:43:09,High Latency,Info,Routine telemetry scan
+Server-App1,2026-04-18 19:43:12,CPU High,Info,Routine telemetry scan
+Router-2,2026-04-18 19:43:15,Packet Loss,Info,Routine telemetry scan
+Server-App1,2026-04-18 19:43:18,Memory Utilization High,Info,Routine telemetry scan
+Switch-2,2026-04-18 19:43:21,License Expiry,Warning,Routine telemetry scan
+Server-App3,2026-04-18 19:43:24,CPU High,Info,Routine telemetry scan
+Switch-3,2026-04-18 19:43:27,License Expiry,Warning,Routine telemetry scan
+Switch-3,2026-04-18 19:43:30,Port Flapping,Info,Routine telemetry scan
+Router-3,2026-04-18 19:43:33,High Latency,Info,Routine telemetry scan
+Server-App2,2026-04-18 19:43:36,CPU High,Info,Routine telemetry scan
+Server-App1,2026-04-18 19:43:39,CPU High,Info,Routine telemetry scan
+Server-App1,2026-04-18 19:43:42,CPU High,Info,Routine telemetry scan
+Router-2,2026-04-18 19:43:45,High Latency,Info,Routine telemetry scan
+Switch-2,2026-04-18 19:43:48,Port Flapping,Info,Routine telemetry scan
+Switch-2,2026-04-18 19:43:51,License Expiry,Warning,Routine telemetry scan
+Switch-3,2026-04-18 19:43:54,Interface Down,Critical,Uplink trunk disconnected
+Switch-3,2026-04-18 19:43:54,Packet Loss,Minor,Link instability detected
+Switch-3,2026-04-18 19:43:54,Packet Loss,Minor,Link instability detected
+Router-3,2026-04-18 19:43:57,High Latency,Info,Routine telemetry scan
+Router-3,2026-04-18 19:44:00,Packet Loss,Info,Routine telemetry scan
+Server-DB1,2026-04-18 19:44:03,Memory Utilization High,Info,Routine telemetry scan
+Server-App2,2026-04-18 19:44:06,CPU High,Info,Routine telemetry scan
+Server-App3,2026-04-18 19:44:09,Application Crash,Critical,Hardware boundary breached
+Server-App3,2026-04-18 19:44:09,Memory Utilization High,Warning,Process starving for resources
+Server-App3,2026-04-18 19:44:09,Memory Utilization High,Warning,Process starving for resources
+Server-App3,2026-04-18 19:44:09,High Latency,Warning,Process starving for resources
+Router-3,2026-04-18 19:44:12,High Latency,Info,Routine telemetry scan
+Router-2,2026-04-18 19:44:15,Packet Loss,Info,Routine telemetry scan
+Router-2,2026-04-18 19:44:18,Packet Loss,Info,Routine telemetry scan
+Server-App1,2026-04-18 19:44:21,Memory Utilization High,Info,Routine telemetry scan
+Server-App3,2026-04-18 19:44:24,CPU High,Major,Hardware boundary breached
+Server-App3,2026-04-18 19:44:24,Database Disconnect,Minor,Process starving for resources
+Server-App3,2026-04-18 19:44:24,Memory Utilization High,Warning,Process starving for resources
+Server-App3,2026-04-18 19:44:24,Memory Utilization High,Warning,Process starving for resources
+Server-DB1,2026-04-18 19:44:27,Memory Utilization High,Info,Routine telemetry scan
+Router-1,2026-04-18 19:44:30,Packet Loss,Info,Routine telemetry scan
+Router-3,2026-04-18 19:44:33,High Latency,Info,Routine telemetry scan
+Router-1,2026-04-18 19:44:36,High Latency,Info,Routine telemetry scan
+Server-App2,2026-04-18 19:44:39,CPU High,Info,Routine telemetry scan
+Switch-1,2026-04-18 19:44:42,Port Flapping,Info,Routine telemetry scan
+Server-App2,2026-04-18 19:44:45,CPU High,Info,Routine telemetry scan
+Router-3,2026-04-18 19:44:48,High Latency,Info,Routine telemetry scan
+Router-2,2026-04-18 19:44:51,High Latency,Info,Routine telemetry scan
+Router-3,2026-04-18 19:44:54,BGP Down,Critical,Peer adjacency failed
+Router-3,2026-04-18 19:44:54,High Latency,Warning,Secondary network degradation
+Router-3,2026-04-18 19:44:54,Packet Loss,Minor,Secondary network degradation
+Switch-4,2026-04-18 19:44:57,Port Flapping,Info,Routine telemetry scan
+Server-App1,2026-04-18 19:45:00,Memory Utilization High,Info,Routine telemetry scan
+Switch-1,2026-04-18 19:45:03,Interface Down,Critical,Uplink trunk disconnected
+Switch-1,2026-04-18 19:45:03,Port Flapping,Warning,Link instability detected
+Switch-1,2026-04-18 19:45:03,Packet Loss,Minor,Link instability detected
+Switch-1,2026-04-18 19:45:03,Port Flapping,Warning,Link instability detected
+Router-1,2026-04-18 19:45:06,Packet Loss,Info,Routine telemetry scan
+Router-3,2026-04-18 19:45:09,High Latency,Info,Routine telemetry scan
+Switch-3,2026-04-18 19:45:12,Interface Down,Critical,Uplink trunk disconnected
+Switch-3,2026-04-18 19:45:12,Port Flapping,Warning,Link instability detected
+Switch-3,2026-04-18 19:45:12,Port Flapping,Warning,Link instability detected
+Server-App3,2026-04-18 19:45:15,Application Crash,Critical,Hardware boundary breached
+Server-App3,2026-04-18 19:45:15,Database Disconnect,Minor,Process starving for resources
+Server-App3,2026-04-18 19:45:15,Database Disconnect,Minor,Process starving for resources
+Server-App3,2026-04-18 19:45:15,High Latency,Warning,Process starving for resources
+Switch-4,2026-04-18 19:45:18,License Expiry,Warning,Routine telemetry scan
+Server-App3,2026-04-18 19:45:21,Memory Utilization High,Info,Routine telemetry scan
+Server-DB1,2026-04-18 19:45:24,CPU High,Info,Routine telemetry scan
+Router-2,2026-04-18 19:45:27,Packet Loss,Info,Routine telemetry scan
+Router-2,2026-04-18 19:45:30,Interface Down,Critical,Peer adjacency failed
+Router-2,2026-04-18 19:45:30,Packet Loss,Minor,Secondary network degradation
+Router-2,2026-04-18 19:45:30,Packet Loss,Minor,Secondary network degradation
+Router-2,2026-04-18 19:45:30,High Latency,Warning,Secondary network degradation
+Router-2,2026-04-18 19:45:30,Packet Loss,Minor,Secondary network degradation
+Router-2,2026-04-18 19:45:33,High Latency,Info,Routine telemetry scan
+Router-1,2026-04-18 19:45:36,High Latency,Info,Routine telemetry scan
+Switch-1,2026-04-18 19:45:39,Port Flapping,Info,Routine telemetry scan
+Switch-1,2026-04-18 19:45:42,Port Flapping,Info,Routine telemetry scan
+Switch-4,2026-04-18 19:45:45,License Expiry,Warning,Routine telemetry scan
+Switch-4,2026-04-18 19:45:48,Interface Down,Critical,Uplink trunk disconnected
+Switch-4,2026-04-18 19:45:48,Port Flapping,Warning,Link instability detected
+Switch-4,2026-04-18 19:45:48,Packet Loss,Minor,Link instability detected
+Router-2,2026-04-18 19:45:51,Interface Down,Critical,Peer adjacency failed
+Router-2,2026-04-18 19:45:51,Packet Loss,Minor,Secondary network degradation
+Router-2,2026-04-18 19:45:51,Packet Loss,Minor,Secondary network degradation
+Router-2,2026-04-18 19:45:51,High Latency,Warning,Secondary network degradation
+Router-1,2026-04-18 19:45:54,Packet Loss,Info,Routine telemetry scan
+Switch-4,2026-04-18 19:45:57,License Expiry,Warning,Routine telemetry scan
+Router-2,2026-04-18 19:46:00,High Latency,Info,Routine telemetry scan
+Switch-2,2026-04-18 19:46:03,License Expiry,Warning,Routine telemetry scan
+Switch-1,2026-04-18 19:46:06,Interface Down,Critical,Uplink trunk disconnected
+Switch-1,2026-04-18 19:46:06,Packet Loss,Minor,Link instability detected
+Switch-1,2026-04-18 19:46:06,Packet Loss,Minor,Link instability detected
+Switch-1,2026-04-18 19:46:06,Port Flapping,Warning,Link instability detected
+Router-3,2026-04-18 19:46:09,OSPF Down,Major,Peer adjacency failed
+Router-3,2026-04-18 19:46:09,High Latency,Warning,Secondary network degradation
+Router-3,2026-04-18 19:46:09,High Latency,Warning,Secondary network degradation
+Router-3,2026-04-18 19:46:09,High Latency,Warning,Secondary network degradation
+Router-3,2026-04-18 19:46:09,High Latency,Warning,Secondary network degradation
+Server-App3,2026-04-18 19:46:12,Memory Utilization High,Info,Routine telemetry scan
+Server-App1,2026-04-18 19:46:15,CPU High,Info,Routine telemetry scan
+Server-App2,2026-04-18 19:46:18,Disk Space Exhausted,Critical,Hardware boundary breached
+Server-App2,2026-04-18 19:46:18,Database Disconnect,Minor,Process starving for resources
+Server-App2,2026-04-18 19:46:18,Memory Utilization High,Warning,Process starving for resources
+Server-App2,2026-04-18 19:46:18,Memory Utilization High,Warning,Process starving for resources
+Router-1,2026-04-18 19:46:21,Packet Loss,Info,Routine telemetry scan
+Server-App1,2026-04-18 19:46:24,CPU High,Major,Hardware boundary breached
+Server-App1,2026-04-18 19:46:24,Memory Utilization High,Warning,Process starving for resources
+Server-App1,2026-04-18 19:46:24,Memory Utilization High,Warning,Process starving for resources
+Router-1,2026-04-18 19:46:27,Packet Loss,Info,Routine telemetry scan
+Switch-4,2026-04-18 19:46:30,Port Flapping,Info,Routine telemetry scan
+Router-3,2026-04-18 19:46:33,BGP Down,Critical,Peer adjacency failed
+Router-3,2026-04-18 19:46:33,High Latency,Warning,Secondary network degradation
+Router-3,2026-04-18 19:46:33,High Latency,Warning,Secondary network degradation
+Router-3,2026-04-18 19:46:33,High Latency,Warning,Secondary network degradation
+Router-3,2026-04-18 19:46:33,Packet Loss,Minor,Secondary network degradation
+Server-App1,2026-04-18 19:46:36,Memory Utilization High,Info,Routine telemetry scan
+Router-2,2026-04-18 19:46:39,Packet Loss,Info,Routine telemetry scan
+Server-DB1,2026-04-18 19:46:42,CPU High,Info,Routine telemetry scan
+Router-1,2026-04-18 19:46:45,OSPF Down,Major,Peer adjacency failed
+Router-1,2026-04-18 19:46:45,High Latency,Warning,Secondary network degradation
+Router-1,2026-04-18 19:46:45,High Latency,Warning,Secondary network degradation
+Router-1,2026-04-18 19:46:45,High Latency,Warning,Secondary network degradation
+Router-1,2026-04-18 19:46:45,Packet Loss,Minor,Secondary network degradation
+Router-1,2026-04-18 19:46:48,Packet Loss,Info,Routine telemetry scan
+Switch-4,2026-04-18 19:46:51,Port Flapping,Info,Routine telemetry scan
+Switch-2,2026-04-18 19:46:54,Port Flapping,Info,Routine telemetry scan
+Switch-1,2026-04-18 19:46:57,Port Flapping,Info,Routine telemetry scan
+Switch-2,2026-04-18 19:47:00,Port Flapping,Info,Routine telemetry scan
+Switch-4,2026-04-18 19:47:03,License Expiry,Warning,Routine telemetry scan
+Server-DB1,2026-04-18 19:47:06,CPU High,Info,Routine telemetry scan
+Router-2,2026-04-18 19:47:09,High Latency,Info,Routine telemetry scan
+Server-App1,2026-04-18 19:47:12,Disk Space Exhausted,Critical,Hardware boundary breached
+Server-App1,2026-04-18 19:47:12,Database Disconnect,Minor,Process starving for resources
+Server-App1,2026-04-18 19:47:12,Database Disconnect,Minor,Process starving for resources
+Server-App1,2026-04-18 19:47:12,Database Disconnect,Minor,Process starving for resources
+Server-App1,2026-04-18 19:47:12,Memory Utilization High,Warning,Process starving for resources
+Router-1,2026-04-18 19:47:15,OSPF Down,Major,Peer adjacency failed
+Router-1,2026-04-18 19:47:15,Packet Loss,Minor,Secondary network degradation
+Router-1,2026-04-18 19:47:15,Packet Loss,Minor,Secondary network degradation
+Router-1,2026-04-18 19:47:15,High Latency,Warning,Secondary network degradation
+Router-1,2026-04-18 19:47:15,Packet Loss,Minor,Secondary network degradation
+Switch-4,2026-04-18 19:47:18,Port Flapping,Info,Routine telemetry scan
+Server-App3,2026-04-18 19:47:21,CPU High,Major,Hardware boundary breached
+Server-App3,2026-04-18 19:47:21,Database Disconnect,Minor,Process starving for resources
+Server-App3,2026-04-18 19:47:21,High Latency,Warning,Process starving for resources
