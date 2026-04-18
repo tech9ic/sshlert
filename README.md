@@ -1,15 +1,15 @@
 <div align="center">
 
 ```text
-  _   _                       _    _               _   
- | \ | | _____  __   _  ___  | |  / \   ___  _ __ | |_ 
- |  \| |/ _ \ \/ /  / |/ _ \ | | / _ \ / _ \| '_ \| __|
- | |\  |  __/>  <   | |  __/ | |/ ___ \ (_) | |_) | |_ 
- |_| \_|\___/_/\_\  |_|\___| |_/_/   \_\___/| .__/ \__|
-                                            |_|        
+░██████╗██╗░░██╗██╗░░██╗██╗░░░░░███████╗██████╗░████████╗
+██╔════╝██║░░██║██║░░██║██║░░░░░██╔════╝██╔══██╗╚══██╔══╝
+╚█████╗░███████║███████║██║░░░░░█████╗░░██████╔╝░░░██║░░░
+░╚═══██╗██╔══██║██╔══██║██║░░░░░██╔══╝░░██╔══██╗░░░██║░░░
+██████╔╝██║░░██║██║░░██║███████╗███████╗██║░░██║░░░██║░░░
+╚═════╝░╚═╝░░╚═╝╚═╝░░╚═╝╚══════╝╚══════╝╚═╝░░╚═╝░░░╚═╝░░░    
 ```
 
-**AI-Driven Network Alert Correlation & Noise Reduction POC**
+**Alert Correlation & Noise Reduction for Network Operations**
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -26,44 +26,96 @@
 <!-- ![Dashboard UI](path/to/image.png)             -->
 <!-- ============================================== -->
 
-## Overview
-This Proof of Concept (POC) is a lightweight, high-performance Network Operations Center (NOC) dashboard engine. It aggressively reduces "Network Noise" by processing thousands of raw incoming syslogs and leveraging pure Python logic to deduplicate, correlate, and isolate the true underlying root cause.
+---
 
-## Core Features
-1. **Deduplication Engine**: Employs a sliding time-window to silence rapidly repeating hardware events.
-2. **Alert Correlation**: Ties disparate error strings (e.g., `OSPF Down` & `High Latency`) originating from the same node into a singular, condensed `Incident`.
-3. **Root Cause Analysis (RCA)**: Utilizes a custom weighted configuration framework to mathematically prioritize critical hardware failures over secondary symptoms.
-4. **Live Traffic Generation**: Includes an isolated `simulator.py` engine generating authentic enterprise log dialects (Cisco IOS / Junos) asynchronously.
-5. **Interactive Dashboard**: A glassmorphism dark-mode UI with local JavaScript state trackers mapping the "Acknowledge" and "Resolve" lifecycle without demanding a SQL database.
+## Overview
+
+Shhlert is a Proof of Concept (POC) Network Operations Center (NOC) dashboard engine. It aggressively reduces **network noise** by ingesting thousands of raw syslogs and applying pure Python logic to deduplicate, correlate, and surface the true underlying root cause of every incident.
 
 ---
 
-## How to Run Locally
+## Core Features
 
-### 1. Pre-requisites & Setup
-The central database file for the engine has been explicitly removed from `.gitignore` to prevent pushing massive amounts of raw log data to GitHub. 
+| Feature | Description |
+|---|---|
+| 🔕 **Deduplication Engine** | Sliding time-window silences rapidly repeating hardware events |
+| 🔗 **Alert Correlation** | Ties disparate errors (e.g. `OSPF Down` + `High Latency`) from the same node into a single condensed `Incident` |
+| 🎯 **Root Cause Analysis** | Weighted configuration framework mathematically prioritizes critical hardware failures over secondary symptoms |
+| 📡 **Live Traffic Generation** | `simulator.py` asynchronously generates authentic Cisco IOS / Junos enterprise log dialects |
+| 🖥️ **Interactive Dashboard** | Glassmorphism dark-mode UI with JS state trackers handling the full `Acknowledge → Resolve` alert lifecycle — no SQL required |
 
-**You MUST create the blank destination file before running the script:**
-Create an empty file exactly at: `data/alerts.csv`
+---
 
-### 2. Environment Setup
-Install the minimal backend requirements (Flask) via your terminal using your preferred python virtual environment:
+## Getting Started
+
+### Prerequisites
+
+> **Important:** The `data/alerts.csv` file is excluded from `.gitignore` to prevent large log dumps from being committed. You must create it manually before running anything.
+
+```bash
+mkdir -p data && touch data/alerts.csv
+```
+
+### 1. Install Dependencies
+
+Set up a Python virtual environment, then install the minimal backend requirements:
+
 ```bash
 pip install -r requirements.txt
 ```
 
-### 3. Launching the Simulator & API
-The system requires executing the generation and processing engines in two completely separate terminals to simulate an asynchronous network environment.
+### 2. Start the Backend API
 
-**Terminal 1:** Boot up the processing server API.
+In **Terminal 1**, launch the processing server:
+
 ```bash
 python backend/app.py
 ```
 
-**Terminal 2:** Boot up the network traffic simulator to begin dumping logs into your newly created `.csv` file.
+### 3. Start the Traffic Simulator
+
+In **Terminal 2**, start generating synthetic network logs:
+
 ```bash
 python simulator.py
 ```
 
-### 4. Open the Interface
-Using your native desktop directory, double-click `frontend/index.html` to open it in any modern browser. The frontend Dashboard relies entirely on native browser API's pulling from `localhost:5000` via Javascript every 5 seconds, so no NPM dependencies or Node.js required!
+> The simulator and API run in separate terminals to replicate a true asynchronous network environment.
+
+### 4. Open the Dashboard
+
+Open `frontend/index.html` directly in any modern browser — no Node.js or npm required. The frontend polls `localhost:5000` every **5 seconds** using native browser APIs.
+
+---
+
+## Architecture
+
+```
+simulator.py          →     data/alerts.csv     →     backend/app.py     →     frontend/index.html
+(Log Generation)            (Shared Datastore)        (Correlation API)         (Dashboard UI)
+```
+
+---
+
+## Tech Stack
+
+- **Frontend** — Vanilla HTML5, CSS3 (glassmorphism dark-mode), JavaScript
+- **Backend** — Python 3 + Flask REST API
+- **Data** — Flat-file CSV (no database dependency)
+- **Log Dialects** — Cisco IOS, Juniper Junos
+
+---
+
+## Dashboard
+
+<div align="center">
+
+![SSHlert Dashboard](path/to/your/screenshot.png)
+
+</div>
+
+---
+
+<div align="center">
+  <sub>Built as a POC · No warranties expressed or implied</sub>
+</div>
