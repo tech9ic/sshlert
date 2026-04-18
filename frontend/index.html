@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -9,6 +10,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="style.css">
 </head>
+
 <body>
     <div class="background-effects">
         <div class="glow-orb orb-1"></div>
@@ -19,7 +21,7 @@
         <header class="glass-panel">
             <div class="header-content">
                 <h1>Shhlert<span class="dot">.</span></h1>
-                <p>AI-Driven Alert Correlation & Noise Reduction</p>
+                <p>Alert Correlation and Noise Reduction for Network Operations</p>
             </div>
             <div class="sync-status">
                 <span class="pulse-ring"></span>
@@ -56,8 +58,20 @@
                 <div class="table-header-control">
                     <h2>Active Incidents</h2>
                     <div class="controls-wrapper">
+                        <div class="toggle-container">
+                            <label class="toggle-switch">
+                                <input type="checkbox" id="hide-resolved-toggle">
+                                <span class="slider"></span>
+                            </label>
+                            <span>Hide Resolved</span>
+                        </div>
                         <div class="search-box">
-                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
+                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24"
+                                fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                stroke-linejoin="round">
+                                <circle cx="11" cy="11" r="8"></circle>
+                                <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+                            </svg>
                             <input type="text" id="search-input" placeholder="Search devices, causes...">
                         </div>
                         <div class="filter-bar">
@@ -78,7 +92,7 @@
                         </div>
                     </div>
                 </div>
-                
+
                 <div class="table-wrapper">
                     <table id="incidents-table">
                         <thead>
@@ -90,6 +104,7 @@
                                 <th data-sort="severity">Severity <span class="sort-icon">↕</span></th>
                                 <th data-sort="root_cause">Root Cause <span class="sort-icon">↕</span></th>
                                 <th data-sort="duration">Duration <span class="sort-icon">↕</span></th>
+                                <th>Management Panel</th>
                             </tr>
                         </thead>
                         <tbody id="table-body">
@@ -103,4 +118,5 @@
 
     <script src="script.js"></script>
 </body>
+
 </html>
