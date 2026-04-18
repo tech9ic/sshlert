@@ -112,12 +112,16 @@ simulator.py          →     data/alerts.csv     →     backend/app.py     →
 
 <div align="center">
 
-![SSHlert Dashboard](path/to/your/screenshot.png)
-
+![SSHlert Dashboard](assets/db_img.png)
+<div align="center">
+  Because your network deserves better than 3am pages for the same flap — twice
+</div>
 </div>
 
 ---
 
-<div align="center">
-  <sub>Built as a POC · No warranties expressed or implied</sub>
+  <div align="center">
+
+Built with ❤️ by tech9ic
+
 </div>
