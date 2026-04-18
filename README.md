@@ -100,11 +100,13 @@ simulator.py          →     data/alerts.csv     →     backend/app.py     →
 ---
 
 ## Tech Stack
-
-- **Frontend** — Vanilla HTML5, CSS3 (glassmorphism dark-mode), JavaScript
-- **Backend** — Python 3 + Flask REST API
-- **Data** — Flat-file CSV (no database dependency)
-- **Log Dialects** — Cisco IOS, Juniper Junos
+ 
+| Layer | Technology | Notes |
+|:---|:---|:---|
+| 🖥️ Frontend | HTML5, CSS3, JavaScript | Glassmorphism dark-mode UI, no frameworks |
+| ⚙️ Backend | Python 3, Flask | Lightweight REST API |
+| 🗄️ Data | Flat-file CSV | Zero database dependency |
+| 📟 Log Dialects | Cisco IOS, Juniper Junos | Authentic enterprise syslog formats |
 
 ---
 
