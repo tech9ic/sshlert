@@ -1,346 +1,69 @@
-# 🚀 Alert Correlation and Noise Reduction (POC)
+<div align="center">
 
-## 📌 Overview
-
-This project is a **Proof of Concept (POC)** designed to demonstrate how raw network alerts can be **correlated into meaningful incidents**, reducing alert noise and improving operational efficiency.
-
-Instead of handling hundreds of individual alerts, this system groups related alerts into **incidents**, making it easier for network operations teams to identify and act on issues.
-
----
-
-## 🎯 Objective
-
-The goal of this POC is to:
-
-* Reduce alert noise using correlation logic
-* Group alerts into incidents
-* Provide simple root cause estimation
-* Improve operational visibility
-* Demonstrate backend-driven processing with a minimal UI
-
----
-
-## 🧠 Problem Statement
-
-In network operations environments:
-
-* A single issue can generate multiple alerts
-* Alerts are often redundant or related
-* Engineers face **alert fatigue**
-* Root cause identification becomes difficult
-
-This POC solves that by introducing a **correlation engine**.
-
----
-
-## 🏗️ System Architecture
-
-```
-Input (CSV Alerts)
-        ↓
-Normalization Layer
-        ↓
-Deduplication Layer
-        ↓
-Correlation Engine
-        ↓
-Incident Builder
-        ↓
-Output (JSON + UI)
+```text
+  _   _                       _    _               _   
+ | \ | | _____  __   _  ___  | |  / \   ___  _ __ | |_ 
+ |  \| |/ _ \ \/ /  / |/ _ \ | | / _ \ / _ \| '_ \| __|
+ | |\  |  __/>  <   | |  __/ | |/ ___ \ (_) | |_) | |_ 
+ |_| \_|\___/_/\_\  |_|\___| |_/_/   \_\___/| .__/ \__|
+                                            |_|        
 ```
 
----
+**AI-Driven Network Alert Correlation & Noise Reduction POC**
 
-## 📁 Project Structure
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
-```
-alert-correlation-poc/
-│
-├── data/
-│   └── alerts.csv
-│
-├── backend/
-│   ├── app.py
-│   ├── config.py
-│   │
-│   ├── models/
-│   │   └── incident.py
-│   │
-│   ├── services/
-│   │   ├── normalization.py
-│   │   ├── correlation.py
-│   │   ├── deduplication.py
-│   │   └── root_cause.py
-│   │
-│   ├── output/
-│   │   └── generator.py
-│
-├── frontend/
-│   ├── index.html
-│   ├── style.css
-│   └── script.js
-│
-├── requirements.txt
-└── README.md
-```
+</div>
+
+<br/>
+
+<!-- ============================================== -->
+<!-- 📷 ADD YOUR DASHBOARD SCREENSHOT RIGHT HERE    -->
+<!-- ![Dashboard UI](path/to/image.png)             -->
+<!-- ============================================== -->
+
+## Overview
+This Proof of Concept (POC) is a lightweight, high-performance Network Operations Center (NOC) dashboard engine. It aggressively reduces "Network Noise" by processing thousands of raw incoming syslogs and leveraging pure Python logic to deduplicate, correlate, and isolate the true underlying root cause.
+
+## Core Features
+1. **Deduplication Engine**: Employs a sliding time-window to silence rapidly repeating hardware events.
+2. **Alert Correlation**: Ties disparate error strings (e.g., `OSPF Down` & `High Latency`) originating from the same node into a singular, condensed `Incident`.
+3. **Root Cause Analysis (RCA)**: Utilizes a custom weighted configuration framework to mathematically prioritize critical hardware failures over secondary symptoms.
+4. **Live Traffic Generation**: Includes an isolated `simulator.py` engine generating authentic enterprise log dialects (Cisco IOS / Junos) asynchronously.
+5. **Interactive Dashboard**: A glassmorphism dark-mode UI with local JavaScript state trackers mapping the "Acknowledge" and "Resolve" lifecycle without demanding a SQL database.
 
 ---
 
-## 📥 Input Data Format
+## How to Run Locally
 
-The system reads alerts from a CSV file.
+### 1. Pre-requisites & Setup
+The central database file for the engine has been explicitly removed from `.gitignore` to prevent pushing massive amounts of raw log data to GitHub. 
 
-### Example (`alerts.csv`)
+**You MUST create the blank destination file before running the script:**
+Create an empty file exactly at: `data/alerts.csv`
 
-```
-timestamp,device_id,alert_type,severity,message
-2026-04-08 10:01:00,Router-1,Interface Down,Critical,Gi0/1 down
-2026-04-08 10:02:00,Router-1,BGP Down,Major,BGP session lost
-2026-04-08 10:03:30,Router-1,Packet Loss,Major,High packet loss
-2026-04-08 10:10:00,Switch-5,CPU High,Warning,CPU > 80%
-```
-
----
-
-## ⚙️ Core Logic
-
-### 1. Normalization
-
-* Convert timestamps to datetime
-* Standardize severity levels
-* Clean data
-
----
-
-### 2. Deduplication
-
-* Remove duplicate alerts
-* Rule:
-
-  * Same device + same alert type + within short interval → ignore
-
----
-
-### 3. Correlation Engine
-
-Alerts are grouped into incidents based on:
-
-* Same `device_id`
-* Within a configurable time window (default: 5 minutes)
-* Same alert category
-
----
-
-### 4. Alert Categorization
-
-Used to prevent incorrect grouping:
-
-| Alert Type     | Category |
-| -------------- | -------- |
-| Interface Down | Network  |
-| Packet Loss    | Network  |
-| BGP Down       | Routing  |
-| CPU High       | System   |
-
----
-
-### 5. Incident Construction
-
-Each incident contains:
-
-* Incident ID
-* Device
-* Start Time
-* End Time
-* Alerts grouped
-* Severity (max severity)
-* Root cause (heuristic)
-* Status (Open / Closed)
-* Duration
-
----
-
-### 6. Root Cause Heuristic
-
-* Earliest alert OR
-* Highest severity alert
-
----
-
-### 7. Status Logic
-
-* If no new alerts after time window → Closed
-* Else → Open
-
----
-
-## 📤 Output Format (JSON)
-
-```
-{
-  "total_alerts": 120,
-  "total_incidents": 7,
-  "reduction": "94%",
-  "incidents": [
-    {
-      "incident_id": "INC-001",
-      "device": "Router-1",
-      "start_time": "10:01",
-      "alerts_count": 4,
-      "severity": "Critical",
-      "root_cause": "Interface Down",
-      "status": "Closed",
-      "duration": "2 min"
-    }
-  ]
-}
-```
-
----
-
-## 🌐 API Design
-
-### Endpoint
-
-```
-GET /process-alerts
-```
-
-### Description
-
-* Reads alert data
-* Runs full pipeline
-* Returns processed incidents
-
----
-
-## 🖥️ Frontend (Minimal UI)
-
-The frontend is intentionally simple and serves only as a **visualization layer**.
-
-### Features
-
-* Displays:
-
-  * Total Alerts
-  * Total Incidents
-  * Noise Reduction %
-* Shows incident table
-* No real-time updates
-* No complex UI
-
----
-
-### UI Structure
-
-```
-Header
-Metrics Section
-Incident Table
-Footer (Last Updated)
-```
-
----
-
-### Table Columns
-
-* Incident ID
-* Device
-* Start Time
-* Alerts Grouped
-* Severity
-* Root Cause
-* Status
-* Duration
-
----
-
-## 📊 Evaluation Metrics
-
-* Alert Reduction %
-* Alerts → Incidents ratio
-* Avg alerts per incident
-* Incident duration
-
----
-
-## ⚠️ Risk Handling
-
-This POC addresses key risks:
-
-* Prevents false grouping using categories
-* Uses configurable time window
-* Removes duplicate alerts
-* Provides basic root cause estimation
-
----
-
-## ⚠️ Limitations
-
-* No topology awareness
-* No machine learning
-* Not real-time
-* Uses simplified logic
-
----
-
-## 🚀 Future Enhancements
-
-* Real-time processing
-* ML-based correlation
-* Topology-aware grouping
-* Integration with monitoring tools
-
----
-
-## 🛠️ Tech Stack
-
-* Python
-* Pandas
-* Flask
-* HTML / CSS / JS
-
----
-
-## ▶️ How to Run
-
-### 1. Install dependencies
-
-```
+### 2. Environment Setup
+Install the minimal backend requirements (Flask) via your terminal using your preferred python virtual environment:
+```bash
 pip install -r requirements.txt
 ```
 
-### 2. Run backend
+### 3. Launching the Simulator & API
+The system requires executing the generation and processing engines in two completely separate terminals to simulate an asynchronous network environment.
 
-```
+**Terminal 1:** Boot up the processing server API.
+```bash
 python backend/app.py
 ```
 
-### 3. Open frontend
-
-Open:
-
-```
-frontend/index.html
+**Terminal 2:** Boot up the network traffic simulator to begin dumping logs into your newly created `.csv` file.
+```bash
+python simulator.py
 ```
 
----
-
-## 🧠 Key Design Principles
-
-* Simplicity over complexity
-* Explainable logic
-* Backend-focused system
-* Minimal UI
-
----
-
-## 🎤 One-Line Summary
-
-> This project demonstrates how network alert correlation can reduce noise by grouping related alerts into actionable incidents using simple, explainable logic.
-
----
-
-## ✅ Version
-
-**v1.0.0 — Initial POC Implementation**
+### 4. Open the Interface
+Using your native desktop directory, double-click `frontend/index.html` to open it in any modern browser. The frontend Dashboard relies entirely on native browser API's pulling from `localhost:5000` via Javascript every 5 seconds, so no NPM dependencies or Node.js required!
